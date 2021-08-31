@@ -1,0 +1,1008 @@
+Traceback (most recent call last):
+  File "classifier/preprocess/preprocess.py", line 4, in <module>
+    from bag_of_words import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\preprocess\bag_of_words.py", line 2, in <module>
+    from sklearn.feature_extraction.text import CountVectorizer
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/preprocess/preprocess.py", line 4, in <module>
+    from bag_of_words import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\preprocess\bag_of_words.py", line 2, in <module>
+    from sklearn.feature_extraction.text import CountVectorizer
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/preprocess/preprocess.py", line 4, in <module>
+    from bag_of_words import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\preprocess\bag_of_words.py", line 2, in <module>
+    from sklearn.feature_extraction.text import CountVectorizer
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/preprocess/preprocess.py", line 4, in <module>
+    from bag_of_words import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\preprocess\bag_of_words.py", line 2, in <module>
+    from sklearn.feature_extraction.text import CountVectorizer
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/preprocess/preprocess.py", line 4, in <module>
+    from bag_of_words import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\preprocess\bag_of_words.py", line 2, in <module>
+    from sklearn.feature_extraction.text import CountVectorizer
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/preprocess/preprocess.py", line 4, in <module>
+    from bag_of_words import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\preprocess\bag_of_words.py", line 2, in <module>
+    from sklearn.feature_extraction.text import CountVectorizer
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。
+Traceback (most recent call last):
+  File "classifier/learn/learner.py", line 4, in <module>
+    from algorithm import *
+  File "D:\课件\2021软件工程专业实训\APTAttribution-master\code\classifier\learn\algorithm.py", line 2, in <module>
+    from sklearn.ensemble import RandomForestClassifier
+  File "D:\Anaconda\lib\site-packages\sklearn\__init__.py", line 76, in <module>
+    from .base import clone
+  File "D:\Anaconda\lib\site-packages\sklearn\base.py", line 16, in <module>
+    from .utils import _IS_32BIT
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\__init__.py", line 20, in <module>
+    from .validation import (as_float_array,
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\validation.py", line 21, in <module>
+    from .fixes import _object_dtype_isnan
+  File "D:\Anaconda\lib\site-packages\sklearn\utils\fixes.py", line 18, in <module>
+    from scipy.sparse.linalg import lsqr as sparse_lsqr  # noqa
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\__init__.py", line 117, in <module>
+    from .eigen import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\__init__.py", line 11, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\__init__.py", line 22, in <module>
+    from .arpack import *
+  File "D:\Anaconda\lib\site-packages\scipy\sparse\linalg\eigen\arpack\arpack.py", line 45, in <module>
+    from . import _arpack
+ImportError: DLL load failed: 找不到指定的程序。

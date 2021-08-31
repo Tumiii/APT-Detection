@@ -1,0 +1,134 @@
+Learning on CuckooExtractedSelector
+Learning on APTGrouper
+Preprocessing CuckooExtractedSelector APTGrouper
+
+
+NeuralNetwork CuckooExtractedSelector APTGrouper (Normal)
+
+
+NeuralNetwork CuckooExtractedSelector APTGrouper (Undersampled)
+
+
+NeuralNetwork CuckooExtractedSelector APTGrouper (Oversampled)
+
+
+RandomForest CuckooExtractedSelector APTGrouper (Normal)
+
+
+RandomForest CuckooExtractedSelector APTGrouper (Undersampled)
+
+
+RandomForest CuckooExtractedSelector APTGrouper (Oversampled)
+
+
+Learning on CountryGrouper
+Preprocessing CuckooExtractedSelector CountryGrouper
+
+
+NeuralNetwork CuckooExtractedSelector CountryGrouper (Normal)
+
+
+NeuralNetwork CuckooExtractedSelector CountryGrouper (Undersampled)
+
+
+NeuralNetwork CuckooExtractedSelector CountryGrouper (Oversampled)
+
+
+RandomForest CuckooExtractedSelector CountryGrouper (Normal)
+
+
+RandomForest CuckooExtractedSelector CountryGrouper (Undersampled)
+
+
+RandomForest CuckooExtractedSelector CountryGrouper (Oversampled)
+
+
+Learning on CountrySeparatedGroupAndFamiliesGrouper
+Preprocessing CuckooExtractedSelector CountrySeparatedGroupAndFamiliesGrouper
+
+
+NeuralNetwork CuckooExtractedSelector CountrySeparatedGroupAndFamiliesGrouper (Normal)
+
+
+NeuralNetwork CuckooExtractedSelector CountrySeparatedGroupAndFamiliesGrouper (Undersampled)
+
+
+NeuralNetwork CuckooExtractedSelector CountrySeparatedGroupAndFamiliesGrouper (Oversampled)
+
+
+RandomForest CuckooExtractedSelector CountrySeparatedGroupAndFamiliesGrouper (Normal)
+
+
+RandomForest CuckooExtractedSelector CountrySeparatedGroupAndFamiliesGrouper (Undersampled)
+
+
+RandomForest CuckooExtractedSelector CountrySeparatedGroupAndFamiliesGrouper (Oversampled)
+
+
+Learning on CuckooFilteredSelector
+Learning on APTGrouper
+Preprocessing CuckooFilteredSelector APTGrouper
+
+
+NeuralNetwork CuckooFilteredSelector APTGrouper (Normal)
+
+
+NeuralNetwork CuckooFilteredSelector APTGrouper (Undersampled)
+
+
+NeuralNetwork CuckooFilteredSelector APTGrouper (Oversampled)
+
+
+RandomForest CuckooFilteredSelector APTGrouper (Normal)
+
+
+RandomForest CuckooFilteredSelector APTGrouper (Undersampled)
+
+
+RandomForest CuckooFilteredSelector APTGrouper (Oversampled)
+
+
+Learning on CountryGrouper
+Preprocessing CuckooFilteredSelector CountryGrouper
+
+
+NeuralNetwork CuckooFilteredSelector CountryGrouper (Normal)
+
+
+NeuralNetwork CuckooFilteredSelector CountryGrouper (Undersampled)
+
+
+NeuralNetwork CuckooFilteredSelector CountryGrouper (Oversampled)
+
+
+RandomForest CuckooFilteredSelector CountryGrouper (Normal)
+
+
+RandomForest CuckooFilteredSelector CountryGrouper (Undersampled)
+
+
+RandomForest CuckooFilteredSelector CountryGrouper (Oversampled)
+
+
+Learning on CountrySeparatedGroupAndFamiliesGrouper
+Preprocessing CuckooFilteredSelector CountrySeparatedGroupAndFamiliesGrouper
+
+
+NeuralNetwork CuckooFilteredSelector CountrySeparatedGroupAndFamiliesGrouper (Normal)
+
+
+NeuralNetwork CuckooFilteredSelector CountrySeparatedGroupAndFamiliesGrouper (Undersampled)
+
+
+NeuralNetwork CuckooFilteredSelector CountrySeparatedGroupAndFamiliesGrouper (Oversampled)
+
+
+RandomForest CuckooFilteredSelector CountrySeparatedGroupAndFamiliesGrouper (Normal)
+
+
+RandomForest CuckooFilteredSelector CountrySeparatedGroupAndFamiliesGrouper (Undersampled)
+
+
+RandomForest CuckooFilteredSelector CountrySeparatedGroupAndFamiliesGrouper (Oversampled)
+
+
