@@ -1,0 +1,342 @@
+{}
+{
+  "process_identifier": 2396,
+  "region_size": 1179648,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 8192,
+  "base_address": "0x00650000"
+}
+{
+  "free_type": 32768,
+  "process_identifier": 2396,
+  "process_handle": "0xffffffff",
+  "base_address": "0x00650000",
+  "size": 1114112
+}
+{
+  "process_identifier": 2396,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00760000"
+}
+{
+  "module_name": "KERNEL32.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x77490000"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e418d",
+  "function_name": "FlsAlloc"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1e16",
+  "function_name": "FlsGetValue"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e76e6",
+  "function_name": "FlsSetValue"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1f61",
+  "function_name": "FlsFree"
+}
+{
+  "module_name": "KERNEL32.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x77490000"
+}
+{
+  "process_identifier": 2396,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00761000"
+}
+{
+  "process_identifier": 2396,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00762000"
+}
+{}
+{
+  "mode": 32775
+}
+{
+  "handle": "0x00000074"
+}
+{
+  "basename": "rpcrt4",
+  "module_address": "0x75ca0000",
+  "flags": 0,
+  "module_name": "rpcrt4.dll",
+  "stack_pivoted": 0
+}
+{
+  "information_class": 0
+}
+{
+  "access": "0x00020019",
+  "base_handle": "0x80000002",
+  "key_handle": "0x00000074",
+  "regkey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Rpc",
+  "regkey_r": "Software\\Microsoft\\Rpc",
+  "options": 0
+}
+{
+  "key_handle": "0x00000074",
+  "value": "",
+  "regkey_r": "MaxRpcSize",
+  "reg_type": 0,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Rpc\\MaxRpcSize"
+}
+{
+  "key_handle": "0x00000074"
+}
+{
+  "key_handle": "0x00000080",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\ComputerName\\ActiveComputerName"
+}
+{
+  "key_handle": "0x00000080",
+  "key_name": "ComputerName",
+  "value": "FAKER-PC",
+  "reg_type": 1,
+  "information_class": 1,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\ComputerName\\ActiveComputerName\\ComputerName"
+}
+{
+  "handle": "0x00000080"
+}
+{
+  "key_handle": "0x00000080",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\System\\Setup"
+}
+{
+  "key_handle": "0x00000080",
+  "key_name": "OOBEInProgress",
+  "value": 0,
+  "reg_type": 4,
+  "information_class": 1,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\Setup\\OOBEInProgress"
+}
+{
+  "handle": "0x00000080"
+}
+{
+  "key_handle": "0x00000080",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\System\\Setup"
+}
+{
+  "key_handle": "0x00000080",
+  "key_name": "SystemSetupInProgress",
+  "value": 0,
+  "reg_type": 4,
+  "information_class": 1,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\Setup\\SystemSetupInProgress"
+}
+{
+  "handle": "0x00000080"
+}
+{
+  "access": "0x00020019",
+  "base_handle": "0x80000002",
+  "key_handle": "0x00000000",
+  "regkey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows NT\\Rpc",
+  "regkey_r": "Software\\Policies\\Microsoft\\Windows NT\\Rpc",
+  "options": 0
+}
+{}
+{
+  "key_handle": "0x00000000",
+  "desired_access": "0x00020119",
+  "regkey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\SQMClient\\Windows"
+}
+{
+  "key_handle": "0x00000080",
+  "desired_access": "0x00020119",
+  "regkey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\SQMClient\\Windows"
+}
+{
+  "key_handle": "0x00000080",
+  "key_name": "",
+  "value": "",
+  "reg_type": 0,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\SQMClient\\Windows\\CEIPEnable"
+}
+{
+  "handle": "0x00000080"
+}
+{
+  "handle_attributes": 0,
+  "source_process_identifier": 2396,
+  "source_handle": "0xfffffffe",
+  "target_process_identifier": 2396,
+  "desired_access": "0x00000000",
+  "target_process_handle": "0xffffffff",
+  "target_handle": "0x0000008c",
+  "source_process_handle": "0xffffffff",
+  "options": 2
+}
+{}
+{
+  "thread_name": "0x002cf750",
+  "stack_zero_bits": 0,
+  "thread_handle": "0x000000a8",
+  "process_identifier": 2396,
+  "parameter": "0x003907d0",
+  "access": "0x001fffff",
+  "function_address": "0x775afd0f",
+  "suspended": 3,
+  "process_handle": "0xffffffff"
+}
+{
+  "handle_attributes": 0,
+  "source_process_identifier": 2396,
+  "source_handle": "0x000000a8",
+  "target_process_identifier": 2396,
+  "desired_access": "0x00000000",
+  "target_process_handle": "0xffffffff",
+  "target_handle": "0x000000ac",
+  "source_process_handle": "0xffffffff",
+  "options": 6
+}
+{
+  "thread_handle": "0x000000a8",
+  "suspend_count": 1,
+  "process_identifier": 2396
+}
+{
+  "process_identifier": 2396,
+  "region_size": 524288,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 8192,
+  "base_address": "0x00650000"
+}
+{
+  "process_identifier": 2396,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00650000"
+}
+{
+  "computer_name": "FAKER-PC"
+}
+{
+  "computer_name": "FAKER-PC"
+}
+{
+  "module_name": "mscoree.dll",
+  "stack_pivoted": 0,
+  "module_address": "0x00000000"
+}
+{
+  "module_name": "mscoree.dll",
+  "stack_pivoted": 0,
+  "module_address": "0x00000000"
+}
+{
+  "status_code": "0x00000001",
+  "process_identifier": 0,
+  "process_handle": "0x00000000"
+}
+{
+  "status_code": "0x00000001",
+  "process_identifier": 0,
+  "process_handle": "0x00000000"
+}
+{
+  "handle": "0x00000018"
+}
+{
+  "handle": "0x00000000"
+}
+{
+  "handle": "0x00000000"
+}
+{
+  "handle": "0x00000000"
+}
+{
+  "handle": "0x00000044"
+}
+{
+  "handle": "0x0000003c"
+}
+{
+  "handle": "0x00000038"
+}
+{
+  "handle": "0x00000030"
+}
+{
+  "handle": "0x00000080"
+}
+{
+  "library": "IMM32",
+  "module_address": "0x77270000"
+}
+{
+  "key_handle": "0x00000080",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize"
+}
+{
+  "key_handle": "0x00000080",
+  "key_name": "",
+  "value": "",
+  "reg_type": 0,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize\\DisableMetaFiles"
+}
+{
+  "handle": "0x00000080"
+}
+{
+  "status_code": "0x00000001",
+  "process_identifier": 2396,
+  "process_handle": "0xffffffff"
+}

@@ -1,0 +1,2476 @@
+{}
+{
+  "module_name": "kernel32.dll",
+  "stack_pivoted": 0,
+  "module_address": "0x77490000"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e418d",
+  "function_name": "FlsAlloc"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1f61",
+  "function_name": "FlsFree"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1e16",
+  "function_name": "FlsGetValue"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e76e6",
+  "function_name": "FlsSetValue"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e3879",
+  "function_name": "InitializeCriticalSectionEx"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774924d8",
+  "function_name": "CreateEventExW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c2111",
+  "function_name": "CreateSemaphoreExW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d2510",
+  "function_name": "SetThreadStackGuarantee"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774cb009",
+  "function_name": "CreateThreadpoolTimer"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x775a89be",
+  "function_name": "SetThreadpoolTimer"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7759c02a",
+  "function_name": "WaitForThreadpoolTimerCallbacks"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7759c0d2",
+  "function_name": "CloseThreadpoolTimer"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c3f78",
+  "function_name": "CreateThreadpoolWait"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x775a8bfb",
+  "function_name": "SetThreadpoolWait"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7759b567",
+  "function_name": "CloseThreadpoolWait"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x775c5998",
+  "function_name": "FlushProcessWriteBuffers"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x77592251",
+  "function_name": "FreeLibraryWhenCallbackReturns"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x775928f6",
+  "function_name": "GetCurrentProcessorNumber"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c2004",
+  "function_name": "GetLogicalProcessorInformation"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x77519aa9",
+  "function_name": "CreateSymbolicLinkW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x01020414",
+  "function_name": "SetDefaultDllDirectories"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7751f3cf",
+  "function_name": "EnumSystemLocalesEx"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774eebc6",
+  "function_name": "CompareStringEx"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7752f29f",
+  "function_name": "GetDateFormatEx"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c53a5",
+  "function_name": "GetLocaleInfoEx"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7752f21a",
+  "function_name": "GetTimeFormatEx"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7751f70b",
+  "function_name": "GetUserDefaultLocaleName"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7751f71b",
+  "function_name": "IsValidLocaleName"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7751f72b",
+  "function_name": "LCMapStringEx"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x010204c4",
+  "function_name": "GetCurrentPackageId"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774ceb4e",
+  "function_name": "GetTickCount64"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x010204e8",
+  "function_name": "GetFileInformationByHandleExW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x01020508",
+  "function_name": "SetFileInformationByHandleW"
+}
+{}
+{
+  "module_handle": "0x01010000",
+  "id": 103,
+  "string": "WinSys32BinCheck"
+}
+{
+  "module_handle": "0x01010000",
+  "id": 109,
+  "string": "WINSYS32BINCHECK"
+}
+{
+  "name": "#14",
+  "type": "#129",
+  "module_handle": "0x01010000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x01010000",
+  "resource_handle": "0x010472d8",
+  "pointer": "0x01057388"
+}
+{
+  "name": "#3",
+  "type": "#1",
+  "module_handle": "0x01010000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x01010000",
+  "resource_handle": "0x01046d58",
+  "pointer": "0x0104ab60"
+}
+{
+  "process_identifier": 2464,
+  "region_size": 2031616,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 8192,
+  "base_address": "0x005d0000"
+}
+{
+  "free_type": 32768,
+  "process_identifier": 2464,
+  "process_handle": "0xffffffff",
+  "base_address": "0x005d0000",
+  "size": 1769472
+}
+{
+  "process_identifier": 2464,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00780000"
+}
+{
+  "basename": "uxtheme",
+  "module_address": "0x74450000",
+  "flags": 0,
+  "module_name": "C:\\Windows\\system32\\uxtheme.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "uxtheme",
+  "module_address": "0x74450000",
+  "function_address": "0x7445b176",
+  "function_name": "ThemeInitApiHook"
+}
+{}
+{
+  "index": 31
+}
+{
+  "section_handle": "0x00000050",
+  "process_identifier": 2464,
+  "commit_size": 0,
+  "win32_protect": 2,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 0,
+  "section_offset": 0,
+  "view_size": 913408,
+  "base_address": "0x005d0000"
+}
+{
+  "module_name": "user32.dll",
+  "stack_pivoted": 0,
+  "module_address": "0x764a0000"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764b212e",
+  "function_name": "IsProcessDPIAware"
+}
+{
+  "process_identifier": 2464,
+  "region_size": 16384,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00781000"
+}
+{
+  "process_identifier": 2464,
+  "region_size": 28672,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00785000"
+}
+{
+  "process_identifier": 2464,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x0078c000"
+}
+{
+  "index": 31
+}
+{
+  "index": 31
+}
+{
+  "name": "#4",
+  "type": "#109",
+  "module_handle": "0x01010000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x01010000",
+  "resource_handle": "0x01046ec8",
+  "pointer": "0x010473b0"
+}
+{
+  "process_identifier": 2464,
+  "region_size": 118784,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x001c2000"
+}
+{
+  "file_handle": "0xfffffffe",
+  "filepath": "",
+  "buffer": "5NG±é\u0001",
+  "offset": 0
+}
+{
+  "file_handle": "0xfffffffe",
+  "filepath": "",
+  "buffer": "5NG±é\u0001",
+  "offset": 0
+}
+{
+  "file_handle": "0xfffffffe",
+  "filepath": "",
+  "buffer": "5NG±é\u0001",
+  "offset": 0
+}
+{
+  "file_handle": "0xfffffffe",
+  "filepath": "",
+  "buffer": "5NG±é\u0001",
+  "offset": 0
+}
+{
+  "file_handle": "0xfffffffe",
+  "filepath": "",
+  "buffer": "5NG±é\u0001",
+  "offset": 0
+}
+{
+  "file_handle": "0xfffffffe",
+  "filepath": "",
+  "buffer": "5NG±é\u0001",
+  "offset": 0
+}
+{
+  "file_handle": "0xfffffffe",
+  "filepath": "",
+  "buffer": "5NG±é\u0001",
+  "offset": 0
+}
+{
+  "file_handle": "0xfffffffe",
+  "filepath": "",
+  "buffer": "5NG±é\u0001",
+  "offset": 0
+}
+{
+  "file_handle": "0xfffffffe",
+  "filepath": "",
+  "buffer": "5NG±é\u0001",
+  "offset": 0
+}
+{
+  "file_handle": "0xfffffffe",
+  "filepath": "",
+  "buffer": "5NG±é\u0001",
+  "offset": 0
+}
+{
+  "file_handle": "0xfffffffe",
+  "filepath": "",
+  "buffer": "5NG±é\u0001",
+  "offset": 0
+}
+{
+  "file_handle": "0xfffffffe",
+  "filepath": "",
+  "buffer": "5NG±é\u0001",
+  "offset": 0
+}
+{
+  "file_handle": "0xfffffffe",
+  "filepath": "",
+  "buffer": "5NG±é\u0001",
+  "offset": 0
+}
+{
+  "file_handle": "0xfffffffe",
+  "filepath": "",
+  "buffer": "5NG±é\u0001",
+  "offset": 0
+}
+{
+  "file_handle": "0xfffffffe",
+  "filepath": "",
+  "buffer": "5NG±é\u0001",
+  "offset": 0
+}
+{
+  "file_handle": "0xfffffffe",
+  "filepath": "",
+  "buffer": "5NG±é\u0001",
+  "offset": 0
+}
+{
+  "file_handle": "0xfffffffe",
+  "filepath": "",
+  "buffer": "5NG±é\u0001",
+  "offset": 0
+}
+{
+  "file_handle": "0xfffffffe",
+  "filepath": "",
+  "buffer": "5NG±é\u0001",
+  "offset": 0
+}
+{
+  "file_handle": "0xfffffffe",
+  "filepath": "",
+  "buffer": "5NG±é\u0001",
+  "offset": 0
+}
+{
+  "process_identifier": 2464,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 1,
+  "length": 118784,
+  "protection": 64,
+  "process_handle": "0xffffffff",
+  "base_address": "0x001b5000"
+}
+{
+  "oldfilepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\2f709387da1d68ebf7d8a7e93484dc8dd0a7e4ba8b15a52404eacf4eeaad04ce.exe",
+  "newfilepath": "C:\\Windows\\WerFaultSecurers.exe",
+  "newfilepath_r": "C:\\Windows\\WerFaultSecurers.exe",
+  "flags": 2,
+  "oldfilepath_r": "C:\\Users\\faker\\AppData\\Local\\Temp\\2f709387da1d68ebf7d8a7e93484dc8dd0a7e4ba8b15a52404eacf4eeaad04ce.exe"
+}
+{
+  "access": "0x02000000",
+  "base_handle": "0x80000002",
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+  "key_handle": "0x00000054",
+  "options": 0,
+  "regkey_r": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run",
+  "disposition": 0,
+  "class": ""
+}
+{
+  "key_handle": "0x00000054",
+  "value": "C:\\Windows\\WerFaultSecurers.exe",
+  "regkey_r": "WerFaultSecurers",
+  "reg_type": 1,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Run\\WerFaultSecurers"
+}
+{
+  "key_handle": "0x00000054"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e395c",
+  "function_name": "LoadLibraryA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e2fb6",
+  "function_name": "VirtualAlloc"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1da4",
+  "function_name": "VirtualFree"
+}
+{
+  "basename": "ntdll",
+  "module_address": "0x77580000",
+  "flags": 0,
+  "module_name": "ntdll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "ntdll",
+  "module_address": "0x77580000",
+  "function_address": "0x7763537d",
+  "function_name": "RtlDecompressBuffer"
+}
+{
+  "ordinal": 0,
+  "module": "ntdll",
+  "module_address": "0x77580000",
+  "function_address": "0x775b4cc0",
+  "function_name": "memcpy"
+}
+{
+  "process_identifier": 2464,
+  "region_size": 139264,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x006e0000"
+}
+{
+  "output_size": 136704,
+  "format": 2,
+  "uncompressed": "",
+  "input_size": 101775
+}
+{
+  "process_identifier": 2464,
+  "region_size": 172032,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 64,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00710000"
+}
+{
+  "basename": "KERNEL32",
+  "module_address": "0x77490000",
+  "flags": 0,
+  "module_name": "KERNEL32.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774ddb13",
+  "function_name": "UnmapViewOfFile"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e4a51",
+  "function_name": "SetErrorMode"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c6ddd",
+  "function_name": "GetExitCodeThread"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774cc1ee",
+  "function_name": "VirtualFreeEx"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7751f5d9",
+  "function_name": "VirtualProtectEx"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d0f1c",
+  "function_name": "ResumeThread"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c4e42",
+  "function_name": "VirtualQueryEx"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c4ab0",
+  "function_name": "QueryDosDeviceW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e3be6",
+  "function_name": "GetDriveTypeW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e7598",
+  "function_name": "GetVolumeInformationW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774cde40",
+  "function_name": "GetDiskFreeSpaceExW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e53b2",
+  "function_name": "FindFirstFileW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e0e62",
+  "function_name": "FindClose"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d963a",
+  "function_name": "FindNextFileW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774ddb36",
+  "function_name": "SetFilePointer"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d2319",
+  "function_name": "SetEndOfFile"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c7f81",
+  "function_name": "FlushFileBuffers"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774cbe16",
+  "function_name": "SetFileTime"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d0f6f",
+  "function_name": "GetFileTime"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d3925",
+  "function_name": "CreateDirectoryW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d4680",
+  "function_name": "ExpandEnvironmentStringsW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774f6118",
+  "function_name": "lstrcpynW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774da90e",
+  "function_name": "GetLocalTime"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1280",
+  "function_name": "GetProcessHeap"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dbbd0",
+  "function_name": "HeapFree"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c8979",
+  "function_name": "lstrcpynA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dbb80",
+  "function_name": "GetCurrentThreadId"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dcecb",
+  "function_name": "SystemTimeToFileTime"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c270f",
+  "function_name": "CreateNamedPipeW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c2727",
+  "function_name": "ConnectNamedPipe"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d2f04",
+  "function_name": "GetOverlappedResult"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e2c8a",
+  "function_name": "GetConsoleCP"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7753bfde",
+  "function_name": "FreeConsole"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1369",
+  "function_name": "GetConsoleOutputCP"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774f2787",
+  "function_name": "GetConsoleWindow"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7753c328",
+  "function_name": "AllocConsole"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7751f33b",
+  "function_name": "CreateRemoteThread"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7753df18",
+  "function_name": "SetConsoleScreenBufferSize"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1e46",
+  "function_name": "GetStdHandle"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7753cecc",
+  "function_name": "WriteConsoleInputW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7753dddc",
+  "function_name": "GenerateConsoleCtrlEvent"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e2412",
+  "function_name": "GetConsoleMode"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7753c9c3",
+  "function_name": "GetConsoleDisplayMode"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7753dc27",
+  "function_name": "GetConsoleCursorInfo"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d9652",
+  "function_name": "GetConsoleScreenBufferInfo"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7753d241",
+  "function_name": "ReadConsoleOutputW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e40fb",
+  "function_name": "GetSystemDirectoryW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d04b6",
+  "function_name": "GetWindowsDirectoryW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e3c26",
+  "function_name": "GetModuleFileNameW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c586a",
+  "function_name": "RemoveDirectoryW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d03ff",
+  "function_name": "GetComputerNameW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d899b",
+  "function_name": "MapViewOfFile"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d22a7",
+  "function_name": "QueryPerformanceFrequency"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dbcb4",
+  "function_name": "ResetEvent"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774ef438",
+  "function_name": "DisconnectNamedPipe"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x775af611",
+  "function_name": "ExitThread"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c6ba9",
+  "function_name": "GetComputerNameA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c8991",
+  "function_name": "CreateIoCompletionPort"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c4c2d",
+  "function_name": "GetQueuedCompletionStatus"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e3589",
+  "function_name": "CreateMutexA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d0296",
+  "function_name": "SleepEx"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d7328",
+  "function_name": "LocalReAlloc"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c4c15",
+  "function_name": "PostQueuedCompletionStatus"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d5c02",
+  "function_name": "LocalUnlock"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d5bea",
+  "function_name": "LocalLock"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dca64",
+  "function_name": "LocalFree"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e3363",
+  "function_name": "LocalAlloc"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774cc1b6",
+  "function_name": "VirtualAllocEx"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dcf41",
+  "function_name": "GetModuleHandleA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d0f62",
+  "function_name": "DeleteFileW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774cc1de",
+  "function_name": "WriteProcessMemory"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774da8eb",
+  "function_name": "lstrcmpiW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774cc1ce",
+  "function_name": "ReadProcessMemory"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d3b1a",
+  "function_name": "GetVersionExW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e3d01",
+  "function_name": "SetUnhandledExceptionFilter"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x775d9ac5",
+  "function_name": "DeleteCriticalSection"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x775da149",
+  "function_name": "InitializeCriticalSection"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dbb9f",
+  "function_name": "QueryPerformanceCounter"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e452b",
+  "function_name": "MultiByteToWideChar"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e450e",
+  "function_name": "WideCharToMultiByte"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dd9e8",
+  "function_name": "lstrlenW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1400",
+  "function_name": "WriteFile"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774cad1b",
+  "function_name": "SetFileAttributesW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d96fb",
+  "function_name": "ReadFile"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d0273",
+  "function_name": "GetFileSize"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dcc56",
+  "function_name": "CreateFileW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774da611",
+  "function_name": "lstrlenA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c7d32",
+  "function_name": "GetPrivateProfileStringW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d9793",
+  "function_name": "lstrcpyA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d2249",
+  "function_name": "lstrcmpiA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dcac4",
+  "function_name": "GetCurrentProcessId"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7749204d",
+  "function_name": "CreateProcessW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e214f",
+  "function_name": "ExitProcess"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d2331",
+  "function_name": "TerminateProcess"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dba46",
+  "function_name": "Sleep"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dcdcf",
+  "function_name": "GetCurrentProcess"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dcdd9",
+  "function_name": "DuplicateHandle"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d59d7",
+  "function_name": "OpenProcess"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d2aee",
+  "function_name": "CreateMutexW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e65b4",
+  "function_name": "OpenFileMappingW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x775c7760",
+  "function_name": "LeaveCriticalSection"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x775c77a0",
+  "function_name": "EnterCriticalSection"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dba60",
+  "function_name": "GetTickCount"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d7db8",
+  "function_name": "GetSystemDefaultLCID"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e3728",
+  "function_name": "GetSystemInfo"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dced8",
+  "function_name": "GetSystemTime"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d2030",
+  "function_name": "GlobalMemoryStatus"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e67b0",
+  "function_name": "lstrcmpW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c8bfa",
+  "function_name": "lstrcpyW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774db744",
+  "function_name": "ProcessIdToSessionId"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dbce4",
+  "function_name": "WaitForMultipleObjects"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dca7c",
+  "function_name": "CloseHandle"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dba90",
+  "function_name": "WaitForSingleObject"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dbccc",
+  "function_name": "SetEvent"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e375d",
+  "function_name": "CreateThread"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e3386",
+  "function_name": "CreateEventW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d2341",
+  "function_name": "VirtualProtect"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dbf00",
+  "function_name": "GetLastError"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1da4",
+  "function_name": "VirtualFree"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e2fb6",
+  "function_name": "VirtualAlloc"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e395c",
+  "function_name": "LoadLibraryA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e65d4",
+  "function_name": "SetConsoleCtrlHandler"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e33d3",
+  "function_name": "GetProcAddress"
+}
+{
+  "basename": "USER32",
+  "module_address": "0x764a0000",
+  "flags": 0,
+  "module_name": "USER32.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764ab446",
+  "function_name": "PostMessageA"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764ac6f2",
+  "function_name": "CloseWindowStation"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764ab829",
+  "function_name": "SetThreadDesktop"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764bdb66",
+  "function_name": "GetThreadDesktop"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764a5c39",
+  "function_name": "OpenInputDesktop"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764ab83d",
+  "function_name": "SetProcessWindowStation"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764adfdc",
+  "function_name": "GetProcessWindowStation"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764d714c",
+  "function_name": "OpenWindowStationW"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764fec3b",
+  "function_name": "keybd_event"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764c6209",
+  "function_name": "mouse_event"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764ec1b0",
+  "function_name": "SetCursorPos"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764d6932",
+  "function_name": "SetCapture"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764d6be9",
+  "function_name": "WindowFromPoint"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764af2a9",
+  "function_name": "ShowWindow"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764aa77f",
+  "function_name": "DestroyCursor"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764aed90",
+  "function_name": "LoadCursorW"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764aa77f",
+  "function_name": "DestroyIcon"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764b2989",
+  "function_name": "GetIconInfo"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764fea5f",
+  "function_name": "MessageBoxW"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764f06c7",
+  "function_name": "ExitWindowsEx"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764b2b4d",
+  "function_name": "GetKeyState"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764aa256",
+  "function_name": "GetAsyncKeyState"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764b2a29",
+  "function_name": "GetClassNameW"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764ab8c5",
+  "function_name": "GetWindowTextW"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764b335d",
+  "function_name": "GetForegroundWindow"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764ab308",
+  "function_name": "PostQuitMessage"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764b507d",
+  "function_name": "DefWindowProcW"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764b3f47",
+  "function_name": "wsprintfA"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764aae0d",
+  "function_name": "FindWindowW"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764aee32",
+  "function_name": "GetWindowThreadProcessId"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764aabe1",
+  "function_name": "CallNextHookEx"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764aadf9",
+  "function_name": "UnhookWindowsHookEx"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764b64f7",
+  "function_name": "KillTimer"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764bcc61",
+  "function_name": "DispatchMessageW"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764b64c7",
+  "function_name": "TranslateMessage"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764bcde8",
+  "function_name": "GetMessageW"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764ae30c",
+  "function_name": "SetWindowsHookExW"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764b52ef",
+  "function_name": "SetTimer"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764b4449",
+  "function_name": "SetWindowLongW"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764aec7c",
+  "function_name": "CreateWindowExW"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764ac4ce",
+  "function_name": "CloseDesktop"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764b67cf",
+  "function_name": "GetSystemMetrics"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764c426d",
+  "function_name": "wsprintfW"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764a40cf",
+  "function_name": "CreateDesktopW"
+}
+{
+  "basename": "GDI32",
+  "module_address": "0x75b10000",
+  "flags": 0,
+  "module_name": "GDI32.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "GDI32",
+  "module_address": "0x75b10000",
+  "function_address": "0x75b18850",
+  "function_name": "CreateDIBSection"
+}
+{
+  "ordinal": 0,
+  "module": "GDI32",
+  "module_address": "0x75b10000",
+  "function_address": "0x75b16888",
+  "function_name": "CreateCompatibleDC"
+}
+{
+  "ordinal": 0,
+  "module": "GDI32",
+  "module_address": "0x75b10000",
+  "function_address": "0x75b173ad",
+  "function_name": "CreateCompatibleBitmap"
+}
+{
+  "ordinal": 0,
+  "module": "GDI32",
+  "module_address": "0x75b10000",
+  "function_address": "0x75b15fe4",
+  "function_name": "GdiFlush"
+}
+{
+  "ordinal": 0,
+  "module": "GDI32",
+  "module_address": "0x75b10000",
+  "function_address": "0x75b172c0",
+  "function_name": "BitBlt"
+}
+{
+  "ordinal": 0,
+  "module": "GDI32",
+  "module_address": "0x75b10000",
+  "function_address": "0x75b16f7f",
+  "function_name": "GetDeviceCaps"
+}
+{
+  "ordinal": 0,
+  "module": "GDI32",
+  "module_address": "0x75b10000",
+  "function_address": "0x75b16eaa",
+  "function_name": "DeleteDC"
+}
+{
+  "ordinal": 0,
+  "module": "GDI32",
+  "module_address": "0x75b10000",
+  "function_address": "0x75b15f14",
+  "function_name": "DeleteObject"
+}
+{
+  "ordinal": 0,
+  "module": "GDI32",
+  "module_address": "0x75b10000",
+  "function_address": "0x75b1a23b",
+  "function_name": "GetDIBits"
+}
+{
+  "ordinal": 0,
+  "module": "GDI32",
+  "module_address": "0x75b10000",
+  "function_address": "0x75b1cf79",
+  "function_name": "CreateDCW"
+}
+{
+  "ordinal": 0,
+  "module": "GDI32",
+  "module_address": "0x75b10000",
+  "function_address": "0x75b16640",
+  "function_name": "SelectObject"
+}
+{
+  "basename": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "flags": 0,
+  "module_name": "ADVAPI32.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x773f798c",
+  "function_name": "QueryServiceStatusEx"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x773f7974",
+  "function_name": "StartServiceW"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x773fca4c",
+  "function_name": "OpenServiceW"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x773fca64",
+  "function_name": "OpenSCManagerW"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x77401562",
+  "function_name": "RevertToSelf"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x7740469d",
+  "function_name": "RegCloseKey"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x7744f5e8",
+  "function_name": "RegOverridePredefKey"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x774015ad",
+  "function_name": "RegOpenCurrentUser"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x773fc57a",
+  "function_name": "ImpersonateLoggedOnUser"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x7741715c",
+  "function_name": "DeleteService"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x774040e6",
+  "function_name": "AllocateAndInitializeSid"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x7740413b",
+  "function_name": "GetLengthSid"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x774045cd",
+  "function_name": "InitializeAcl"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x77404176",
+  "function_name": "AddAccessAllowedAce"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x774045f0",
+  "function_name": "GetAce"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x77404620",
+  "function_name": "InitializeSecurityDescriptor"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x7740415e",
+  "function_name": "SetSecurityDescriptorDacl"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x7740412e",
+  "function_name": "FreeSid"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x7744dc0f",
+  "function_name": "InitiateSystemShutdownA"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x7740468d",
+  "function_name": "RegOpenKeyExW"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x774040fe",
+  "function_name": "RegCreateKeyExW"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x774014d6",
+  "function_name": "RegSetValueExW"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x774046c8",
+  "function_name": "RegEnumKeyExW"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x774046ad",
+  "function_name": "RegQueryValueExW"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x773fb466",
+  "function_name": "EnumServicesStatusExW"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x773fb537",
+  "function_name": "QueryServiceConfigW"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x774333f9",
+  "function_name": "QueryServiceConfig2W"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x77417144",
+  "function_name": "ControlService"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x774330f8",
+  "function_name": "ChangeServiceConfigW"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x77404304",
+  "function_name": "OpenProcessToken"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x7740431c",
+  "function_name": "GetTokenInformation"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x7740410b",
+  "function_name": "EqualSid"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x773fcf31",
+  "function_name": "RegDeleteValueW"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x774041b3",
+  "function_name": "LookupPrivilegeValueW"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x7740418e",
+  "function_name": "AdjustTokenPrivileges"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x7740157a",
+  "function_name": "GetUserNameW"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x77404874",
+  "function_name": "LookupAccountSidW"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x773fca24",
+  "function_name": "DuplicateTokenEx"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x773f9a92",
+  "function_name": "SetTokenInformation"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x773fc592",
+  "function_name": "CreateProcessAsUserW"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x774048cc",
+  "function_name": "RegEnumValueW"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x7740369c",
+  "function_name": "CloseServiceHandle"
+}
+{
+  "basename": "SHELL32",
+  "module_address": "0x76620000",
+  "flags": 0,
+  "module_name": "SHELL32.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "SHELL32",
+  "module_address": "0x76620000",
+  "function_address": "0x766796f6",
+  "function_name": "SHFileOperationW"
+}
+{
+  "ordinal": 0,
+  "module": "SHELL32",
+  "module_address": "0x76620000",
+  "function_address": "0x7673f0bd",
+  "function_name": "ExtractIconExW"
+}
+{
+  "basename": "user32",
+  "module_address": "0x764a0000",
+  "flags": 0,
+  "module_name": "user32",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764b3f47",
+  "function_name": "wsprintfA"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764c426d",
+  "function_name": "wsprintfW"
+}
+{
+  "process_identifier": 2464,
+  "region_size": 524288,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 8192,
+  "base_address": "0x007c0000"
+}
+{
+  "process_identifier": 2464,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x007c0000"
+}
+{
+  "basename": "ntdll",
+  "module_address": "0x77580000",
+  "flags": 0,
+  "module_name": "ntdll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "ntdll",
+  "module_address": "0x77580000",
+  "function_address": "0x7763529b",
+  "function_name": "RtlGetCompressionWorkSpaceSize"
+}
+{
+  "process_identifier": 2464,
+  "region_size": 36864,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00740000"
+}
+{
+  "process_identifier": 2464,
+  "region_size": 61440,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00750000"
+}
+{}
+{
+  "module_name": "msvcrt.dll",
+  "stack_pivoted": 0,
+  "module_address": "0x76300000"
+}
+{
+  "ordinal": 0,
+  "module": "msvcrt",
+  "module_address": "0x76300000",
+  "function_address": "0x76309790",
+  "function_name": "memset"
+}
+{
+  "process_identifier": 2464,
+  "region_size": 286720,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x001df000"
+}
+{
+  "module_name": "msvcrt.dll",
+  "stack_pivoted": 0,
+  "module_address": "0x76300000"
+}
+{
+  "ordinal": 0,
+  "module": "msvcrt",
+  "module_address": "0x76300000",
+  "function_address": "0x76309910",
+  "function_name": "memcpy"
+}
+{
+  "module_name": "msvcrt.dll",
+  "stack_pivoted": 0,
+  "module_address": "0x76300000"
+}
+{
+  "ordinal": 0,
+  "module": "msvcrt",
+  "module_address": "0x76300000",
+  "function_address": "0x76317975",
+  "function_name": "memcmp"
+}
+{
+  "dirpath": "C:\\Windows\\system32"
+}
+{
+  "file_handle": "0x00000070",
+  "filepath": "C:\\",
+  "desired_access": "0x00100000",
+  "filepath_r": "\\??\\C:\\",
+  "open_options": 16417,
+  "status_info": 1,
+  "share_access": 0
+}
+{
+  "file_handle": "0x00000070",
+  "information_class": 9
+}
+{
+  "handle": "0x00000070"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000000",
+  "filepath": "C:\\ProgramData\\xs\\pfvysc",
+  "desired_access": "0x80100080",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\ProgramData\\xs\\pfvysc",
+  "create_options": 96,
+  "status_info": 4294967295,
+  "share_access": 1
+}
+{
+  "system_name": "",
+  "privilege_name": "SeDebugPrivilege"
+}
+{
+  "handle": "0x00000070"
+}
+{
+  "system_name": "",
+  "privilege_name": "SeTcbPrivilege"
+}
+{
+  "handle": "0x00000070"
+}
+{
+  "thread_identifier": 1540,
+  "function_address": "0x0072553e",
+  "flags": 4,
+  "parameter": "0x001d5170",
+  "stack_size": 0
+}
+{
+  "thread_handle": "0x00000070",
+  "suspend_count": 1,
+  "process_identifier": 2464
+}
+{
+  "handle": "0x00000070"
+}
+{
+  "free_type": 32768,
+  "process_identifier": 2464,
+  "process_handle": "0xffffffff",
+  "base_address": "0x006e0000",
+  "size": 139264
+}
+{
+  "dirpath": "C:\\Windows\\system32"
+}
+{
+  "thread_identifier": 2504,
+  "thread_handle": "0x00000070",
+  "process_identifier": 908,
+  "current_directory": "",
+  "filepath": "",
+  "track": 1,
+  "command_line": "C:\\Program Files\\Internet Explorer\\iexplore.exe",
+  "filepath_r": "",
+  "stack_pivoted": 0,
+  "creation_flags": 20,
+  "process_handle": "0x000000bc",
+  "inherit_handles": 0
+}
+{
+  "buffer": "MZ\u0000\u0003\u0000\u0000\u0000\u0004\u0000\u0000\u0000ÿÿ\u0000\u0000¸\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ø\u0000\u0000\u0000\u000e\u001fº\u000e\u0000´\tÍ!¸\u0001LÍ!This program cannot be run in DOS mode.\r\r\n$\u0000\u0000\u0000\u0000\u0000\u0000\u0000\nÆ»N§çèN§çèN§çèGßrèF§çèGßtèU§çèN§æèÓ¦çèPõcèO§çèGßcè\u0006§çèGßdè\u0003§çèiaè_§çèGßsèO§çèGßvèO§çèRichN§çè\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000PE\u0000\u0000L\u0001\u0004\u0000\u0012çL\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000à\u0000\u0002\u0001\u000b\u0001\t\u0000\u0000¢\u0000\u0000\u0000\t\u0000\u0000\u0000\u0000\u0000\u001c\u0000\u0000\u0000\u0010\u0000\u0000\u0000p\u0002\u0000\u0000\u0000'\u0000\u0000\u0010\u0000\u0000\u0000\u0002\u0000\u0000\u0006\u0000\u0001\u0000\u0006\u0000\u0001\u0000\u0005\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000`\n\u0000\u0000\u0004\u0000\u0000¬ü\n\u0000\u0002\u0000@\u0000\u0000\u0010\u0000\u0000à\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000¸£\u0000\u0000Ü\u0000\u0000\u0000\u0000Ð\u0000\u0000 p\t\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000*\n\u0000\u0010\u001b\u0000\u0000\u0000P\n\u0000\u000b\u0000\u0000$°\u0000\u00008\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ðl\u0000\u0000@\u0000\u0000\u0000\u0002\u0000\u0000Ü\u0000\u0000\u0000\u0000\u0010\u0000\u0000l\u0002\u0000\u0000è¢\u0000\u0000`\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000.text\u0000\u0000\u0000 \u0000\u0000\u0000\u0010\u0000\u0000\u0000¢\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000`.data\u0000\u0000\u0000\u0018\u0006\u0000\u0000\u0000À\u0000\u0000\u0000\u0006\u0000\u0000\u0000¦\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u0000\u0000À.rsrc\u0000\u0000\u0000 p\t\u0000\u0000Ð\u0000\u0000\u0000r\t\u0000\u0000¬\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u0000\u0000@.reloc\u0000\u0000\u000b\u0000\u0000\u0000P\n\u0000\u0000\f\u0000\u0000\u0000\u001e\n\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u0000\u0000B\u0006·çLh\u0000\u0001\u0000n¹çLu\u0000\u0000\u0000ï¸çL\u007f\u0000\u0001\u0000n¹çLu\u0000\u0000\u0000&ºçL\u0000\u0000\u0000à¸çL\u0000\u0000\u0000n¹çLu\u0000\u0000\u0000â¹çL¢\u0000\u0000\u0000Þ¹çL®\u0000\u0000\u0000o¹çLº\u0000\u0000\u0000K¸çLÄ\u0000\u0000\u0000#ºçLÑ\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ADVAPI32.dll\u0000ntdll.DLL\u0000KERNEL32.dll\u0000USER32.dll\u0000msvcrt.dll\u0000SHLWAPI.dll\u0000SHELL32.dll\u0000ole32.dll\u0000iertutil.dll\u0000urlmon.dll\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "base_address": "0x00270000",
+  "process_handle": "0x000000bc"
+}
+{
+  "process_identifier": 908,
+  "region_size": 118784,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 64,
+  "process_handle": "0x000000bc",
+  "allocation_type": 4096,
+  "base_address": "0x00080000"
+}
+{
+  "process_identifier": 908,
+  "buffer": "",
+  "process_handle": "0x000000bc",
+  "base_address": "0x00080000"
+}
+{
+  "process_identifier": 908,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "length": 4096,
+  "protection": 64,
+  "process_handle": "0x000000bc",
+  "base_address": "0x00271000"
+}
+{
+  "process_identifier": 908,
+  "buffer": "h\u0002\u0000\u0000\u0000è\\ãàÿÃ\u0000\u0000\u0000\u0000\u0000",
+  "process_handle": "0x000000bc",
+  "base_address": "0x00271c9a"
+}
+{
+  "thread_handle": "0x00000070",
+  "suspend_count": 1,
+  "process_identifier": 908
+}
+{
+  "handle": "0x000000bc"
+}
+{
+  "handle": "0x00000070"
+}
+{
+  "status_code": "0x000004c7",
+  "process_identifier": 2464,
+  "process_handle": "0xffffffff"
+}

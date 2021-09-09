@@ -1,0 +1,993 @@
+{}
+{
+  "process_identifier": 2136,
+  "region_size": 1507328,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 8192,
+  "base_address": "0x005c0000"
+}
+{
+  "free_type": 32768,
+  "process_identifier": 2136,
+  "process_handle": "0xffffffff",
+  "base_address": "0x005c0000",
+  "size": 1441792
+}
+{
+  "process_identifier": 2136,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00720000"
+}
+{
+  "module_name": "KERNEL32.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x77490000"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e418d",
+  "function_name": "FlsAlloc"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1e16",
+  "function_name": "FlsGetValue"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e76e6",
+  "function_name": "FlsSetValue"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1f61",
+  "function_name": "FlsFree"
+}
+{
+  "module_name": "KERNEL32.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x77490000"
+}
+{
+  "process_identifier": 2136,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00721000"
+}
+{
+  "process_identifier": 2136,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00722000"
+}
+{}
+{}
+{
+  "mode": 32771
+}
+{
+  "process_identifier": 2136,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00723000"
+}
+{
+  "options": 0
+}
+{
+  "class_context": 1,
+  "clsid": "{4590f811-1d3a-11d0-891f-00aa004b2e24}",
+  "iid": "{dc12a687-737f-11cf-884d-00aa004b2e24}"
+}
+{
+  "handle_attributes": 0,
+  "source_process_identifier": 2136,
+  "source_handle": "0xfffffffe",
+  "target_process_identifier": 2136,
+  "desired_access": "0x00000000",
+  "target_process_handle": "0xffffffff",
+  "target_handle": "0x000000f8",
+  "source_process_handle": "0xffffffff",
+  "options": 2
+}
+{
+  "skipped": 1,
+  "milliseconds": 60000
+}
+{
+  "handle_attributes": 0,
+  "source_process_identifier": 2136,
+  "source_handle": "0xfffffffe",
+  "target_process_identifier": 2136,
+  "desired_access": "0x00000000",
+  "target_process_handle": "0xffffffff",
+  "target_handle": "0x00000128",
+  "source_process_handle": "0xffffffff",
+  "options": 2
+}
+{
+  "process_identifier": 2136,
+  "region_size": 8192,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00302000"
+}
+{
+  "module_name": "wmisvc.dll",
+  "stack_pivoted": 0,
+  "module_address": "0x00000000"
+}
+{
+  "module_name": "wmisvc.dll",
+  "stack_pivoted": 0,
+  "module_address": "0x00000000"
+}
+{
+  "key_handle": "0x0000012c",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters"
+}
+{
+  "key_handle": "0x0000012c",
+  "key_name": "Hostname",
+  "value": "faker-PC",
+  "reg_type": 1,
+  "information_class": 1,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\Tcpip\\Parameters\\Hostname"
+}
+{
+  "handle": "0x0000012c"
+}
+{
+  "key_handle": "0x00000000",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\System\\DNSclient"
+}
+{
+  "key_handle": "0x0000012c",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters"
+}
+{
+  "key_handle": "0x0000012c",
+  "key_name": "Domain",
+  "value": "",
+  "reg_type": 1,
+  "information_class": 1,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\Tcpip\\Parameters\\Domain"
+}
+{
+  "handle": "0x0000012c"
+}
+{
+  "key_handle": "0x0000012c",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters"
+}
+{
+  "key_handle": "0x0000012c",
+  "key_name": "Hostname",
+  "value": "faker-PC",
+  "reg_type": 1,
+  "information_class": 1,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\Tcpip\\Parameters\\Hostname"
+}
+{
+  "handle": "0x0000012c"
+}
+{
+  "key_handle": "0x00000000",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\System\\DNSclient"
+}
+{
+  "key_handle": "0x0000012c",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters"
+}
+{
+  "key_handle": "0x0000012c",
+  "key_name": "Domain",
+  "value": "",
+  "reg_type": 1,
+  "information_class": 1,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\Tcpip\\Parameters\\Domain"
+}
+{
+  "handle": "0x0000012c"
+}
+{
+  "skipped": 1,
+  "milliseconds": 60000
+}
+{
+  "class_context": 20,
+  "clsid": "{8bc3f05e-d86b-11d0-a075-00c04fb68820}",
+  "iid": [
+    "{f309ad18-d86a-11d0-a075-00c04fb68820}"
+  ]
+}
+{
+  "computer_name": "FAKER-PC"
+}
+{
+  "class_context": 3,
+  "clsid": "{7c857801-7381-11cf-884d-00aa004b2e24}",
+  "iid": "{d5f569d0-593b-101a-b569-08002b2dbf7a}"
+}
+{
+  "query": "SELECT * FROM AntiVirusProduct",
+  "query_language": "WQL",
+  "flags": 48
+}
+{
+  "key_handle": "0x00000130",
+  "desired_access": "0x02000000",
+  "regkey": "HKEY_CURRENT_USER"
+}
+{
+  "handle": "0x0000012c"
+}
+{
+  "access": "0x00020019",
+  "base_handle": "0x00000132",
+  "key_handle": "0x0000012e",
+  "regkey": "HKEY_CURRENT_USER\\Interface\\{1C1C45EE-4395-11D2-B60B-00104B703EFD}",
+  "regkey_r": "Interface\\{1C1C45EE-4395-11D2-B60B-00104B703EFD}",
+  "options": 0
+}
+{
+  "key_handle": "0x00000132"
+}
+{
+  "access": "0x00020019",
+  "base_handle": "0x0000012e",
+  "key_handle": "0x00000132",
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{1C1C45EE-4395-11D2-B60B-00104B703EFD}\\ProxyStubClsid32",
+  "regkey_r": "ProxyStubClsid32",
+  "options": 0
+}
+{
+  "key_handle": "0x00000132",
+  "value": "{7C857801-7381-11CF-884D-00AA004B2E24}",
+  "regkey_r": "",
+  "reg_type": 1,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{1C1C45EE-4395-11D2-B60B-00104B703EFD}\\ProxyStubClsid32\\(Default)"
+}
+{
+  "key_handle": "0x00000132"
+}
+{
+  "key_handle": "0x0000012e"
+}
+{
+  "key_handle": "0x00000130",
+  "desired_access": "0x02000000",
+  "regkey": "HKEY_CURRENT_USER"
+}
+{
+  "handle": "0x0000012c"
+}
+{
+  "access": "0x00020019",
+  "base_handle": "0x00000132",
+  "key_handle": "0x0000012e",
+  "regkey": "HKEY_CURRENT_USER\\Interface\\{423EC01E-2E35-11D2-B604-00104B703EFD}",
+  "regkey_r": "Interface\\{423EC01E-2E35-11D2-B604-00104B703EFD}",
+  "options": 0
+}
+{
+  "key_handle": "0x00000132"
+}
+{
+  "access": "0x00020019",
+  "base_handle": "0x0000012e",
+  "key_handle": "0x00000132",
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{423EC01E-2E35-11D2-B604-00104B703EFD}\\ProxyStubClsid32",
+  "regkey_r": "ProxyStubClsid32",
+  "options": 0
+}
+{
+  "key_handle": "0x00000132",
+  "value": "{7C857801-7381-11CF-884D-00AA004B2E24}",
+  "regkey_r": "",
+  "reg_type": 1,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{423EC01E-2E35-11D2-B604-00104B703EFD}\\ProxyStubClsid32\\(Default)"
+}
+{
+  "key_handle": "0x00000132"
+}
+{
+  "key_handle": "0x0000012e"
+}
+{
+  "uuid": "{b5415b29-e00a-4d16-a622-75264d7526be}"
+}
+{}
+{
+  "options": 0
+}
+{
+  "class_context": 1,
+  "clsid": "{4590f811-1d3a-11d0-891f-00aa004b2e24}",
+  "iid": "{dc12a687-737f-11cf-884d-00aa004b2e24}"
+}
+{
+  "skipped": 1,
+  "milliseconds": 60000
+}
+{
+  "module_name": "wmisvc.dll",
+  "stack_pivoted": 0,
+  "module_address": "0x00000000"
+}
+{
+  "module_name": "wmisvc.dll",
+  "stack_pivoted": 0,
+  "module_address": "0x00000000"
+}
+{
+  "key_handle": "0x00000130",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters"
+}
+{
+  "key_handle": "0x00000130",
+  "key_name": "Hostname",
+  "value": "faker-PC",
+  "reg_type": 1,
+  "information_class": 1,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\Tcpip\\Parameters\\Hostname"
+}
+{
+  "handle": "0x00000130"
+}
+{
+  "key_handle": "0x00000000",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\System\\DNSclient"
+}
+{
+  "key_handle": "0x00000130",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters"
+}
+{
+  "key_handle": "0x00000130",
+  "key_name": "Domain",
+  "value": "",
+  "reg_type": 1,
+  "information_class": 1,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\Tcpip\\Parameters\\Domain"
+}
+{
+  "handle": "0x00000130"
+}
+{
+  "key_handle": "0x00000130",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters"
+}
+{
+  "key_handle": "0x00000130",
+  "key_name": "Hostname",
+  "value": "faker-PC",
+  "reg_type": 1,
+  "information_class": 1,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\Tcpip\\Parameters\\Hostname"
+}
+{
+  "handle": "0x00000130"
+}
+{
+  "key_handle": "0x00000000",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\System\\DNSclient"
+}
+{
+  "key_handle": "0x00000130",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Services\\Tcpip\\Parameters"
+}
+{
+  "key_handle": "0x00000130",
+  "key_name": "Domain",
+  "value": "",
+  "reg_type": 1,
+  "information_class": 1,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\Tcpip\\Parameters\\Domain"
+}
+{
+  "handle": "0x00000130"
+}
+{
+  "skipped": 1,
+  "milliseconds": 60000
+}
+{
+  "class_context": 20,
+  "clsid": "{8bc3f05e-d86b-11d0-a075-00c04fb68820}",
+  "iid": [
+    "{f309ad18-d86a-11d0-a075-00c04fb68820}"
+  ]
+}
+{
+  "computer_name": "FAKER-PC"
+}
+{
+  "class_context": 3,
+  "clsid": "{7c857801-7381-11cf-884d-00aa004b2e24}",
+  "iid": "{d5f569d0-593b-101a-b569-08002b2dbf7a}"
+}
+{
+  "query": "SELECT * FROM FireWallProduct",
+  "query_language": "WQL",
+  "flags": 48
+}
+{
+  "key_handle": "0x00000134",
+  "desired_access": "0x02000000",
+  "regkey": "HKEY_CURRENT_USER"
+}
+{
+  "handle": "0x00000130"
+}
+{
+  "access": "0x00020019",
+  "base_handle": "0x00000136",
+  "key_handle": "0x00000132",
+  "regkey": "HKEY_CURRENT_USER\\Interface\\{1C1C45EE-4395-11D2-B60B-00104B703EFD}",
+  "regkey_r": "Interface\\{1C1C45EE-4395-11D2-B60B-00104B703EFD}",
+  "options": 0
+}
+{
+  "key_handle": "0x00000136"
+}
+{
+  "access": "0x00020019",
+  "base_handle": "0x00000132",
+  "key_handle": "0x00000136",
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{1C1C45EE-4395-11D2-B60B-00104B703EFD}\\ProxyStubClsid32",
+  "regkey_r": "ProxyStubClsid32",
+  "options": 0
+}
+{
+  "key_handle": "0x00000136",
+  "value": "{7C857801-7381-11CF-884D-00AA004B2E24}",
+  "regkey_r": "",
+  "reg_type": 1,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{1C1C45EE-4395-11D2-B60B-00104B703EFD}\\ProxyStubClsid32\\(Default)"
+}
+{
+  "key_handle": "0x00000136"
+}
+{
+  "key_handle": "0x00000132"
+}
+{
+  "key_handle": "0x00000134",
+  "desired_access": "0x02000000",
+  "regkey": "HKEY_CURRENT_USER"
+}
+{
+  "handle": "0x00000130"
+}
+{
+  "access": "0x00020019",
+  "base_handle": "0x00000136",
+  "key_handle": "0x00000132",
+  "regkey": "HKEY_CURRENT_USER\\Interface\\{423EC01E-2E35-11D2-B604-00104B703EFD}",
+  "regkey_r": "Interface\\{423EC01E-2E35-11D2-B604-00104B703EFD}",
+  "options": 0
+}
+{
+  "key_handle": "0x00000136"
+}
+{
+  "access": "0x00020019",
+  "base_handle": "0x00000132",
+  "key_handle": "0x00000136",
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{423EC01E-2E35-11D2-B604-00104B703EFD}\\ProxyStubClsid32",
+  "regkey_r": "ProxyStubClsid32",
+  "options": 0
+}
+{
+  "key_handle": "0x00000136",
+  "value": "{7C857801-7381-11CF-884D-00AA004B2E24}",
+  "regkey_r": "",
+  "reg_type": 1,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Interface\\{423EC01E-2E35-11D2-B604-00104B703EFD}\\ProxyStubClsid32\\(Default)"
+}
+{
+  "key_handle": "0x00000136"
+}
+{
+  "key_handle": "0x00000132"
+}
+{
+  "uuid": "{58e416ea-f317-4bd3-aed5-4bcfbdc654c7}"
+}
+{}
+{
+  "file_handle": "0x0000008c",
+  "filepath": "\\Device\\NamedPipe\\",
+  "desired_access": "0x80100000",
+  "filepath_r": "\\Device\\NamedPipe\\",
+  "open_options": 32,
+  "status_info": 1,
+  "share_access": 3
+}
+{
+  "file_handle": "0x00000098",
+  "filepath": "",
+  "desired_access": "0x40100080",
+  "filepath_r": "",
+  "open_options": 96,
+  "status_info": 1,
+  "share_access": 3
+}
+{
+  "skipped": 1,
+  "milliseconds": 60000
+}
+{
+  "thread_identifier": 1816,
+  "thread_handle": "0x0000011c",
+  "process_identifier": 856,
+  "current_directory": "",
+  "filepath": "C:\\Windows\\System32\\cmd.exe",
+  "track": 1,
+  "command_line": "/c time /T",
+  "filepath_r": "C:\\Windows\\system32\\cmd.exe",
+  "stack_pivoted": 0,
+  "creation_flags": 134217728,
+  "process_handle": "0x00000120",
+  "inherit_handles": 1
+}
+{
+  "file_handle": "0x00000094",
+  "buffer": "15:29\r\n",
+  "length": 20,
+  "offset": 0
+}
+{
+  "handle_attributes": 0,
+  "source_process_identifier": 2136,
+  "source_handle": "0xfffffffe",
+  "target_process_identifier": 2136,
+  "desired_access": "0x00000000",
+  "target_process_handle": "0xffffffff",
+  "target_handle": "0x000000ec",
+  "source_process_handle": "0xffffffff",
+  "options": 2
+}
+{
+  "handle": "0x00000104"
+}
+{
+  "library": "ole32",
+  "module_address": "0x77290000"
+}
+{
+  "handle": "0x00000110"
+}
+{
+  "handle": "0x00000114"
+}
+{
+  "handle": "0x00000128"
+}
+{
+  "handle": "0x00000124"
+}
+{}
+{
+  "handle": "0x00000100"
+}
+{
+  "handle": "0x00000118"
+}
+{
+  "handle": "0x000000b8"
+}
+{
+  "handle": "0x000000f8"
+}
+{
+  "handle": "0x000000fc"
+}
+{}
+{}
+{
+  "thread_name": "",
+  "thread_handle": "0x00000044",
+  "process_identifier": 0,
+  "access": "0x001fffff"
+}
+{
+  "module_name": "KERNEL32.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x77490000"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e24c2",
+  "function_name": "SetThreadUILanguage"
+}
+{
+  "handle": "0x00000048"
+}
+{
+  "key_handle": "0x00000048",
+  "desired_access": "0x02000000",
+  "regkey": "HKEY_CURRENT_USER"
+}
+{
+  "key_handle": "0x00000000",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_CURRENT_USER\\Software\\Policies\\Microsoft\\Windows\\System",
+  "options": 0
+}
+{
+  "key_handle": "0x0000004c",
+  "desired_access": "0x02000000",
+  "regkey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Command Processor",
+  "options": 0
+}
+{
+  "key_handle": "0x0000004c",
+  "key_name": "",
+  "value": "",
+  "reg_type": 0,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Command Processor\\DisableUNCCheck"
+}
+{
+  "key_handle": "0x0000004c",
+  "key_name": "",
+  "value": 1,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Command Processor\\EnableExtensions"
+}
+{
+  "key_handle": "0x0000004c",
+  "key_name": "",
+  "value": "",
+  "reg_type": 0,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Command Processor\\DelayedExpansion"
+}
+{
+  "key_handle": "0x0000004c",
+  "key_name": "",
+  "value": 0,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Command Processor\\DefaultColor"
+}
+{
+  "key_handle": "0x0000004c",
+  "key_name": "",
+  "value": 64,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Command Processor\\CompletionChar"
+}
+{
+  "key_handle": "0x0000004c",
+  "key_name": "",
+  "value": 64,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Command Processor\\PathCompletionChar"
+}
+{
+  "key_handle": "0x0000004c",
+  "key_name": "",
+  "value": "",
+  "reg_type": 0,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Command Processor\\AutoRun"
+}
+{
+  "handle": "0x0000004c"
+}
+{
+  "key_handle": "0x0000004c",
+  "desired_access": "0x02000000",
+  "regkey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Command Processor",
+  "options": 0
+}
+{
+  "key_handle": "0x0000004c",
+  "key_name": "",
+  "value": "",
+  "reg_type": 0,
+  "information_class": 2,
+  "regkey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Command Processor\\DisableUNCCheck"
+}
+{
+  "key_handle": "0x0000004c",
+  "key_name": "",
+  "value": 1,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Command Processor\\EnableExtensions"
+}
+{
+  "key_handle": "0x0000004c",
+  "key_name": "",
+  "value": "",
+  "reg_type": 0,
+  "information_class": 2,
+  "regkey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Command Processor\\DelayedExpansion"
+}
+{
+  "key_handle": "0x0000004c",
+  "key_name": "",
+  "value": 0,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Command Processor\\DefaultColor"
+}
+{
+  "key_handle": "0x0000004c",
+  "key_name": "",
+  "value": 9,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Command Processor\\CompletionChar"
+}
+{
+  "key_handle": "0x0000004c",
+  "key_name": "",
+  "value": 9,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Command Processor\\PathCompletionChar"
+}
+{
+  "key_handle": "0x0000004c",
+  "key_name": "",
+  "value": "",
+  "reg_type": 0,
+  "information_class": 2,
+  "regkey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Command Processor\\AutoRun"
+}
+{
+  "handle": "0x0000004c"
+}
+{}
+{
+  "file_attributes": 8208,
+  "filepath_r": "C:\\Users\\faker\\AppData\\Local\\Temp",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp"
+}
+{
+  "filepath_r": "C:\\Users",
+  "filepath": "C:\\Users"
+}
+{
+  "handle": "0x0000004c"
+}
+{
+  "filepath_r": "C:\\Users\\faker",
+  "filepath": "C:\\Users\\faker"
+}
+{
+  "handle": "0x0000004c"
+}
+{
+  "filepath_r": "C:\\Users\\faker\\AppData",
+  "filepath": "C:\\Users\\faker\\AppData"
+}
+{
+  "handle": "0x0000004c"
+}
+{
+  "filepath_r": "C:\\Users\\faker\\AppData\\Local",
+  "filepath": "C:\\Users\\faker\\AppData\\Local"
+}
+{
+  "handle": "0x0000004c"
+}
+{
+  "filepath_r": "C:\\Users\\faker\\AppData\\Local\\Temp",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp"
+}
+{
+  "handle": "0x0000004c"
+}
+{
+  "file_attributes": 8208,
+  "filepath_r": "C:\\Users\\faker\\AppData\\Local\\Temp",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp"
+}
+{
+  "handle": "0x0000004c"
+}
+{
+  "key_handle": "0x0000004c",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\Locale"
+}
+{
+  "key_handle": "0x00000050",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\Locale\\Alternate Sorts"
+}
+{
+  "key_handle": "0x00000054",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\Language Groups"
+}
+{
+  "key_handle": "0x0000004c",
+  "key_name": "00000804",
+  "value": "a",
+  "reg_type": 1,
+  "information_class": 1,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\Locale\\00000804"
+}
+{
+  "key_handle": "0x00000054",
+  "key_name": "a",
+  "value": "1",
+  "reg_type": 1,
+  "information_class": 1,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\Language Groups\\a"
+}
+{
+  "process_identifier": 856,
+  "region_size": 16384,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x004b5000"
+}
+{
+  "process_identifier": 856,
+  "region_size": 28672,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x004b9000"
+}
+{
+  "module_name": "KERNEL32.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x77490000"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774cac6c",
+  "function_name": "CopyFileExW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d3ea8",
+  "function_name": "IsDebuggerPresent"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e2732",
+  "function_name": "SetConsoleInputExeNameW"
+}
+{
+  "file_handle": "0x00000098"
+}
+{
+  "file_handle": "0x00000098",
+  "filepath": "",
+  "buffer": "15:29",
+  "offset": 0
+}
+{
+  "file_handle": "0x00000098"
+}
+{
+  "file_handle": "0x00000098",
+  "filepath": "",
+  "buffer": "\r\n",
+  "offset": 0
+}
+{
+  "module_name": "mscoree.dll",
+  "stack_pivoted": 0,
+  "module_address": "0x00000000"
+}
+{
+  "module_name": "mscoree.dll",
+  "stack_pivoted": 0,
+  "module_address": "0x00000000"
+}
+{
+  "status_code": "0x00000000",
+  "process_identifier": 0,
+  "process_handle": "0x00000000"
+}
+{
+  "status_code": "0x00000000",
+  "process_identifier": 0,
+  "process_handle": "0x00000000"
+}
+{
+  "handle": "0x00000020"
+}
+{
+  "library": "IMM32",
+  "module_address": "0x77270000"
+}
+{
+  "key_handle": "0x00000020",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize"
+}
+{
+  "key_handle": "0x00000020",
+  "key_name": "",
+  "value": "",
+  "reg_type": 0,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize\\DisableMetaFiles"
+}
+{
+  "handle": "0x00000020"
+}
+{
+  "status_code": "0x00000000",
+  "process_identifier": 856,
+  "process_handle": "0xffffffff"
+}

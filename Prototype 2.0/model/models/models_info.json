@@ -1,0 +1,290 @@
+{
+    "model1": {
+        "algorithm": "RandomForestClassifierAlgorithm",
+        "grouper": "APTGrouper",
+        "selector": "CuckooExtractedSelector",
+        "sampling": "Unbalanced",
+        "metrics": {
+            "accuracy": {
+                "average": 0.9105769230769232,
+                "std": 0.02965531773261727
+            },
+            "precision": {
+                "average": 0.9205589141250907,
+                "std": 0.021651256211186878
+            },
+            "recall": {
+                "average": 0.9034054670819376,
+                "std": 0.032469207286751324
+            },
+            "f1": {
+                "average": 0.9062438554661322,
+                "std": 0.030263112192392482
+            }
+        }
+    },
+    "model2": {
+        "algorithm": "RandomForestClassifierAlgorithm",
+        "grouper": "APTGrouper",
+        "selector": "CuckooExtractedSelector",
+        "sampling": "Undersampling",
+        "metrics": {
+            "accuracy": {
+                "average": 0.8982211538461538,
+                "std": 0.02833016065889109
+            },
+            "precision": {
+                "average": 0.9062275605894532,
+                "std": 0.028411306550228707
+            },
+            "recall": {
+                "average": 0.8935398180251122,
+                "std": 0.03406833196556427
+            },
+            "f1": {
+                "average": 0.8931074926179319,
+                "std": 0.030228175618208664
+            }
+        }
+    },
+    "model3": {
+        "algorithm": "RandomForestClassifierAlgorithm",
+        "grouper": "APTGrouper",
+        "selector": "CuckooExtractedSelector",
+        "sampling": "Oversampling",
+        "metrics": {
+            "accuracy": {
+                "average": 0.9044230769230769,
+                "std": 0.02435256325888726
+            },
+            "precision": {
+                "average": 0.9135320989397077,
+                "std": 0.019084097712649458
+            },
+            "recall": {
+                "average": 0.8955571266968325,
+                "std": 0.029932926079747475
+            },
+            "f1": {
+                "average": 0.8994088336492758,
+                "std": 0.02623097542334705
+            }
+        }
+    },
+    "model4": {
+        "algorithm": "RandomForestClassifierAlgorithm",
+        "grouper": "CountryGrouper",
+        "selector": "CuckooExtractedSelector",
+        "sampling": "Unbalanced",
+        "metrics": {
+            "accuracy": {
+                "average": 0.9629326923076924,
+                "std": 0.0185357582612508
+            },
+            "precision": {
+                "average": 0.971486994797919,
+                "std": 0.019413933929019835
+            },
+            "recall": {
+                "average": 0.9321078431372548,
+                "std": 0.03159151146579694
+            },
+            "f1": {
+                "average": 0.9492130526145781,
+                "std": 0.0257347290645435
+            }
+        }
+    },
+    "model5": {
+        "algorithm": "RandomForestClassifierAlgorithm",
+        "grouper": "CountryGrouper",
+        "selector": "CuckooExtractedSelector",
+        "sampling": "Undersampling",
+        "metrics": {
+            "accuracy": {
+                "average": 0.9505769230769232,
+                "std": 0.00653846153846156
+            },
+            "precision": {
+                "average": 0.9464560824329732,
+                "std": 0.017207197919887382
+            },
+            "recall": {
+                "average": 0.924142156862745,
+                "std": 0.008251836210555061
+            },
+            "f1": {
+                "average": 0.9340745331600004,
+                "std": 0.008762889422835176
+            }
+        }
+    },
+    "model6": {
+        "algorithm": "RandomForestClassifierAlgorithm",
+        "grouper": "CountryGrouper",
+        "selector": "CuckooExtractedSelector",
+        "sampling": "Oversampling",
+        "metrics": {
+            "accuracy": {
+                "average": 0.9505769230769232,
+                "std": 0.026560748724030088
+            },
+            "precision": {
+                "average": 0.9586275510204082,
+                "std": 0.02676746796892976
+            },
+            "recall": {
+                "average": 0.9120098039215685,
+                "std": 0.046543788525305385
+            },
+            "f1": {
+                "average": 0.9311785459263369,
+                "std": 0.038520282680262204
+            }
+        }
+    },
+    "model7": {
+        "algorithm": "RandomForestClassifierAlgorithm",
+        "grouper": "APTGrouper",
+        "selector": "CuckooExtractedSelector",
+        "sampling": "Unbalanced",
+        "metrics": {
+            "accuracy": {
+                "average": 0.9012980769230768,
+                "std": 0.015363266437229475
+            },
+            "precision": {
+                "average": 0.9140412478257748,
+                "std": 0.011702289414113344
+            },
+            "recall": {
+                "average": 0.8903052951950011,
+                "std": 0.022449140101370023
+            },
+            "f1": {
+                "average": 0.8934869983925389,
+                "std": 0.020748070117666228
+            }
+        }
+    },
+    "model8": {
+        "algorithm": "RandomForestClassifierAlgorithm",
+        "grouper": "APTGrouper",
+        "selector": "CuckooExtractedSelector",
+        "sampling": "Undersampling",
+        "metrics": {
+            "accuracy": {
+                "average": 0.901201923076923,
+                "std": 0.025130024299665443
+            },
+            "precision": {
+                "average": 0.9067352613286117,
+                "std": 0.02893715796880484
+            },
+            "recall": {
+                "average": 0.8964497145011852,
+                "std": 0.026579818261422878
+            },
+            "f1": {
+                "average": 0.8965850972414892,
+                "std": 0.029191073278951173
+            }
+        }
+    },
+    "model9": {
+        "algorithm": "RandomForestClassifierAlgorithm",
+        "grouper": "APTGrouper",
+        "selector": "CuckooExtractedSelector",
+        "sampling": "Oversampling",
+        "metrics": {
+            "accuracy": {
+                "average": 0.8950480769230769,
+                "std": 0.056255259451684435
+            },
+            "precision": {
+                "average": 0.9002114209320091,
+                "std": 0.05530689441030254
+            },
+            "recall": {
+                "average": 0.8834787271551978,
+                "std": 0.06284645060367225
+            },
+            "f1": {
+                "average": 0.8857409880417088,
+                "std": 0.061922035763459345
+            }
+        }
+    },
+    "model10": {
+        "algorithm": "RandomForestClassifierAlgorithm",
+        "grouper": "CountryGrouper",
+        "selector": "CuckooExtractedSelector",
+        "sampling": "Unbalanced",
+        "metrics": {
+            "accuracy": {
+                "average": 0.9569230769230771,
+                "std": 0.035617959700893
+            },
+            "precision": {
+                "average": 0.9678620781645992,
+                "std": 0.028428203030801222
+            },
+            "recall": {
+                "average": 0.9214460784313726,
+                "std": 0.06482877886411191
+            },
+            "f1": {
+                "average": 0.9391574911297973,
+                "std": 0.05192920396621814
+            }
+        }
+    },
+    "model11": {
+        "algorithm": "RandomForestClassifierAlgorithm",
+        "grouper": "CountryGrouper",
+        "selector": "CuckooExtractedSelector",
+        "sampling": "Undersampling",
+        "metrics": {
+            "accuracy": {
+                "average": 0.947596153846154,
+                "std": 0.020770121063539405
+            },
+            "precision": {
+                "average": 0.9486191501772334,
+                "std": 0.03810745181415197
+            },
+            "recall": {
+                "average": 0.9186274509803921,
+                "std": 0.020412414523193142
+            },
+            "f1": {
+                "average": 0.9304938541211705,
+                "std": 0.024389378704687752
+            }
+        }
+    },
+    "model12": {
+        "algorithm": "RandomForestClassifierAlgorithm",
+        "grouper": "CountryGrouper",
+        "selector": "CuckooExtractedSelector",
+        "sampling": "Oversampling",
+        "metrics": {
+            "accuracy": {
+                "average": 0.9506730769230771,
+                "std": 0.02977293258637614
+            },
+            "precision": {
+                "average": 0.9622792632204396,
+                "std": 0.01836729984018198
+            },
+            "recall": {
+                "average": 0.9134803921568629,
+                "std": 0.06340227231994579
+            },
+            "f1": {
+                "average": 0.9299785900153722,
+                "std": 0.0476053709697691
+            }
+        }
+    }
+}

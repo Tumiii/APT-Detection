@@ -1,0 +1,2870 @@
+{
+  "basename": "Kernel32",
+  "module_address": "0x77490000",
+  "flags": 0,
+  "module_name": "Kernel32.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dcf41",
+  "function_name": "GetModuleHandleA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d2341",
+  "function_name": "VirtualProtect"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e33f6",
+  "function_name": "GetModuleFileNameA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dcee8",
+  "function_name": "CreateFileA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d9ce1",
+  "function_name": "GlobalAlloc"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d9cf9",
+  "function_name": "GlobalFree"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d96fb",
+  "function_name": "ReadFile"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d0273",
+  "function_name": "GetFileSize"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dca7c",
+  "function_name": "CloseHandle"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c8014",
+  "function_name": "CreateSemaphoreA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d7267",
+  "function_name": "ReleaseSemaphore"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dba46",
+  "function_name": "Sleep"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dba90",
+  "function_name": "WaitForSingleObject"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e375d",
+  "function_name": "CreateThread"
+}
+{
+  "process_identifier": 2308,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "length": 4096,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "base_address": "0x00400000"
+}
+{
+  "thread_identifier": 2484,
+  "function_address": "0x004a85d8",
+  "flags": 0,
+  "parameter": "0x00000000",
+  "stack_size": 0
+}
+{
+  "handle": "0x00000024"
+}
+{
+  "handle": "0x00000028"
+}
+{
+  "basename": "KERNEL32",
+  "module_address": "0x77490000",
+  "flags": 0,
+  "module_name": "KERNEL32.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1400",
+  "function_name": "WriteFile"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d0273",
+  "function_name": "GetFileSize"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dcee8",
+  "function_name": "CreateFileA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774f68da",
+  "function_name": "CreateDirectoryA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d9cf9",
+  "function_name": "GlobalFree"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d9ce1",
+  "function_name": "GlobalAlloc"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dd9d0",
+  "function_name": "FreeLibrary"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x775d2dd6",
+  "function_name": "HeapAlloc"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1280",
+  "function_name": "GetProcessHeap"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e452b",
+  "function_name": "MultiByteToWideChar"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1e46",
+  "function_name": "GetStdHandle"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dbf00",
+  "function_name": "GetLastError"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774ddb36",
+  "function_name": "SetFilePointer"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e450e",
+  "function_name": "WideCharToMultiByte"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dcf41",
+  "function_name": "GetModuleHandleA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d59d7",
+  "function_name": "OpenProcess"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d2331",
+  "function_name": "TerminateProcess"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c733c",
+  "function_name": "GetCurrentDirectoryA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e3735",
+  "function_name": "GetFullPathNameA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7751f74b",
+  "function_name": "PeekNamedPipe"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d96fb",
+  "function_name": "ReadFile"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x775af611",
+  "function_name": "ExitThread"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dba46",
+  "function_name": "Sleep"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d8fc5",
+  "function_name": "GetSystemDirectoryA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774f6a65",
+  "function_name": "GetTempPathA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774f5d02",
+  "function_name": "GetWindowsDirectoryA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774f532c",
+  "function_name": "CopyFileA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d47cb",
+  "function_name": "DeleteFileA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774f35b7",
+  "function_name": "CreatePipe"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x77491e10",
+  "function_name": "GetStartupInfoA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x77492082",
+  "function_name": "CreateProcessA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e375d",
+  "function_name": "CreateThread"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e22a7",
+  "function_name": "TerminateThread"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c6ddd",
+  "function_name": "GetExitCodeThread"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e33f6",
+  "function_name": "GetModuleFileNameA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c6ba9",
+  "function_name": "GetComputerNameA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e3728",
+  "function_name": "GetSystemInfo"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e3861",
+  "function_name": "GetVersionExA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774cdce6",
+  "function_name": "GetSystemPowerStatus"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dba60",
+  "function_name": "GetTickCount"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e2412",
+  "function_name": "GetConsoleMode"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e246c",
+  "function_name": "SetConsoleMode"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7753cd07",
+  "function_name": "ReadConsoleInputA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e2004",
+  "function_name": "FileTimeToLocalFileTime"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1dfe",
+  "function_name": "FileTimeToSystemTime"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7753deb5",
+  "function_name": "FlushConsoleInputBuffer"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e0e62",
+  "function_name": "FindClose"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e2d89",
+  "function_name": "FindFirstFileA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774f60e9",
+  "function_name": "IsBadCodePtr"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774cb6a3",
+  "function_name": "IsBadReadPtr"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e65d4",
+  "function_name": "SetConsoleCtrlHandler"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e3d01",
+  "function_name": "SetUnhandledExceptionFilter"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774ceb60",
+  "function_name": "RaiseException"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d2030",
+  "function_name": "GlobalMemoryStatus"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c8739",
+  "function_name": "GetDriveTypeA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774ed7d2",
+  "function_name": "GetDiskFreeSpaceA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dbbd0",
+  "function_name": "HeapFree"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c8a3b",
+  "function_name": "GetTimeZoneInformation"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dced8",
+  "function_name": "GetSystemTime"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774da90e",
+  "function_name": "GetLocalTime"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x775eff51",
+  "function_name": "HeapReAlloc"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c7f70",
+  "function_name": "RtlUnwind"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e98ff",
+  "function_name": "GetCommandLineA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d154e",
+  "function_name": "GetVersion"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e214f",
+  "function_name": "ExitProcess"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dce2e",
+  "function_name": "GetEnvironmentVariableA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d2301",
+  "function_name": "HeapDestroy"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e3ea2",
+  "function_name": "HeapCreate"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1da4",
+  "function_name": "VirtualFree"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e2fb6",
+  "function_name": "VirtualAlloc"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c88de",
+  "function_name": "IsBadWritePtr"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x775d9bec",
+  "function_name": "HeapSize"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e9911",
+  "function_name": "SetHandleCount"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e75a5",
+  "function_name": "GetFileType"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774eed38",
+  "function_name": "UnhandledExceptionFilter"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e2f81",
+  "function_name": "FreeEnvironmentStringsA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1dc3",
+  "function_name": "FreeEnvironmentStringsW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e2f99",
+  "function_name": "GetEnvironmentStrings"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1dbc",
+  "function_name": "GetEnvironmentStringsW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774ed53d",
+  "function_name": "LCMapStringA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e13d0",
+  "function_name": "LCMapStringW"
+}
+{
+  "skipped": 0,
+  "milliseconds": 10
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c689f",
+  "function_name": "GetStringTypeA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e67c8",
+  "function_name": "GetStringTypeW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7751f589",
+  "function_name": "SetStdHandle"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c7f81",
+  "function_name": "FlushFileBuffers"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1e2e",
+  "function_name": "GetCPInfo"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e39aa",
+  "function_name": "GetACP"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d3db9",
+  "function_name": "GetOEMCP"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d2319",
+  "function_name": "SetEndOfFile"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d0f4a",
+  "function_name": "CompareStringA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d9bee",
+  "function_name": "CompareStringW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d8921",
+  "function_name": "SetEnvironmentVariableA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dbb9f",
+  "function_name": "QueryPerformanceCounter"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dbb80",
+  "function_name": "GetCurrentThreadId"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dbb08",
+  "function_name": "SetLastError"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e395c",
+  "function_name": "LoadLibraryA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e33d3",
+  "function_name": "GetProcAddress"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dcac4",
+  "function_name": "GetCurrentProcessId"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dcdcf",
+  "function_name": "GetCurrentProcess"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dca7c",
+  "function_name": "CloseHandle"
+}
+{
+  "basename": "gdi32",
+  "module_address": "0x75b10000",
+  "flags": 0,
+  "module_name": "gdi32.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "GDI32",
+  "module_address": "0x75b10000",
+  "function_address": "0x75b1bd76",
+  "function_name": "GetCharABCWidthsI"
+}
+{}
+{
+  "information_class": 0
+}
+{
+  "dirpath": "C:\\Windows\\system32"
+}
+{
+  "module_name": "C:\\Windows\\system32\\IMM32.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x00000000"
+}
+{
+  "module_name": "C:\\Windows\\system32\\IMM32.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x00000000"
+}
+{
+  "basename": "IMM32",
+  "module_address": "0x77270000",
+  "flags": 0,
+  "module_name": "C:\\Windows\\system32\\IMM32.DLL",
+  "stack_pivoted": 0
+}
+{
+  "dirpath": "C:\\Windows\\system32"
+}
+{
+  "module_name": "C:\\Windows\\system32\\IMM32.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x77270000"
+}
+{
+  "key_handle": "0x00000000",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Error Message Instrument\\"
+}
+{
+  "key_handle": "0x00000024",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize"
+}
+{
+  "key_handle": "0x00000024",
+  "key_name": "",
+  "value": "",
+  "reg_type": 0,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize\\DisableMetaFiles"
+}
+{
+  "handle": "0x00000024"
+}
+{
+  "module_name": "LPK.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x776c0000"
+}
+{
+  "ordinal": 0,
+  "module": "LPK",
+  "module_address": "0x776c0000",
+  "function_address": "0x776c54f3",
+  "function_name": "LpkTabbedTextOut"
+}
+{
+  "ordinal": 0,
+  "module": "LPK",
+  "module_address": "0x776c0000",
+  "function_address": "0x776c4251",
+  "function_name": "LpkPSMTextOut"
+}
+{
+  "ordinal": 0,
+  "module": "LPK",
+  "module_address": "0x776c0000",
+  "function_address": "0x776c1770",
+  "function_name": "LpkDrawTextEx"
+}
+{
+  "ordinal": 0,
+  "module": "LPK",
+  "module_address": "0x776c0000",
+  "function_address": "0x776c706c",
+  "function_name": "LpkEditControl"
+}
+{
+  "handle": "0x0000003c"
+}
+{
+  "handle": "0x00000038"
+}
+{
+  "key_handle": "0x00000038",
+  "desired_access": "0x02000000",
+  "regkey": "HKEY_LOCAL_MACHINE"
+}
+{
+  "key_handle": "0x0000003c",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Windows",
+  "options": 0
+}
+{
+  "key_handle": "0x0000003c",
+  "key_name": "",
+  "value": 0,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\Windows\\LoadAppInit_DLLs"
+}
+{
+  "handle": "0x0000003c"
+}
+{
+  "basename": "USER32",
+  "module_address": "0x764a0000",
+  "flags": 0,
+  "module_name": "USER32.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764b67cf",
+  "function_name": "GetSystemMetrics"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764adfdc",
+  "function_name": "GetProcessWindowStation"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764b01a9",
+  "function_name": "GetDesktopWindow"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764b3f47",
+  "function_name": "wsprintfA"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764b544c",
+  "function_name": "GetDC"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764ae355",
+  "function_name": "GetUserObjectInformationW"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764fea11",
+  "function_name": "MessageBoxA"
+}
+{
+  "basename": "GDI32",
+  "module_address": "0x75b10000",
+  "flags": 0,
+  "module_name": "GDI32.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "GDI32",
+  "module_address": "0x75b10000",
+  "function_address": "0x75b1914f",
+  "function_name": "GetObjectA"
+}
+{
+  "ordinal": 0,
+  "module": "GDI32",
+  "module_address": "0x75b10000",
+  "function_address": "0x75b1a23b",
+  "function_name": "GetDIBits"
+}
+{
+  "ordinal": 0,
+  "module": "GDI32",
+  "module_address": "0x75b10000",
+  "function_address": "0x75b173ad",
+  "function_name": "CreateCompatibleBitmap"
+}
+{
+  "ordinal": 0,
+  "module": "GDI32",
+  "module_address": "0x75b10000",
+  "function_address": "0x75b16888",
+  "function_name": "CreateCompatibleDC"
+}
+{
+  "ordinal": 0,
+  "module": "GDI32",
+  "module_address": "0x75b10000",
+  "function_address": "0x75b16640",
+  "function_name": "SelectObject"
+}
+{
+  "ordinal": 0,
+  "module": "GDI32",
+  "module_address": "0x75b10000",
+  "function_address": "0x75b172c0",
+  "function_name": "BitBlt"
+}
+{
+  "key_handle": "0x0000003c",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Terminal Server"
+}
+{
+  "key_handle": "0x0000003c",
+  "key_name": "",
+  "value": "",
+  "reg_type": 0,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Terminal Server\\TSAppCompat"
+}
+{
+  "key_handle": "0x0000003c",
+  "key_name": "",
+  "value": 0,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Terminal Server\\TSUserEnabled"
+}
+{
+  "handle": "0x0000003c"
+}
+{
+  "initial_owner": 0,
+  "desired_access": "0x001f0001",
+  "mutant_name": "",
+  "mutant_handle": "0x0000003c"
+}
+{}
+{
+  "key_handle": "0x00000000",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Diagnostics",
+  "options": 0
+}
+{
+  "basename": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "flags": 0,
+  "module_name": "ADVAPI32.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x77432538",
+  "function_name": "CreateProcessAsUserA"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x7740404a",
+  "function_name": "LookupPrivilegeValueA"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x77404304",
+  "function_name": "OpenProcessToken"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x7741a4b4",
+  "function_name": "GetUserNameA"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x7740469d",
+  "function_name": "RegCloseKey"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x774035dd",
+  "function_name": "DeregisterEventSource"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x773f3ee9",
+  "function_name": "ReportEventA"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x77402d46",
+  "function_name": "RegisterEventSourceA"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x7740431c",
+  "function_name": "GetTokenInformation"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x77431daa",
+  "function_name": "LookupAccountSidA"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x77432654",
+  "function_name": "LogonUserA"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x774014b3",
+  "function_name": "RegSetValueExA"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x77404907",
+  "function_name": "RegOpenKeyExA"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x774048ef",
+  "function_name": "RegQueryValueExA"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x7741a4ea",
+  "function_name": "RegDeleteValueA"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x7740418e",
+  "function_name": "AdjustTokenPrivileges"
+}
+{
+  "processor_count": 1
+}
+{
+  "basename": "WS2_32",
+  "module_address": "0x763b0000",
+  "flags": 0,
+  "module_name": "WS2_32.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 115,
+  "module": "WS2_32",
+  "module_address": "0x763b0000",
+  "function_address": "0x763b3ab2",
+  "function_name": ""
+}
+{
+  "ordinal": 16,
+  "module": "WS2_32",
+  "module_address": "0x763b0000",
+  "function_address": "0x763b6b0e",
+  "function_name": ""
+}
+{
+  "ordinal": 23,
+  "module": "WS2_32",
+  "module_address": "0x763b0000",
+  "function_address": "0x763b3eb8",
+  "function_name": ""
+}
+{
+  "ordinal": 9,
+  "module": "WS2_32",
+  "module_address": "0x763b0000",
+  "function_address": "0x763b2d8b",
+  "function_name": ""
+}
+{
+  "ordinal": 11,
+  "module": "WS2_32",
+  "module_address": "0x763b0000",
+  "function_address": "0x763b311b",
+  "function_name": ""
+}
+{
+  "ordinal": 112,
+  "module": "WS2_32",
+  "module_address": "0x763b0000",
+  "function_address": "0x763b37d9",
+  "function_name": ""
+}
+{
+  "ordinal": 57,
+  "module": "WS2_32",
+  "module_address": "0x763b0000",
+  "function_address": "0x763ba05b",
+  "function_name": ""
+}
+{
+  "ordinal": 18,
+  "module": "WS2_32",
+  "module_address": "0x763b0000",
+  "function_address": "0x763b6989",
+  "function_name": ""
+}
+{
+  "ordinal": 151,
+  "module": "WS2_32",
+  "module_address": "0x763b0000",
+  "function_address": "0x763b6a8a",
+  "function_name": ""
+}
+{
+  "ordinal": 22,
+  "module": "WS2_32",
+  "module_address": "0x763b0000",
+  "function_address": "0x763b449d",
+  "function_name": ""
+}
+{
+  "ordinal": 3,
+  "module": "WS2_32",
+  "module_address": "0x763b0000",
+  "function_address": "0x763b3918",
+  "function_name": ""
+}
+{
+  "ordinal": 116,
+  "module": "WS2_32",
+  "module_address": "0x763b0000",
+  "function_address": "0x763b3c5f",
+  "function_name": ""
+}
+{
+  "ordinal": 111,
+  "module": "WS2_32",
+  "module_address": "0x763b0000",
+  "function_address": "0x763b37ad",
+  "function_name": ""
+}
+{
+  "ordinal": 4,
+  "module": "WS2_32",
+  "module_address": "0x763b0000",
+  "function_address": "0x763b6bdd",
+  "function_name": ""
+}
+{
+  "ordinal": 19,
+  "module": "WS2_32",
+  "module_address": "0x763b0000",
+  "function_address": "0x763b6f01",
+  "function_name": ""
+}
+{
+  "ordinal": 52,
+  "module": "WS2_32",
+  "module_address": "0x763b0000",
+  "function_address": "0x763c7673",
+  "function_name": ""
+}
+{
+  "ordinal": 12,
+  "module": "WS2_32",
+  "module_address": "0x763b0000",
+  "function_address": "0x763bb131",
+  "function_name": ""
+}
+{
+  "basename": "NETAPI32",
+  "module_address": "0x73ee0000",
+  "flags": 0,
+  "module_name": "NETAPI32.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "NETAPI32",
+  "module_address": "0x73ee0000",
+  "function_address": "0x6ff62f61",
+  "function_name": "NetServerEnum"
+}
+{
+  "ordinal": 0,
+  "module": "NETAPI32",
+  "module_address": "0x73ee0000",
+  "function_address": "0x73ed13d2",
+  "function_name": "NetApiBufferFree"
+}
+{}
+{
+  "key_handle": "0x00000064",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\crypt32",
+  "options": 0
+}
+{
+  "key_handle": "0x00000064",
+  "key_name": "",
+  "value": "",
+  "reg_type": 0,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\services\\crypt32\\DebugHeapFlags"
+}
+{
+  "handle": "0x00000064"
+}
+{
+  "access": "0x00000001",
+  "base_handle": "0x80000002",
+  "key_handle": "0x00000064",
+  "regkey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+  "regkey_r": "Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+  "options": 0
+}
+{
+  "key_handle": "0x00000064",
+  "value": "",
+  "regkey_r": "DisableImprovedZoneCheck",
+  "reg_type": 0,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\DisableImprovedZoneCheck"
+}
+{
+  "key_handle": "0x00000064"
+}
+{
+  "key_handle": "0x00000064",
+  "desired_access": "0x00000001",
+  "regkey": "HKEY_LOCAL_MACHINE\\Software\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings",
+  "options": 0
+}
+{
+  "key_handle": "0x00000064",
+  "key_name": "",
+  "value": "",
+  "reg_type": 0,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Security_HKLM_only"
+}
+{
+  "handle": "0x00000064"
+}
+{
+  "handle": "0x00000064"
+}
+{
+  "handle": "0x00000090"
+}
+{
+  "basename": "WININET",
+  "module_address": "0x75d50000",
+  "flags": 0,
+  "module_name": "WININET.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "WININET",
+  "module_address": "0x75d50000",
+  "function_address": "0x75d981f5",
+  "function_name": "InternetGetConnectedState"
+}
+{
+  "process_identifier": 2308,
+  "region_size": 1376256,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 8192,
+  "base_address": "0x01380000"
+}
+{
+  "free_type": 32768,
+  "process_identifier": 2308,
+  "process_handle": "0xffffffff",
+  "base_address": "0x01380000",
+  "size": 1310720
+}
+{
+  "process_identifier": 2308,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x014c0000"
+}
+{
+  "file_handle": "0x00000000"
+}
+{
+  "file_handle": "0x00000000"
+}
+{
+  "file_handle": "0x00000000"
+}
+{
+  "process_identifier": 2308,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x014c1000"
+}
+{
+  "module_name": "KERNEL32",
+  "stack_pivoted": 0,
+  "module_address": "0x77490000"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e76b5",
+  "function_name": "IsProcessorFeaturePresent"
+}
+{}
+{
+  "access": "0x000f003f",
+  "base_handle": "0x80000001",
+  "key_handle": "0x00000064",
+  "regkey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+  "regkey_r": "Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+  "options": 0
+}
+{
+  "key_handle": "0x00000064",
+  "value": "",
+  "regkey_r": "McUpdate",
+  "reg_type": 0,
+  "regkey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\McUpdate"
+}
+{
+  "key_handle": "0x00000064",
+  "value": "C:\\Users\\faker\\AppData\\Local\\Temp\\1b32e6800b3a80e74f135b75925f3c1e081662adfac53262ec9a8a830398ff64.exe\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "regkey_r": "McUpdate",
+  "reg_type": 1,
+  "regkey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\McUpdate"
+}
+{
+  "key_handle": "0x00000064"
+}
+{
+  "wVersionRequested": 257
+}
+{
+  "system_name": "",
+  "privilege_name": "SeShutdownPrivilege"
+}
+{
+  "system_name": "",
+  "privilege_name": "SeSecurityPrivilege"
+}
+{
+  "handle": "0x000000a4"
+}
+{
+  "dirpath": "C:\\Windows\\system32"
+}
+{
+  "dirpath": "C:\\Users\\faker\\AppData\\Local\\Temp\\"
+}
+{
+  "oldfilepath": "C:\\Windows\\System32\\cmd.exe",
+  "fail_if_exists": 0,
+  "newfilepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\ctfmon.exe\\svchost.exe",
+  "newfilepath_r": "C:\\Users\\faker\\AppData\\Local\\Temp\\ctfmon.exe\\svchost.exe",
+  "oldfilepath_r": "C:\\Windows\\system32\\cmd.exe"
+}
+{
+  "ordinal": 0,
+  "module": "RASAPI32",
+  "module_address": "0x73db0000",
+  "function_address": "0x73db31f5",
+  "function_name": "RasConnectionNotificationW"
+}
+{
+  "buffer": "\u0000\u0000@\u0000",
+  "base_address": "0x7ffd7008",
+  "process_handle": "0xffffffff"
+}
+{
+  "buffer": "xew",
+  "base_address": "0x7ffd700c",
+  "process_handle": "0xffffffff"
+}
+{
+  "buffer": " \u001b\u001e\u0000",
+  "base_address": "0x77657894",
+  "process_handle": "0xffffffff"
+}
+{
+  "buffer": "\u001b\u001e\u0000xew \u001b\u001e\u0000xew\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u0000\u0000J\u0000\u0000\u0010\u0000\u0000Ì\u0000Î\u0000ú\u0017\u001e\u0000\u0000\u0000>\u0018\u001e\u0000\u0000@\u0000\u0000ÿÿ\u0000\u0000À¥ewÀ¥ewBå,J\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000h\u001b\u001e\u0000h\u001b\u001e\u0000p\u001b\u001e\u0000p\u001b\u001e\u0000È&\u001e\u0000È&\u001e\u00008\u0005_w\u0000\u0000@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "base_address": "0x001e1b18",
+  "process_handle": "0xffffffff"
+}
+{
+  "buffer": "1\u0000b\u00003\u00002\u0000e\u00006\u00008\u00000\u00000\u0000b\u00003\u0000a\u00008\u00000\u0000e\u00007\u00004\u0000f\u00001\u00003\u00005\u0000b\u00007\u00005\u00009\u00002\u00005\u0000f\u00003\u0000c\u00001\u0000e\u00000\u00008\u00001\u00006\u00006\u00002\u0000a\u0000d\u0000f\u0000a\u0000c\u00005\u00003\u00002\u00006\u00002\u0000e\u0000c\u00009\u0000a\u00008\u0000a\u00008\u00003\u00000\u00003\u00009\u00008\u0000f\u0000f\u00006\u00004\u0000",
+  "base_address": "0x001e183e",
+  "process_handle": "0xffffffff"
+}
+{
+  "basename": "RASMAN",
+  "module_address": "0x73d90000",
+  "flags": 0,
+  "module_name": "RASMAN.DLL",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95137",
+  "function_name": "RasPortClearStatistics"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95151",
+  "function_name": "RasBundleClearStatistics"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d96f0b",
+  "function_name": "RasBundleClearStatisticsEx"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d9516b",
+  "function_name": "RasDeviceEnum"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d951c2",
+  "function_name": "RasDeviceGetInfo"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95382",
+  "function_name": "RasFreeBuffer"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d952ef",
+  "function_name": "RasGetBuffer"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d952b0",
+  "function_name": "RasGetInfo"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d9528f",
+  "function_name": "RasGetDialMachineEventContext"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95262",
+  "function_name": "RasSetDialMachineEventHandle"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d9635e",
+  "function_name": "RasGetNdiswanDriverCaps"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d96849",
+  "function_name": "RasInitialize"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d94d21",
+  "function_name": "RasInitializeNoWait"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95057",
+  "function_name": "RasPortCancelReceive"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d96c41",
+  "function_name": "RasPortEnum"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d94f10",
+  "function_name": "RasPortGetInfo"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95620",
+  "function_name": "RasPortGetFramingEx"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d950b3",
+  "function_name": "RasPortGetStatistics"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d950d4",
+  "function_name": "RasBundleGetStatistics"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d950f5",
+  "function_name": "RasPortGetStatisticsEx"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95116",
+  "function_name": "RasBundleGetStatisticsEx"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95004",
+  "function_name": "RasPortReceive"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95036",
+  "function_name": "RasPortReceiveEx"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d94fdf",
+  "function_name": "RasPortSend"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d9583e",
+  "function_name": "RasPortGetBundle"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95d32",
+  "function_name": "RasGetDevConfig"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d965d2",
+  "function_name": "RasGetDevConfigEx"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95d0e",
+  "function_name": "RasSetDevConfig"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d94eec",
+  "function_name": "RasPortClose"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95071",
+  "function_name": "RasPortListen"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95099",
+  "function_name": "RasPortConnectComplete"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d94f4f",
+  "function_name": "RasPortDisconnect"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d954dd",
+  "function_name": "RasRequestNotification"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95520",
+  "function_name": "RasPortEnumProtocols"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95541",
+  "function_name": "RasPortSetFraming"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95602",
+  "function_name": "RasPortSetFramingEx"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d954bc",
+  "function_name": "RasSetCachedCredentials"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d958b4",
+  "function_name": "RasGetDialParams"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d958d5",
+  "function_name": "RasSetDialParams"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d958f9",
+  "function_name": "RasCreateConnection"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d9599f",
+  "function_name": "RasDestroyConnection"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95939",
+  "function_name": "RasConnectionEnum"
+}
+{
+  "flags": 0
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d9595a",
+  "function_name": "RasAddConnectionPort"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d9597b",
+  "function_name": "RasEnumConnectionPorts"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95a65",
+  "function_name": "RasGetConnectionParams"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95ade",
+  "function_name": "RasSetConnectionParams"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95afc",
+  "function_name": "RasGetConnectionUserData"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95b20",
+  "function_name": "RasSetConnectionUserData"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95b44",
+  "function_name": "RasGetPortUserData"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95b68",
+  "function_name": "RasSetPortUserData"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d92f77",
+  "function_name": "RasAddNotification"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95cda",
+  "function_name": "RasSignalNewConnection"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95cf4",
+  "function_name": "RasApplyPostConnectActions"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95baa",
+  "function_name": "RasProtocolStop"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95bc4",
+  "function_name": "RasProtocolCallback"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95be2",
+  "function_name": "RasProtocolChangePassword"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95c06",
+  "function_name": "RasProtocolGetInfo"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95c24",
+  "function_name": "RasProtocolRetry"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95c48",
+  "function_name": "RasProtocolStart"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d94e75",
+  "function_name": "RasPortOpen"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d953c0",
+  "function_name": "RasAllocateRoute"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d953e4",
+  "function_name": "RasActivateRoute"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95408",
+  "function_name": "RasActivateRouteEx"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95210",
+  "function_name": "RasDeviceSetInfo"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d951e9",
+  "function_name": "RasDeviceSetInfoSafe"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95234",
+  "function_name": "RasDeviceConnect"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d94f31",
+  "function_name": "RasPortSetInfo"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95b8c",
+  "function_name": "RasSendProtocolResultToRasman"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95e4d",
+  "function_name": "RasSetEapInfo"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d97523",
+  "function_name": "RasRpcConnect"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d9753e",
+  "function_name": "RasRpcDisconnect"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95fb6",
+  "function_name": "RasGetNumPortOpen"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95fde",
+  "function_name": "RasRefConnection"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d96029",
+  "function_name": "RasSetEapUIData"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d95fff",
+  "function_name": "RasGetEapUIData"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d960be",
+  "function_name": "RasFindPrerequisiteEntry"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d96bc0",
+  "function_name": "RasPortOpenEx"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d960dc",
+  "function_name": "RasLinkGetStatistics"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d960fd",
+  "function_name": "RasConnectionGetStatistics"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d9611b",
+  "function_name": "RasGetHportFromConnection"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d97479",
+  "function_name": "RasRPCBind"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d96139",
+  "function_name": "RasReferenceCustomCount"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d96160",
+  "function_name": "RasGetHConnFromEntry"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d961b1",
+  "function_name": "RasGetDeviceName"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d96277",
+  "function_name": "RasEnableIpSec"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d962e8",
+  "function_name": "RasSetTunnelEndPoints"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d94a02",
+  "function_name": "RasStartRasAutoIfRequired"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d96657",
+  "function_name": "RasStartProtocolRenegotiation"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d96344",
+  "function_name": "RasSendNotification"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d961de",
+  "function_name": "RasGetDeviceNameW"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d96616",
+  "function_name": "RasGetUnicodeDeviceName"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d97c1e",
+  "function_name": "RasRpcGetVersion"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d97999",
+  "function_name": "RasRpcPortEnum"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d979c4",
+  "function_name": "RasRpcDeviceEnum"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d979ef",
+  "function_name": "RasRpcGetDevConfig"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d97a1a",
+  "function_name": "RasRpcPortGetInfo"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d97af1",
+  "function_name": "RasRpcGetInstalledProtocols"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d97bf3",
+  "function_name": "RasRpcGetInstalledProtocolsEx"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d97b72",
+  "function_name": "RasRpcGetSystemDirectory"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d97b1c",
+  "function_name": "RasRpcGetUserPreferences"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d97a70",
+  "function_name": "RasRpcDeleteEntry"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d97a45",
+  "function_name": "RasRpcEnumConnections"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d97ac6",
+  "function_name": "RasRpcGetCountryInfo"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d97a9b",
+  "function_name": "RasRpcGetErrorString"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d97b47",
+  "function_name": "RasRpcSetUserPreferences"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d96f35",
+  "function_name": "RasProtocolUpdateConnection"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d966b6",
+  "function_name": "RasAddNotificationEx"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d9671c",
+  "function_name": "RasRemoveNotificationEx"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d96739",
+  "function_name": "RasGetNotificationEntry"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d97437",
+  "function_name": "RasSignalMonitorThreadExit"
+}
+{
+  "ordinal": 0,
+  "module": "rasman",
+  "module_address": "0x73d90000",
+  "function_address": "0x73d967c2",
+  "function_name": "RasmanUninitialize"
+}
+{
+  "buffer": "\u0000\u0000@\u0000",
+  "base_address": "0x7ffd7008",
+  "process_handle": "0xffffffff"
+}
+{
+  "buffer": "xew",
+  "base_address": "0x7ffd700c",
+  "process_handle": "0xffffffff"
+}
+{
+  "buffer": " \u001b\u001e\u0000",
+  "base_address": "0x77657894",
+  "process_handle": "0xffffffff"
+}
+{
+  "buffer": "\u001b\u001e\u0000xew \u001b\u001e\u0000xew\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000@\u0000\u0000J\u0000\u0000\u0010\u0000\u0000Ì\u0000Î\u0000ú\u0017\u001e\u0000\u0000\u0000>\u0018\u001e\u0000\u0000@\u0000\u0000ÿÿ\u0000\u0000À¥ewÀ¥ewBå,J\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000h\u001b\u001e\u0000h\u001b\u001e\u0000p\u001b\u001e\u0000p\u001b\u001e\u0000È&\u001e\u0000È&\u001e\u00008\u0005_w\u0000\u0000@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "base_address": "0x001e1b18",
+  "process_handle": "0xffffffff"
+}
+{
+  "buffer": "1\u0000b\u00003\u00002\u0000e\u00006\u00008\u00000\u00000\u0000b\u00003\u0000a\u00008\u00000\u0000e\u00007\u00004\u0000f\u00001\u00003\u00005\u0000b\u00007\u00005\u00009\u00002\u00005\u0000f\u00003\u0000c\u00001\u0000e\u00000\u00008\u00001\u00006\u00006\u00002\u0000a\u0000d\u0000f\u0000a\u0000c\u00005\u00003\u00002\u00006\u00002\u0000e\u0000c\u00009\u0000a\u00008\u0000a\u00008\u00003\u00000\u00003\u00009\u00008\u0000f\u0000f\u00006\u00004\u0000",
+  "base_address": "0x001e183e",
+  "process_handle": "0xffffffff"
+}
+{
+  "basename": "rtutils",
+  "module_address": "0x73d80000",
+  "flags": 0,
+  "module_name": "rtutils.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "rtutils",
+  "module_address": "0x73d80000",
+  "function_address": "0x73d82305",
+  "function_name": "TraceRegisterExA"
+}
+{
+  "key_handle": "0x00000000",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Tracing\\RASMANCS",
+  "options": 0
+}
+{
+  "index": 0,
+  "key_handle": "0x0000024c",
+  "desired_access": "0x0002001f",
+  "class": "",
+  "regkey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Tracing",
+  "disposition": 2,
+  "options": 0
+}
+{
+  "handle": "0x0000024c"
+}
+{
+  "index": 0,
+  "key_handle": "0x0000024c",
+  "desired_access": "0x0002001b",
+  "class": "",
+  "regkey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Tracing\\RASMANCS",
+  "disposition": 1,
+  "options": 0
+}
+{
+  "index": 0,
+  "key_handle": "0x0000024c",
+  "value": 0,
+  "reg_type": 4,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASMANCS\\EnableFileTracing"
+}
+{
+  "index": 0,
+  "key_handle": "0x0000024c",
+  "value": 0,
+  "reg_type": 4,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASMANCS\\EnableConsoleTracing"
+}
+{
+  "index": 0,
+  "key_handle": "0x0000024c",
+  "value": 4294901760,
+  "reg_type": 4,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASMANCS\\FileTracingMask"
+}
+{
+  "index": 0,
+  "key_handle": "0x0000024c",
+  "value": 4294901760,
+  "reg_type": 4,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASMANCS\\ConsoleTracingMask"
+}
+{
+  "index": 0,
+  "key_handle": "0x0000024c",
+  "value": 1048576,
+  "reg_type": 4,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASMANCS\\MaxFileSize"
+}
+{
+  "index": 0,
+  "key_handle": "0x0000024c",
+  "value": "%windir%\\tracing",
+  "reg_type": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASMANCS\\FileDirectory"
+}
+{
+  "key_handle": "0x0000024c",
+  "key_name": "",
+  "value": 0,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASMANCS\\EnableFileTracing"
+}
+{
+  "key_handle": "0x0000024c",
+  "key_name": "",
+  "value": 4294901760,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASMANCS\\FileTracingMask"
+}
+{
+  "key_handle": "0x0000024c",
+  "key_name": "",
+  "value": 0,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASMANCS\\EnableConsoleTracing"
+}
+{
+  "key_handle": "0x0000024c",
+  "key_name": "",
+  "value": 4294901760,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASMANCS\\ConsoleTracingMask"
+}
+{
+  "key_handle": "0x0000024c",
+  "key_name": "",
+  "value": 1048576,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASMANCS\\MaxFileSize"
+}
+{
+  "key_handle": "0x0000024c",
+  "key_name": "",
+  "value": "%windir%\\tracing",
+  "reg_type": 2,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASMANCS\\FileDirectory"
+}
+{
+  "key_handle": "0x0000024c",
+  "key_name": "",
+  "value": "%windir%\\tracing",
+  "reg_type": 2,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASMANCS\\FileDirectory"
+}
+{
+  "key_handle": "0x000001b4",
+  "key_name": "",
+  "value": 0,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASAPI32\\EnableFileTracing"
+}
+{
+  "key_handle": "0x000001b4",
+  "key_name": "",
+  "value": 4294901760,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASAPI32\\FileTracingMask"
+}
+{
+  "key_handle": "0x000001b4",
+  "key_name": "",
+  "value": 0,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASAPI32\\EnableConsoleTracing"
+}
+{
+  "key_handle": "0x000001b4",
+  "key_name": "",
+  "value": 4294901760,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASAPI32\\ConsoleTracingMask"
+}
+{
+  "key_handle": "0x000001b4",
+  "key_name": "",
+  "value": 1048576,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASAPI32\\MaxFileSize"
+}
+{
+  "key_handle": "0x000001b4",
+  "key_name": "",
+  "value": "%windir%\\tracing",
+  "reg_type": 2,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASAPI32\\FileDirectory"
+}
+{
+  "key_handle": "0x000001b4",
+  "key_name": "",
+  "value": "%windir%\\tracing",
+  "reg_type": 2,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASAPI32\\FileDirectory"
+}
+{
+  "key_handle": "0x0000024c",
+  "key_name": "",
+  "value": 0,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASMANCS\\EnableFileTracing"
+}
+{
+  "key_handle": "0x0000024c",
+  "key_name": "",
+  "value": 4294901760,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASMANCS\\FileTracingMask"
+}
+{
+  "key_handle": "0x0000024c",
+  "key_name": "",
+  "value": 0,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASMANCS\\EnableConsoleTracing"
+}
+{
+  "key_handle": "0x0000024c",
+  "key_name": "",
+  "value": 4294901760,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASMANCS\\ConsoleTracingMask"
+}
+{
+  "key_handle": "0x0000024c",
+  "key_name": "",
+  "value": 1048576,
+  "reg_type": 4,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASMANCS\\MaxFileSize"
+}
+{
+  "key_handle": "0x0000024c",
+  "key_name": "",
+  "value": "%windir%\\tracing",
+  "reg_type": 2,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASMANCS\\FileDirectory"
+}
+{
+  "key_handle": "0x0000024c",
+  "key_name": "",
+  "value": "%windir%\\tracing",
+  "reg_type": 2,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Tracing\\RASMANCS\\FileDirectory"
+}
+{
+  "ordinal": 0,
+  "module": "rtutils",
+  "module_address": "0x73d80000",
+  "function_address": "0x73d81b2d",
+  "function_name": "TracePrintfExA"
+}
+{
+  "module_name": "rasman.dll",
+  "stack_pivoted": 0,
+  "module_address": "0x73d90000"
+}
+{
+  "thread_identifier": 2420,
+  "function_address": "0x73d932fb",
+  "flags": 0,
+  "parameter": "0x00000000",
+  "stack_size": 0
+}
+{
+  "basename": "API-MS-WIN-Service-winsvc-L1-1-0",
+  "module_address": "0x76480000",
+  "flags": 0,
+  "module_name": "API-MS-WIN-Service-winsvc-L1-1-0.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "sechost",
+  "module_address": "0x76480000",
+  "function_address": "0x764864f0",
+  "function_name": "OpenSCManagerA"
+}
+{
+  "handle": "0x0000025c"
+}
+{
+  "handle_attributes": 0,
+  "source_process_identifier": 2308,
+  "source_handle": "0xfffffffe",
+  "target_process_identifier": 2308,
+  "desired_access": "0x00000000",
+  "target_process_handle": "0xffffffff",
+  "target_handle": "0x00000260",
+  "source_process_handle": "0xffffffff",
+  "options": 2
+}
+{
+  "ordinal": 0,
+  "module": "sechost",
+  "module_address": "0x76480000",
+  "function_address": "0x76487245",
+  "function_name": "OpenServiceA"
+}
+{
+  "ordinal": 0,
+  "module": "sechost",
+  "module_address": "0x76480000",
+  "function_address": "0x76484e4b",
+  "function_name": "QueryServiceStatus"
+}
+{
+  "basename": "API-MS-WIN-Service-Management-L1-1-0",
+  "module_address": "0x76480000",
+  "flags": 0,
+  "module_name": "API-MS-WIN-Service-Management-L1-1-0.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "sechost",
+  "module_address": "0x76480000",
+  "function_address": "0x76484dc3",
+  "function_name": "CloseServiceHandle"
+}
+{
+  "ordinal": 0,
+  "module": "sechost",
+  "module_address": "0x76480000",
+  "function_address": "0x76484dc3",
+  "function_name": "CloseServiceHandle"
+}
+{
+  "library": "WININET",
+  "module_address": "0x75d50000"
+}
+{
+  "handle": "0x00000264"
+}
+{
+  "handle_attributes": 0,
+  "source_process_identifier": 2308,
+  "source_handle": "0xfffffffe",
+  "target_process_identifier": 2308,
+  "desired_access": "0x00000000",
+  "target_process_handle": "0xffffffff",
+  "target_handle": "0x00000268",
+  "source_process_handle": "0xffffffff",
+  "options": 2
+}
+{
+  "process_identifier": 2308,
+  "region_size": 8192,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00217000"
+}
+{
+  "ordinal": 0,
+  "module": "sechost",
+  "module_address": "0x76480000",
+  "function_address": "0x7648a11d",
+  "function_name": "NotifyServiceStatusChangeA"
+}
+{
+  "uuid": "{7d953964-6ee0-420d-b826-1ebd0a3991bc}"
+}
+{
+  "thread_name": "",
+  "thread_handle": "0x00000270",
+  "process_identifier": 0,
+  "access": "0x00000010"
+}
+{
+  "library": "rasman",
+  "module_address": "0x73d90000"
+}
+{
+  "process_identifier": 2308,
+  "region_size": 8192,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00219000"
+}
+{
+  "handle_attributes": 0,
+  "source_process_identifier": 2308,
+  "source_handle": "0xfffffffe",
+  "target_process_identifier": 2308,
+  "desired_access": "0x00000000",
+  "target_process_handle": "0xffffffff",
+  "target_handle": "0x0000027c",
+  "source_process_handle": "0xffffffff",
+  "options": 2
+}
+{
+  "process_identifier": 2308,
+  "region_size": 8192,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x0021b000"
+}
+{
+  "library": "rasman",
+  "module_address": "0x73d90000"
+}
+{
+  "handle": "0x00000270"
+}
+{
+  "thread_name": "",
+  "thread_handle": "0x00000270",
+  "process_identifier": 0,
+  "access": "0x00000010"
+}
+{
+  "library": "rasman",
+  "module_address": "0x73d90000"
+}
+{
+  "hostname": "vop.earthsolution.org"
+}
+{
+  "handle_attributes": 0,
+  "source_process_identifier": 2308,
+  "source_handle": "0xfffffffe",
+  "target_process_identifier": 2308,
+  "desired_access": "0x00000000",
+  "target_process_handle": "0xffffffff",
+  "target_handle": "0x00000284",
+  "source_process_handle": "0xffffffff",
+  "options": 2
+}
+{
+  "handle": "0x000000c4"
+}
+{
+  "handle": "0x00000240"
+}
+{
+  "handle": "0x000001e8"
+}
+{
+  "handle": "0x0000027c"
+}
+{
+  "handle": "0x00000278"
+}

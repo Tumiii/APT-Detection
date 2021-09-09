@@ -1,0 +1,4052 @@
+{}
+{
+  "process_identifier": 2392,
+  "region_size": 1572864,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 8192,
+  "base_address": "0x02120000"
+}
+{
+  "free_type": 32768,
+  "process_identifier": 2392,
+  "process_handle": "0xffffffff",
+  "base_address": "0x02120000",
+  "size": 1507328
+}
+{
+  "process_identifier": 2392,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x02290000"
+}
+{
+  "module_name": "KERNEL32.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x77490000"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e418d",
+  "function_name": "FlsAlloc"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1e16",
+  "function_name": "FlsGetValue"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e76e6",
+  "function_name": "FlsSetValue"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1f61",
+  "function_name": "FlsFree"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775da295",
+  "function_name": "EncodePointer"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775da295",
+  "function_name": "EncodePointer"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775da295",
+  "function_name": "EncodePointer"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775da295",
+  "function_name": "EncodePointer"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775da295",
+  "function_name": "EncodePointer"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775da295",
+  "function_name": "EncodePointer"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775da295",
+  "function_name": "EncodePointer"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775dcd10",
+  "function_name": "DecodePointer"
+}
+{
+  "module_name": "kernelbase.dll",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x757b726b",
+  "function_name": "InitializeCriticalSectionAndSpinCount"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775da295",
+  "function_name": "EncodePointer"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775dcd10",
+  "function_name": "DecodePointer"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775dcd10",
+  "function_name": "DecodePointer"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775dcd10",
+  "function_name": "DecodePointer"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775dcd10",
+  "function_name": "DecodePointer"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775dcd10",
+  "function_name": "DecodePointer"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775dcd10",
+  "function_name": "DecodePointer"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775dcd10",
+  "function_name": "DecodePointer"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775dcd10",
+  "function_name": "DecodePointer"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775dcd10",
+  "function_name": "DecodePointer"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775dcd10",
+  "function_name": "DecodePointer"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775dcd10",
+  "function_name": "DecodePointer"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775dcd10",
+  "function_name": "DecodePointer"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775dcd10",
+  "function_name": "DecodePointer"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775dcd10",
+  "function_name": "DecodePointer"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775dcd10",
+  "function_name": "DecodePointer"
+}
+{
+  "module_name": "KERNELBASE.DLL",
+  "stack_pivoted": 0,
+  "module_address": "0x757b0000"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775da295",
+  "function_name": "EncodePointer"
+}
+{
+  "ordinal": 0,
+  "module": "KERNELBASE",
+  "module_address": "0x757b0000",
+  "function_address": "0x775dcd10",
+  "function_name": "DecodePointer"
+}
+{
+  "file_handle": "0x00000003"
+}
+{
+  "file_handle": "0x00000007"
+}
+{
+  "file_handle": "0x0000000b"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x02291000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x02292000"
+}
+{}
+{
+  "key_handle": "0x00000000",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Wow\\CpuEnv"
+}
+{
+  "module_handle": "0x0e0d0000",
+  "id": 1002,
+  "string": "NTVDM has encountered a System Error"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000070",
+  "filepath": "C:\\Windows\\System32\\zh-CN\\KERNELBASE.dll.mui",
+  "desired_access": "0x80100080",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\Windows\\system32\\zh-CN\\KERNELBASE.dll.mui",
+  "create_options": 0,
+  "status_info": 1,
+  "share_access": 5
+}
+{
+  "section_handle": "0x00000074",
+  "object_handle": "0x00000000",
+  "desired_access": "0x000f0005",
+  "protection": 8,
+  "section_name": "",
+  "file_handle": "0x00000070"
+}
+{
+  "section_handle": "0x00000074",
+  "process_identifier": 2392,
+  "commit_size": 0,
+  "win32_protect": 8,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 0,
+  "section_offset": 0,
+  "view_size": 303104,
+  "base_address": "0x02150000"
+}
+{
+  "handle": "0x00000074"
+}
+{
+  "module_handle": "0x0e0d0000",
+  "id": 502,
+  "string": " - FROZEN"
+}
+{
+  "module_handle": "0x0e0d0000",
+  "id": 500,
+  "string": "&Hide Mouse Pointer"
+}
+{
+  "module_handle": "0x0e0d0000",
+  "id": 501,
+  "string": "&Display Mouse Pointer"
+}
+{
+  "dirpath": ""
+}
+{
+  "dirpath": "C:\\Windows\\system32"
+}
+{
+  "handle_attributes": 0,
+  "source_process_identifier": 2392,
+  "source_handle": "0xfffffffe",
+  "target_process_identifier": 2392,
+  "desired_access": "0x00000000",
+  "target_process_handle": "0xffffffff",
+  "target_handle": "0x00000074",
+  "source_process_handle": "0xffffffff",
+  "options": 2
+}
+{
+  "file_handle": "0x00000003"
+}
+{
+  "file_handle": "0x00000007"
+}
+{
+  "initial_owner": 0,
+  "desired_access": "0x001f0001",
+  "mutant_name": "",
+  "mutant_handle": "0x0000007c"
+}
+{
+  "thread_identifier": 1752,
+  "function_address": "0x0e107abb",
+  "flags": 4,
+  "parameter": "0x00000000",
+  "stack_size": 8192
+}
+{
+  "access": "0x00020019",
+  "base_handle": "0x80000002",
+  "key_handle": "0x00000000",
+  "regkey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\WOW\\Console",
+  "regkey_r": "Software\\Microsoft\\Windows NT\\CurrentVersion\\WOW\\Console",
+  "options": 0
+}
+{
+  "access": "0x00000001",
+  "base_handle": "0x80000002",
+  "key_handle": "0x000000a0",
+  "regkey": "HKEY_LOCAL_MACHINE\\HARDWARE\\DESCRIPTION\\System",
+  "regkey_r": "HARDWARE\\DESCRIPTION\\System",
+  "options": 0
+}
+{
+  "key_handle": "0x000000a0",
+  "value": "AT/AT COMPATIBLE",
+  "regkey_r": "Identifier",
+  "reg_type": 1,
+  "regkey": "HKEY_LOCAL_MACHINE\\HARDWARE\\DESCRIPTION\\System\\Identifier"
+}
+{
+  "key_handle": "0x000000a0"
+}
+{
+  "file_attributes": 32,
+  "filepath_r": "C:\\Windows\\_default.pif",
+  "filepath": "C:\\Windows\\_default.pif"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x000000a0",
+  "filepath": "C:\\Windows\\_default.pif",
+  "desired_access": "0x80100080",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\Windows\\_default.pif",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 3
+}
+{
+  "file_handle": "0x000000a0",
+  "move_method": 0,
+  "offset": 0
+}
+{
+  "file_handle": "0x000000a0",
+  "buffer": "\u0000É                              \u0000\u0000_DEFAULT.BAT\u0000                                                  \u0010\u0000\u0000                                                               \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000ÿ\u0019P\u0000\u0000\u0007\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000à ",
+  "length": 369,
+  "offset": 0
+}
+{
+  "file_handle": "0x000000a0",
+  "buffer": "MICROSOFT PIFEX\u0000\u0001\u0000\u0000q\u0001",
+  "length": 22,
+  "offset": 0
+}
+{
+  "file_handle": "0x000000a0",
+  "move_method": 0,
+  "offset": 391
+}
+{
+  "file_handle": "0x000000a0",
+  "buffer": "WINDOWS 386 3.0\u0000\u0005\u0002\u0001h\u0000",
+  "length": 22,
+  "offset": 0
+}
+{
+  "file_handle": "0x000000a0",
+  "move_method": 0,
+  "offset": 413
+}
+{
+  "file_handle": "0x000000a0",
+  "buffer": "\u0002\u0000d\u00002\u0000\u0000\u0000\u0000\u0000\u0000\u0004\u0000\u0000\u0000\u0010\u0002\u0000\u001f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000d\u00002\u0000\u0000\u0000\u0000\u0000\u0000\u0000                                                              ",
+  "length": 104,
+  "offset": 0
+}
+{
+  "file_handle": "0x000000a0",
+  "move_method": 0,
+  "offset": 517
+}
+{
+  "file_handle": "0x000000a0",
+  "buffer": "WINDOWS 286 3.0\u0000!\u0002\u001b\u0002\u0006\u0000",
+  "length": 22,
+  "offset": 0
+}
+{
+  "file_handle": "0x000000a0",
+  "move_method": 0,
+  "offset": 545
+}
+{
+  "file_handle": "0x000000a0",
+  "buffer": "WINDOWS NT  3.1\u0000ÿÿ7\u0002\u0000",
+  "length": 22,
+  "offset": 0
+}
+{
+  "file_handle": "0x000000a0",
+  "move_method": 0,
+  "offset": 567
+}
+{
+  "file_handle": "0x000000a0",
+  "buffer": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000%SystemRoot%\\SYSTEM32\\CONFIG.NT\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000%SystemRoot%\\SYSTEM32\\AUTOEXEC.NT\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+  "length": 140,
+  "offset": 0
+}
+{
+  "handle": "0x000000a0"
+}
+{
+  "free_type": 16384,
+  "process_identifier": 2392,
+  "process_handle": "0xffffffff",
+  "base_address": "0x00000000",
+  "size": 16777216
+}
+{
+  "section_handle": "0x000000a0",
+  "object_handle": "0x00000000",
+  "desired_access": "0x0000000a",
+  "protection": 64,
+  "section_name": "",
+  "file_handle": "0x00000000"
+}
+{
+  "free_type": 32768,
+  "process_identifier": 2392,
+  "process_handle": "0xffffffff",
+  "base_address": "0x00000000",
+  "size": 655360
+}
+{
+  "free_type": 32768,
+  "process_identifier": 2392,
+  "process_handle": "0xffffffff",
+  "base_address": "0x00100000",
+  "size": 65536
+}
+{
+  "section_handle": "0x000000a0",
+  "process_identifier": 2392,
+  "commit_size": 65535,
+  "win32_protect": 64,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 1073741824,
+  "section_offset": 0,
+  "view_size": 65536,
+  "base_address": "0x00000000"
+}
+{
+  "section_handle": "0x000000a0",
+  "process_identifier": 2392,
+  "commit_size": 65536,
+  "win32_protect": 64,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 1073741824,
+  "section_offset": 0,
+  "view_size": 65536,
+  "base_address": "0x00100000"
+}
+{
+  "section_handle": "0x000000a0",
+  "process_identifier": 2392,
+  "commit_size": 589824,
+  "win32_protect": 64,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 1073741824,
+  "section_offset": 65536,
+  "view_size": 589824,
+  "base_address": "0x00010000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 393216,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 1,
+  "protection": 64,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x000a0000"
+}
+{
+  "class_name": "ConsoleWindowClass",
+  "window_name": "ntvdm-958.95c.9d4"
+}
+{
+  "section_handle": "0x000000a4",
+  "object_handle": "0x00000000",
+  "desired_access": "0x0000000a",
+  "protection": 64,
+  "section_name": "",
+  "file_handle": "0x00000000"
+}
+{
+  "free_type": 32768,
+  "process_identifier": 2392,
+  "process_handle": "0xffffffff",
+  "base_address": "0x000c8000",
+  "size": 106496
+}
+{
+  "section_handle": "0x000000a4",
+  "process_identifier": 2392,
+  "commit_size": 0,
+  "win32_protect": 64,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 1073741824,
+  "section_offset": 32768,
+  "view_size": 106496,
+  "base_address": "0x000c8000"
+}
+{
+  "thread_handle": "0xfffffffe"
+}
+{
+  "file_handle": "0x00000000",
+  "filepath": "C:\\DosDevices\\A:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\DosDevices\\A:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x00000000",
+  "filepath": "C:\\DosDevices\\B:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\DosDevices\\B:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "thread_handle": "0xfffffffe"
+}
+{
+  "thread_handle": "0xfffffffe",
+  "registers": {
+    "eip": 0,
+    "esp": 0,
+    "edi": 0,
+    "eax": 0,
+    "ebp": 0,
+    "edx": 0,
+    "ebx": 0,
+    "esi": 0,
+    "ecx": 0
+  },
+  "process_identifier": 2392
+}
+{
+  "process_identifier": 2392,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x02293000"
+}
+{
+  "handle_attributes": 0,
+  "source_process_identifier": 2392,
+  "source_handle": "0xfffffffe",
+  "target_process_identifier": 2392,
+  "desired_access": "0x00000000",
+  "target_process_handle": "0xffffffff",
+  "target_handle": "0x000000a8",
+  "source_process_handle": "0xffffffff",
+  "options": 2
+}
+{
+  "process_identifier": 2392,
+  "region_size": 36864,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x02294000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 1048576,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 8192,
+  "base_address": "0x022a0000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 270336,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x022a0000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 69632,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x022e2000"
+}
+{
+  "thread_identifier": 856,
+  "function_address": "0x0e0f9a56",
+  "flags": 4,
+  "parameter": "0x00000000",
+  "stack_size": 8192
+}
+{
+  "thread_handle": "0x000000ac",
+  "suspend_count": 1,
+  "process_identifier": 2392
+}
+{
+  "access": "0x00000001",
+  "base_handle": "0x80000002",
+  "key_handle": "0x000000c0",
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\VirtualDeviceDrivers",
+  "regkey_r": "SYSTEM\\CurrentControlSet\\Control\\VirtualDeviceDrivers",
+  "options": 0
+}
+{
+  "key_handle": "0x000000c0",
+  "value_max_length": 2,
+  "class_max_length": 0,
+  "value_name_max_length": 3,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\VirtualDeviceDrivers",
+  "value_count": 1,
+  "subkey_max_length": 0,
+  "class": "",
+  "subkey_count": 0
+}
+{
+  "key_handle": "0x000000c0",
+  "value": "",
+  "regkey_r": "VDD",
+  "reg_type": 7,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\VirtualDeviceDrivers\\VDD"
+}
+{
+  "key_handle": "0x000000c0"
+}
+{
+  "processor_count": 1
+}
+{
+  "basename": "WINMM",
+  "module_address": "0x73b80000",
+  "flags": 0,
+  "module_name": "WINMM.DLL",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "WINMM",
+  "module_address": "0x73b80000",
+  "function_address": "0x73ba535f",
+  "function_name": "waveOutSetVolume"
+}
+{
+  "ordinal": 0,
+  "module": "WINMM",
+  "module_address": "0x73b80000",
+  "function_address": "0x73ba52e8",
+  "function_name": "waveOutGetVolume"
+}
+{
+  "ordinal": 0,
+  "module": "WINMM",
+  "module_address": "0x73b80000",
+  "function_address": "0x73b88f99",
+  "function_name": "waveOutGetNumDevs"
+}
+{
+  "ordinal": 0,
+  "module": "WINMM",
+  "module_address": "0x73b80000",
+  "function_address": "0x73ba50d6",
+  "function_name": "waveOutGetDevCapsA"
+}
+{
+  "ordinal": 0,
+  "module": "WINMM",
+  "module_address": "0x73b80000",
+  "function_address": "0x73b8451e",
+  "function_name": "waveOutOpen"
+}
+{
+  "ordinal": 0,
+  "module": "WINMM",
+  "module_address": "0x73b80000",
+  "function_address": "0x73ba5484",
+  "function_name": "waveOutPause"
+}
+{
+  "ordinal": 0,
+  "module": "WINMM",
+  "module_address": "0x73b80000",
+  "function_address": "0x73ba54b8",
+  "function_name": "waveOutRestart"
+}
+{
+  "ordinal": 0,
+  "module": "WINMM",
+  "module_address": "0x73b80000",
+  "function_address": "0x73b8adf9",
+  "function_name": "waveOutReset"
+}
+{
+  "ordinal": 0,
+  "module": "WINMM",
+  "module_address": "0x73b80000",
+  "function_address": "0x73b84b6d",
+  "function_name": "waveOutClose"
+}
+{
+  "ordinal": 0,
+  "module": "WINMM",
+  "module_address": "0x73b80000",
+  "function_address": "0x73ba5520",
+  "function_name": "waveOutGetPosition"
+}
+{
+  "ordinal": 0,
+  "module": "WINMM",
+  "module_address": "0x73b80000",
+  "function_address": "0x73b84f7b",
+  "function_name": "waveOutWrite"
+}
+{
+  "ordinal": 0,
+  "module": "WINMM",
+  "module_address": "0x73b80000",
+  "function_address": "0x73b84f0f",
+  "function_name": "waveOutPrepareHeader"
+}
+{
+  "ordinal": 0,
+  "module": "WINMM",
+  "module_address": "0x73b80000",
+  "function_address": "0x73b84bf2",
+  "function_name": "waveOutUnprepareHeader"
+}
+{
+  "ordinal": 0,
+  "module": "WINMM",
+  "module_address": "0x73b80000",
+  "function_address": "0x73b9ea29",
+  "function_name": "midiOutSetVolume"
+}
+{
+  "ordinal": 0,
+  "module": "WINMM",
+  "module_address": "0x73b80000",
+  "function_address": "0x73b9e963",
+  "function_name": "midiOutGetVolume"
+}
+{
+  "ordinal": 0,
+  "module": "WINMM",
+  "module_address": "0x73b80000",
+  "function_address": "0x73b8597e",
+  "function_name": "midiOutGetNumDevs"
+}
+{
+  "ordinal": 0,
+  "module": "WINMM",
+  "module_address": "0x73b80000",
+  "function_address": "0x73b9e73b",
+  "function_name": "midiOutGetDevCapsA"
+}
+{
+  "ordinal": 0,
+  "module": "WINMM",
+  "module_address": "0x73b80000",
+  "function_address": "0x73b9eb76",
+  "function_name": "midiOutOpen"
+}
+{
+  "ordinal": 0,
+  "module": "WINMM",
+  "module_address": "0x73b80000",
+  "function_address": "0x73b9f21b",
+  "function_name": "midiOutReset"
+}
+{
+  "ordinal": 0,
+  "module": "WINMM",
+  "module_address": "0x73b80000",
+  "function_address": "0x73b9ed00",
+  "function_name": "midiOutClose"
+}
+{
+  "ordinal": 0,
+  "module": "WINMM",
+  "module_address": "0x73b80000",
+  "function_address": "0x73b9f17c",
+  "function_name": "midiOutLongMsg"
+}
+{
+  "ordinal": 0,
+  "module": "WINMM",
+  "module_address": "0x73b80000",
+  "function_address": "0x73b9f104",
+  "function_name": "midiOutShortMsg"
+}
+{
+  "ordinal": 0,
+  "module": "WINMM",
+  "module_address": "0x73b80000",
+  "function_address": "0x73b9ed9e",
+  "function_name": "midiOutPrepareHeader"
+}
+{
+  "ordinal": 0,
+  "module": "WINMM",
+  "module_address": "0x73b80000",
+  "function_address": "0x73b9efa0",
+  "function_name": "midiOutUnprepareHeader"
+}
+{
+  "filepath_r": "C:\\MSDOS.SYS",
+  "filepath": "C:\\MSDOS.SYS"
+}
+{
+  "filepath_r": "C:\\IBMDOS.SYS",
+  "filepath": "C:\\IBMDOS.SYS"
+}
+{
+  "create_disposition": 2,
+  "file_handle": "0x000000c8",
+  "filepath": "C:\\MSDOS.SYS",
+  "desired_access": "0x00100080",
+  "file_attributes": 7,
+  "filepath_r": "\\??\\C:\\MSDOS.SYS",
+  "create_options": 96,
+  "status_info": 2,
+  "share_access": 3
+}
+{
+  "handle": "0x000000c8"
+}
+{
+  "filepath_r": "C:\\IO.SYS",
+  "filepath": "C:\\IO.SYS"
+}
+{
+  "filepath_r": "C:\\IBMBIO.SYS",
+  "filepath": "C:\\IBMBIO.SYS"
+}
+{
+  "create_disposition": 2,
+  "file_handle": "0x000000c8",
+  "filepath": "C:\\IO.SYS",
+  "desired_access": "0x00100080",
+  "file_attributes": 7,
+  "filepath_r": "\\??\\C:\\IO.SYS",
+  "create_options": 96,
+  "status_info": 2,
+  "share_access": 3
+}
+{
+  "handle": "0x000000c8"
+}
+{
+  "access": "0x00000001",
+  "base_handle": "0x80000002",
+  "key_handle": "0x000000c8",
+  "regkey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\WOW",
+  "regkey_r": "Software\\Microsoft\\Windows NT\\CurrentVersion\\WOW",
+  "options": 0
+}
+{
+  "key_handle": "0x000000c8",
+  "value": "",
+  "regkey_r": "VirtualTempDirName",
+  "reg_type": 0,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\WOW\\VirtualTempDirName"
+}
+{
+  "key_handle": "0x000000c8"
+}
+{
+  "mode": 32769
+}
+{
+  "process_identifier": 2392,
+  "region_size": 106496,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 64,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x000c8000"
+}
+{
+  "basename": "NTVDMD",
+  "module_address": "0x6ff60000",
+  "flags": 0,
+  "module_name": "NTVDMD.DLL",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "NTVDMD",
+  "module_address": "0x6ff60000",
+  "function_address": "0x6ff613d8",
+  "function_name": "xxxDbgDispatch"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x000000c8",
+  "filepath": "C:\\Windows\\System32\\NTIO804.SYS",
+  "desired_access": "0x80100080",
+  "file_attributes": 128,
+  "filepath_r": "\\??\\C:\\Windows\\system32\\ntio804.sys",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 1
+}
+{
+  "file_size_low": 34672,
+  "file_handle": "0x000000c8"
+}
+{
+  "file_handle": "0x000000c8",
+  "buffer": "é\u0003\u0000\u0000êý\u0002p\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Û\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00006\u0000p\u0000\u0013ì\u0001÷\u0001CON     H\u0000p\u0000\u0000ì\u0001\u0018\u0002AUX     Z\u0000p\u0000À¨ì\u0001ü\u0001PRN     l\u0000p\u0000\bì\u00010\u0002CLOCK$  ~\u0000p\u0000\u0000ì\u0001\u0018\u0002COM1    \u0000p\u0000À¨ì\u0001\u0003\u0002LPT1    ¢\u0000p\u0000À¨ì\u0001\n\u0002LPT2    ´\u0000p\u0000À¨ì\u0001\u0011\u0002LPT3    Æ\u0000p\u0000\u0000ì\u0001\u001e\u0002COM2    Ø\u0000p\u0000\u0000ì\u0001$\u0002COM3    ÿÿp\u0000\u0000ì\u0001*\u0002COM4    \u0010\u0000\u0000\u0000\u0000\u0015\u0000\u0000\u0000\u0000\u0019\u0000\u0000\u0000\u0000\u001b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000P\u0000P\u0000P\u0000P\u0000\u0000\u0002ÿÿÿÿ\bÿÿÿÿ\tÿÿÿÿ\nÿÿÿÿ\u000bÿÿÿÿ\fÿÿÿÿ\rÿÿÿÿ\u000eÿÿÿÿpÿÿÿÿrÿÿÿÿsÿÿÿÿtÿÿÿÿvÿÿÿÿwÿÿÿÿ\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001f\u0000;\u0000Z\u0000x\u0000\u0000µ\u0000Ô\u0000ó\u0000\u0011\u00010\u0001N\u0001\u0000\u0000\u0000C\u0000½\u0000\f\u0004½\u0000.Æ\u0006\f\u0000\u0003\u001eP¸@\u0000Ø÷\u0006\u0014\u0003\u0000$uOUìF\n]©\u0000\u0001uC©\u0000\u0002t\"ð\u000e\u0014\u0003\u0000\u0002÷\u0006\u0014\u0003\u0003\u0000u/àü¨\u0004u%¨\bu\u0011p\u0019X\u001fÊ\u0002\u0000ð&\u0014\u0003ÿýëäpïP°\u007f\u0004\u0002XëçP2ÀXëáýëØX\u001fÏ.\u001e\u0018\u0000.\u0006\u001a\u0000Ëè;\u0000ä\u0000è6\u0000û\u0000\u0000\u0000è/\u0000û\u0000\u0000\u0001è(\u0000û\u0000\u0001\u0002è!\u0000û\u0000\u0002\u0003è\u001a\u00000\u0001\u0000è\u0014\u00000\u0001\u0001è\u000e\u00000\u0001\u0002è\b\u00000\u0001\u0003è\u0002\u0000G\u0001.>\r\u0000\u0000t\rP.¡\u0003\u0000.9\u0006\u001a\u0000Xu\u0005.ÿ.}\u0001è\u001e\u0000ëöPVWUS´\u000e»\u0007\u0000Í\u0010[]_^Xé#ÿ\u0000ÿÿ\u0000\u0000\u0000è\u000f\u0000t\u0001ÃPS´\u0005.ÿ\u001e\u000e\u0000[XÃ\u001e\u0006QVW.Å6h\u0002.Ä>l\u0002¹\b\u0000ó§_^Y\u0007\u001fÃPS´\u0006.ÿ\u001e\u000e\u0000[XÃ\u000e\u001f\u0006 \u0000¹\u0004\u0000¾ê\u0000¬ÑàÑàø­«­«âò>\u0013\u0001\u0000t\"¾\u0014\u0001¹\u000e\u0000¬ø­Ø­ûÿt\r=ÿÿt\b\u0003ÿ\u0003ÿ««âäÍ\u0019=SOt\u0005.ÿ.ð\u0000ù.ÿ.ð\u0000.ÿ.\u0001Ë\u0003\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0015\u0003p\u0000\u0000\u0000P\u0000\u0002\u0000\u000e\u0000P\u0000\u0014\u0000\f\u0000p\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000W\u0006SP3ÿÇ»\u0015\u0000¸\u0016Í/À\u000bÇt\u000b\u000e¸Y\u0003P\u0006W¸\u0001\u0000ËX[\u0007_Ëÿÿl\u000b\u0011\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u001eP¸@\u0000Ø÷\u0006\u0014\u0003\u0000$u\fð&\u0014\u0003ÿýX\u001fë\u0003úëø3ÀØ\u000e\u0007¹\u0004\u0000¾ê\u0000.¬ÑàÑàø÷­«­«÷âíÇ\u0006T\u0000í\u0002\u000eV\u0000Ç\u0006d\u0000¨\u0002\u000ef\u00003ÒÒ¼\u0000\u0007\u001eP¸@\u0000Ø÷\u0006\u0014\u0003\u0003\u0000u\u0014÷\u0006\u0014\u0003\u0000$u\fð\u000e\u0014\u0003\u0000\u0002X\u001fë\u0003ûëø·\u0002¾p\u0003¸0\u0011Í\u0010.,Æ\u0002.\u0004Æ\u0002þÇÿ\brè°\u0001ÄÄ^3ÒÚÂ3À¿4\u0005««ÈÇ\u0006l\u0000\u0001£n\u0000Ç\u0006¤\u0000T\u0002£¦\u0000¿\u0004\u0000»\u0001««Ç\u0004««««\u0016\u0000\u0005\u0016\u0004\u0005º\u0011\u0001ÚÇ\u0006\u0005\u0003$\u0000\u000e\u0007\u0003Ç\u0006\u0003\u0003ç\b\u000e\u001f\u000e\u00076\u000e\u0004öÁ\u0010t\nÆ\u0006\u0006\u0001\u0010Æ\u0006\u0007\u0001\u0011¿f\u0003ÑïÑïÑïÑïGÇp\u0000>\u0003\u0000¿ç\bÄÄP\u0011êù\u0002\u0011\u0001Ð´\u0001Í\u0017ÃÐ°£´\u0000Í\u0014Ã\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000p\u0000.\u00060\u0000¿\u007f\u0001¹\u0002\u0000«GGâûËVPQRWU\u001e\u0006Sìv\u0012.\u001e0\u0000D\u0002¢\"\u0000&\b\u00014Ä\u001e\u0018\u0000&G\u0001&g\r&O\u0012&W\u0014&G\u0002.:\u0004s,Ñà\u0003ð&Ä\u007f\u000eü.ÿT\u0001r\u0002´\u0001.\u001e0\u0000Å\u001e\u0018\u0000G\u0003[\u0007\u001f]_ZYX^Ä\u0002Ëè&\u0000ëâ\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000°\u0003Ä\u001e\u0018\u0000&)O\u0012´ùÃ\u0000\u000bá\u0001á\u0001á\u0001Õ\u0000\\\u0001\u0001á\u00013\u0002ã\u0001ã\u0001á\u0001\u001aá\u0001á\u0001á\u0001Õ\u0000D\u0002®\u0001á\u0001á\u0001I\u0002I\u0002{\u0002á\u0001á\u0001µ\u0002Û\u0002á\u0001\u0001\u0003á\u0001á\u00010\u0003á\u0001á\u0001á\u0001á\u0001á\u0001f\u0003\u000bá\u0001á\u0001á\u0001Õ\u0000\u0003«\u0003á\u0001â\u0003ê\u0003ê\u0003Ë\u0003\ná\u0001á\u0001á\u0001Õ\u0000Õ\u0000®\u0001á\u0001á\u0001Õ\u0000Õ\u0000ã\u0006è\u0005\u0000ªâúøÃ&\u0006\u00012À\u0006\f\u0000\nÀu*Í\u0016\u000bÀtì=\u0000ru\u0004°\u0010ë\u001b>\u0006\u0001\u0000t\f<àu\b\nät\f2Àë\u0004\nÀu\u0004&\f\u0000Ã \f\u0000\nÀu3&\u0007\u0001Í\u0016u\u0004ù´\u0003Ã\u000bÀu\b&\u0006\u0001Í\u0016ëá=\u0000ru\u0004°\u0010ë\u0012>\u0006\u0001\u0000t\u000b<àu\u0007ü\u0000t\u0002°\u0000Ä\u001e\u0018\u0000&G\røÃãü\u0006\u001e\u0002\u0001\u0016\u0004\u0001+ÀÀ&;\u001e¤\u0000u/&;\u0016¦\u0000u(\u001eþ\u0000\u0016\u0000\u0001&;\u001e@\u0000u\u0019&;\u0016B\u0000u\u0012\u0007¸F\u0000P\u000e¸&\u0002PRS¸ÿ\u0013Ëë\t\u0007&\u0005GÍ)âøøÃÆ\u0006\f\u0000\u0000´\u0001Í\u0016tó2äÍ\u0016ëôèþøÃã.»\u0002\u0000è7\u0000u\u001d&\u00052äè/\u0000t\u0019üÿu\t°\fÆ\u0006\f\u0000\u0000ë\böÄ\u0001t\u0006KuÛéaþGâÒøÃè\n\u0000uóöÄuôé&ÿ´\u0002\u0016\"\u0000Í\u0017Pä0ü0Xu\u0006äßÌ\böÄ(t\n°\töÄ u\u0002þÀÃ°\u0002öÄ\u0001ÃVR\u001eº@\u0000Ú÷\u0006\u0014\u0003\u0000\b\u001fu\u00122ö\u0016\b\u0001\nÒt\u0002þÊ¾\u0001\u0000ÄÄ\u0017Z^ÃVR\u001eº@\u0000Ú÷\u0006\u0014\u0003\u0000\b\u001fu\u00122ö\u0016\b\u0001\nÒt\u0002þÊ¾\u0002\u0000ÄÄ\u0017Z^Ã÷QS2ÿ\u001e\b\u0001Ñã\u000b\u0001[èsÿu\u0015öÄáöYt\u000e&¬2äèdÿu\u0005âÙøÃYé§ýÄ>\u0018\u0000&}\r\u0005t\u0003éý&E\u000e&Ä}\u00132ÿ\u001e\b\u0001Ñã\u000b\u0001<et\u0007<Euá&\r\u000b\u0001&\røÃÄ>\u0018\u0000&}\r\u0005u\u000e&E\u000e<et\u0004<Eu\u0002øÃùéRýã\u0011è{\u00002À\u0007\nÀu\u0003è\u0005\u0000ªâúøÃ´\u0002è>\u0000öÄ\u000eu\u0001ÃX2À\f°é,ýèU\u0000\u0007\nÀu\u0011è\"\u0000öÄ\u0001t\f¨ t\bèÕÿ\u0007é\u0011þéãýè\u000b\u0000¨ tööÄ tñøÃ´\u0003\u0016\"\u0000Í\u0014Ãè\u001e\u0000Æ\u0007\u0000øÃãª&\u0005G´\u0001èæÿöÄt\u0005°\néØüâëøÃ\u001e\"\u0000Ã\u001c\u0000Ãü\u0013t\u0012ü\bt\rü\u0016tiüJu\u0003é§\u0000\u001eP¸@\u0000Ø÷\u0006\u0014\u0003\u0000$uOUìF\n]©\u0000\u0001uC©\u0000\u0002t\"ð\u000e\u0014\u0003\u0000\u0002÷\u0006\u0014\u0003\u0003\u0000u/àü¨\u0004u%¨\bu\u0011p\u0019X\u001fÊ\u0002\u0000ð&\u0014\u0003ÿýëäpïP°\u007f\u0004\u0002XëçP2ÀXëáýëØX\u001fÏ\u001e.\u001e0\u0000<\u0005t <\u0006t\u000f<u0P3ÀÄÄZX2Àë%÷Â\u0001\u0000u\u001f&7\u0003\u0000ë\u0018÷Â\u0001\u0000u\u0012\u000e7\u0003\u0001\u001e\u0005\u0003\u0006\u0007\u0003»\u0003\u0003\u001e\u0007\u001féYÿ<\u0001u\u0016\u001eèL\u0000»ÿÿÃß÷Ó\u000bÛt\u0001C\u001fé?ÿ<\u0002u3\u001e¿ÿÿÇè-\u0000ÿÿt!÷ß;ßv\u0005¿ÿÿë\u0016>^\u0003Ã\u000fãð\u0001\u001e^\u0003u\u0006Ç\u0006^\u0003ÿÿ\u001fé\bÿé\u0005ÿ.\u001e0\u0000>^\u0003ÿÿu\u000f>d\u0003\u0000t\bÿ\u001e`\u0003>^\u0003Ã\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\b\u0000H\u0000H\u0000\u0000\u0000\u0000\u0000èÎ\u0001\u0012\u0000\u0000\u0000\u0000\u0000èÅ\u0001\u001b\u0000\u0000\u0000\u0000\u0000ë\u0002\u0000è¸\u0001$\u0000\u0000\u0000\u0000\u0000è¯\u00011\u0000ë\u0010\u0000\u0000\u0000\u0000KB\u0000ë\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000è\u0001<\u0000é2\u0001ë\u0010\u0000\u0000\u0000\u0000KB\u0000ë\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000è~\u0001V\u0000é\u0018\u0001ë\u0010\u0000\u0000\u0000\u0000KB\u0000ë\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000èd\u0001p\u0000éþ\u0000ë\u0010\u0000\u0000\u0000\u0000KB\u0000ë\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000èJ\u0001\u0000éä\u0000ë\u0010\u0000\u0000\u0000\u0000KB\u0000ë\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000è0\u0001¤\u0000éÊ\u0000ë\u0010\u0000\u0000\u0000\u0000KB\u0000ë\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000è\u0016\u0001¾\u0000é°\u0000ë\u0010\u0000\u0000\u0000\u0000KB\u0000ë\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000èü\u0000Ø\u0000é\u0000ë\u0010\u0000\u0000\u0000\u0000KB\u0000ë\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000èâ\u0000ò\u0000ë}ë\u0010\u0000\u0000\u0000\u0000KB\u0000ë\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000èÈ\u0000\f\u0001ëcë\u0010\u0000\u0000\u0000\u0000KB\u0000ë\f\u0000\u0000\u0000\u0000\u0000\u0000\u0000è®\u0000&\u0001ëI\u001eP¸@\u0000Ø÷\u0006\u0014\u0003\u0000$u\fð&\u0014\u0003ÿýX\u001fë\u0003úëøÃ\u001eP¸@\u0000Ø÷\u0006\u0014\u0003\u0003\u0000u\u0014÷\u0006\u0014\u0003\u0000$u\fð\u000e\u0014\u0003\u0000\u0002X\u001fë\u0003ûëøÃ\u001eP¸@\u0000Ø÷\u0006\u0014\u0003\u0000$uOUìF\n]©\u0000\u0001uC©\u0000\u0002t\"ð\u000e\u0014\u0003\u0000\u0002÷\u0006\u0014\u0003\u0003\u0000u/àü¨\u0004u%¨\bu\u0011p\u0019X\u001fÊ\u0002\u0000ð&\u0014\u0003ÿýëäpïP°\u007f\u0004\u0002XëçP2ÀXëáýëØX\u001fÏPU\u0006.\u0006\n\u0000..\u0010\u0000°\u0001&F\u0000<\u0000uQ..\u0010\u0000\b&f\u0002&V\u0004Å&n\u0006&9F\u0000uDUìF\b]\u0006\u0017åè.n\u0000.ÿ^\u0000ì&n\u0000&V\u0004&f\u0002&ÆF\u0000\u0000..\u0010\u0000\u0007]XÄ\u0002é7ÿ<\u0001t\u0004&F\u0000è\u0012\u0000ë¨.;.\f\u0000rôè&ÆF\u0000\u0003ëë..\u000e\u0000&~\u0000\u0000u\u0012°\u0001&F\u0000<\u0000t\u0014<\u0001t\u0004&F\u0000.;.\f\u0000t\u0006í\bëÛÃè¤þ°ÿæ!æ¡ÎÞ¾Ë\u0002P\u001e¸p\u0000Øö\u00067\u0003\u0001\u001fXt\u00058\u0003p\u0000¬<$t\b³\u0007´\u000eÍ\u0010ëóëþ\r\n\u0007\r\nInternal stack overflow\r\nSystem halted\r\n$é\u0019\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00002\u0000½\u0000\t\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000ÿÿ\u0000\u0000\u0000\u0000\b\u0004\u0000\u0001\u0000\u0000\u0000\u0000A:\\\u0000\u0002\u0000P\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000     \r\n$\u0000\u0000\u0000\u0000\u0000\u0000:\u0003\u0011\u0001'\u0003\u0011\u0001º\u0003\u0011\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000                    \u0000 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000û\u0003\u0011\u0001ç\u0003\u0011\u0001ç\u0003\u0011\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0018\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000½\u0000d\u0003p\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000üÄÄ\u0012±\u0006ÓàÈI.\u000e#\u0003\u000e\u001f3öþ¸`}è\u0006+Èé\u0000\n¸@\u0005è\u0006+ÈÁ¹`}Ñéó¥\u0006¸N\u0005PË¸p\u0000Ø\u000eb\u0003Æ\u0006d\u0003\u0001ÄÄP;¢e\u0003¨\u0001t8SR\u0006Ë3É.\u0016\u0003\u0003êp\u0000ÑâÑÑÑâÑÑÑâÑÑÑâÑÑ¸\u0001\u0001ÄÄPE»\u0001\u0000ØÀ¸\u0001\u0003ÄÄPE\u0007Z[¸`}è\u001f\u0006É\u0003ÁÀ3öþ.\u001e\u0003\u0003¹\u0000Pó¥.\u0006\u0003\u0003¡\u0003\u0000.£\u0001\u0003èü\u0005.)\u0006\u0003\u0003À\u0005\u0000\nÀ.\u0006\u0019\u0003Ø¾0\u0000þ¹@\u0005+ÎÑéó¥À.ÿ\u001e\u0017\u0003",
+  "length": 34672,
+  "offset": 0
+}
+{
+  "handle": "0x000000c8"
+}
+{
+  "module_name": "ntvdm.exe",
+  "stack_pivoted": 0,
+  "module_address": "0x0e0d0000"
+}
+{
+  "ordinal": 0,
+  "module": "ntvdm.exe",
+  "module_address": "0x0e0d0000",
+  "function_address": "0x0e11f057",
+  "function_name": "RedirectShortFileName"
+}
+{
+  "ordinal": 0,
+  "module": "ntvdm.exe",
+  "module_address": "0x0e0d0000",
+  "function_address": "0x0e11f20a",
+  "function_name": "RedirectLongFileName"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000000",
+  "filepath": "C:\\Windows\\System32\\NTDOS804.SYS",
+  "desired_access": "0x80100180",
+  "file_attributes": 128,
+  "filepath_r": "\\??\\C:\\Windows\\system32\\ntdos804.sys",
+  "create_options": 96,
+  "status_info": 4294967295,
+  "share_access": 1
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x000000c8",
+  "filepath": "C:\\Windows\\System32\\NTDOS804.SYS",
+  "desired_access": "0x80100080",
+  "file_attributes": 128,
+  "filepath_r": "\\??\\C:\\Windows\\system32\\ntdos804.sys",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 1
+}
+{
+  "file_handle": "0x000000c8",
+  "buffer": "éVP\"p\u0000\u0000\u0000\u0005\u00008\u0002\u0001\u00029\u0003\u0003\u0002\u0005:\u0004\u0010\u0003\u0002\u0005;\u0002\u0002\u0003<\u0004\u0003\u0002\u0004\u0005=\u0006\u0003\u0002\f\u0004\u001a\u0005>\u0001\u0006?\u0002\u0006\u0005@\u0002\u0006\u0005A\u0003\u0003\u0002\u0005B\u0002\u0006\u0001C\u0004\u0003\u0002\u0001\u0005D\u0005\u000f\r\u0001\u0006\u0005E\u0002\u0006\u0004F\u0002\u0006\u0004G\u0002\u001a\u000fH\u0002\u0007\bI\u0002\u0007\tJ\u0003\u0007\t\bK\b\u0003\u0001\u0002\u0004\u000b\n\b\u0005N\u0003\u0003\u0002\u0012O\u0001\u0012V\u0005\u0011\u0003\u0002\u0010\u0005W\u0004\u0006\b\r\u0001X\u0001\u0001Z\u0004\u0003\u0002\u0004\u0005[\u0005P\u0003\u0002\u0004\u0005e\u0002\u0001\u0002f\u0002\u0001\u0002h\u0001\u0006g\u0003\u0004\b\u0001l\n\u0003\u0002\f\u0004P\b\u001a\r\u0001\u0005i\u0004\u000f\r\u0001\u0005ÿ_:Í:;©;¯;9Û9 5Û5ç5Ã;Í;Ò0M/æA§<rC\u000eD\u0019<^CcCDC:=2(H/=/Q0S02(2(02(hCmCN<\u0001<z/\u00003YCTCF0\u0001,\u0011,\u0017,h,ô,)/Ê,7_0É$0j/ü.­/û,ÄE\u0005F]EyqÖoieáfhÜqhquF«iËiëD]aÓb²buXu_kXwD¥D$%2%0ç0ï,ï2\u0015ri\u0000cÁ/¯rr¹téc;jÙiIo2(2%î/@%-§.\u001ffôe\b4ôe2(As2(2(2(2(ªtñ(ð#0=+2(¢/7+ÜRÏ:üU2(ße2(2((I\u0011I2(42(4U4w4R2(2(ôdåjK'jno2(2(2(\"4\u0010j½dIoY(PM44:5ie@5áfú4}5l5552(MS DOS Version 5.00 (C)Copyright 1981-1991 Microsoft Corp Licensed Material - Property of Microsoft All rights reserved <\u0006v\u0005°ÿé*\u0002\u001e.\u001eW\"PV¾9\u00032ä\u000bÀu\u0004\u0014ë5Hu\u0007â\u0001\u0014ë+Hu\u0007â\u0001\u0014ë!=\u0003\u0000u\u0006\u0016i\u0000ë\u0016=\u0004\u0000u\u0011»\u00052²\u00002ö>Ù\u0011\u0000t\u0003Î\u0010^X\u001féÚ\u0001ë¥\u001e.\u001eW\"\u001e2\u0003\u001féÊ\u0001\u001e.\u001eW\"\u001e2\u0003\u001fé¼\u0001\u001e.\u001eW\"¢¢\n\u001fé¯\u00012äë42Àé¦\u0001\u001e.\u001eW\"\u0006î\u0005XX\u0006\u0005è\u00152Pÿ6\u0005ÿ6î\u0005\u001fù$wØáë\bèÿ1üqwÌë)ü3r8u\u0002ëüdw/t©üQu\u0002ëübu\u0002ëüPu\u0003éwÿë\u0015\u001e.\u001eW\"ö\u0006\u0014\u0002\u001ftÉÄÄP7ëÃ\u0006\u001eUWVRQSPØ.\u001eW\"£î\u0005\u001eì\u0005¡\u0005£ô\u0005¡\u0005£ò\u00053À¢u\u0005ö\u0006\u000e\u0010\u0001u\u0003£@\u0003þ\u0006#\u0003&\u0005\u0016\u0005¡2\u0003£>\u0003ØXP&.\u0000\u00160\u0000.\u0016W\"¼¢\u0007è1><\u00006>\n\rÓÛ3À6¢ø\u00056&\u0013\u0006\u0000\b6¢Y\u00036¢N\u00036¢L\u0003@6¢Z\u0003ÜÑãü\nät\u0017üYt>ü\fw\r6>\"\u0003\u0000u1¼¢\në,6£<\u00036Æ\u0006%\u0003\u00016Æ\u0006\"\u0003\u00006Æ\u0006$\u0003ÿ6Æ\u0006Z\u0003\u0000¼\"\t6ö\u00069\u0003ÿt\u0005Pè,X.\b#6\u001eì\u00056\u001eî\u00056ÿ\u0016ì\u00056&\u0000ûèÊ0.\u001eW\">\u0000\u0000t\u0003ë<þ\u000e#\u0003\u0016\u0005&\u0005ìF\u0000¡ô\u0005£\u0005¡ò\u0005£\u0005X[YZ^_]\u001f\u0007\u001e.\u001eW\"ö\u0006\u0014\u0002\u001ft\u0004ÄÄP8éÈ0\u001ec\u0000;\u001e2\u0003t\u0002ë¹þ\u000e\u0000\u001e»\u0013\u0011SË.\u0006W\"&\u0006ð\u0005X[YZ^_]\u001f&ÿ&ð\u0005.\u0006W\"&\u0006ð\u0005\u001eUWVRQSP&ÿ6ð\u0005UìF\u0014]Ã.\u001eW\"Å6\u0005Ã\u0002\u0006\f\u0004\b\u0000@\u0002\u0010\u0004\u0003è\u001b0PØ.\u001eW\"£\f\rX\u0006\u0016\u001d\u0006&\u001f\u0006\u000e\u0017.\u0016W\"¼\"\t\u001e\f\r\u0006è¡ÿ\u00066þ\u0006#\u0003ÄÄP)r\u000e6\u001e\u0010\u00066\u001e\u000e\u0006ë\u001bs\u0019\u0006\u000e\u00072ä¹\u0006\u0000¿U'ò®u\u0004&e\u0005\u00076£¸\rù\u0007èSÿ\u0007è¹/6¡¸\r6þ\u000e#\u0003\u0016\u0007&\u0016\u001d\u0006&&\u001f\u0006\u0007èÀ/Ëè/PØ.\u001eW\"£\f\rX\u0006\u0016\u001d\u0006&\u001f\u0006\u000e\u0017.\u0016W\"¼\"\t\u001e\f\r\u0006è\"ÿ\u00066þ\u0006#\u0003ÄÄP*ëè2ÿd\u0016þë\u00102äèl\u0000è\u001a\u0000è!ÿL\u0016\u0001ù\u0004Ã2ÀÃ2ä6£&\u0003è\u0003\u0000°ÿÃV¾Û\r6>L\u0003\u0000t\u00076Ç\u0006&\u0003S\u0000è\u0002\u0000^Ã\u001ePS.\u001eW\"\u001e&\u0003¬<ÿt\t:Ãt\u0005Æ\u0003ëò­üÿt\u0004&(\u0003<ÿt\u0003¢)\u0003¬<ÿt\u0003¢%\u0003[X\u001fÃ\u001eVQS\u0016\u001f£&\u0003¾[\"ø\u001e=\u0003.­<ÿt\f:Ãt\fà2ä\u0003ðëîÇë\fÌ2í.¬:Çt\u0002âø2ä[Y^\u001fÃ¸\u0001\u0000\u001e.\u001eW\"Æ\u0006%\u0003\u0001\u001fùÃèìÿËøËèº.ü\u0011u\n\nÀt\u0003èÚÿÊ\u0002\u0000ü\u0010u\b\nÀuñ°ÿëðü\u0014täü\u0012u\u0003é\u0011\u0002ü\u0016t\rüFu\u0003é¸\u0001ê\u0005\u0000p\u0000\u001e.\u001eW\"<\u0003u\u0003é7\u0001<\u0006u\u0003éÜ\u0000<\u0007u\u0003é\u0018\u0001<\u0005t\u0003é\u0001÷Â\u0001\u0000t\u0003éw\u0001Ç\u0006Æ\u000f\u0000\u0000Ç\u0006È\u000f\u0000\u0000ÿ\n\u0003r\u0003é\u0000PSQRVW\u001e\u0000ûÿt\"Æ\u0006Ú\r\u0001\u001e\u0006ØÀÛ3öü¿ç\u0011¹\u000b\u0000ó¤¿Õ\r¹\u0005\u0000ó¤\u0007\u001fö\u0006\u0000\u0002t\b_^ZY[XëT i\u0000\u0004@¢\u000f\u0010´l°\u0000» ¹\u0007\u0000º\u0001\u0000¾\u000f\u0010¿ÿÿÍ!_^ZYs\u001eR\u001eV¾U+\u000e\u001f¹c\u0000´\u0002ü¬ÐÍ!âù^\u001fZ[XAéá\u0000Ø´>Í!»À\u000fÇG\u0006\u000f\u0010_\b[X\u000e\u000e\u0010\u0001\u000e\u000e\r\u0001RÓ»À\u000fW\u0002G\u0004Z\u001e\u0007é²\u0000÷Â\u0001\u0000t\u0003é©\u0000>Ú\r\u0001u'Æ\u0006Ú\r\u0000P\u0006QVW¡\u0000À3ÿü¾ç\u0011¹\u000b\u0000ó¤¾Õ\r¹\u0005\u0000ó¤_^Y\u0007X&\u000e\u0010\u0000&\u000e\r\u0000ëoû\u0015uj\u000bÉu\u0012A»\u0000\u0010\u001e\u0007ë\\X¾¸\u0012¸HRé­þIt6ItLIt4It<IuCÀH\u0006À&=Du\u0017@&9E\u0001u\u0010&E\u0003\u0007»\u0010\u0000÷ãÈÚë\u001a\u00073À3Òë\u0019Úë\u000f÷Â\u0001\u0000t\u000f¹G\u0000ë\u00043Òë\u0006¸|¹º«¢\u001fÏ\u001féUþ62\u0003NÆ&\u00036\u0003\u0000Ã\u001e\u0006VWQ.\u001eW\"<\u0001u\u001bèâÿ\u001e\u0007Þ3ö¿\u0006\u0000¹\b\u0000üQó¤Y¿Í\ró¤ë\u001b<\u0002u\u0017èÃÿÆ3ÿ¾\u0006\u0000¹\b\u0000üQó¤Y¾Í\ró¤Y_^\u0007\u001féüý.ÿ6ì#.ÿ6î#PUìF\u000e]è|\té·ý.\u001eW\"Ã°ÿÃ\r\nDivide overflow\r\n\u0013\u0000You must have the file WINA20.386 in the root of your boot drive\r\nto run Windows in Enhanced Mode\r\nYNyn\u001b\u0000@M;S<>==?KRRAA)6÷7$9$957\u00109\"7þ7c8\u00048L8\t8\t8,9èP\r±\u000eW¿¾+\u0006\u000e\u0007ò®\u0007_Ñáé.ÿ¦Ì+\u0016\u001fÄÄP\u0014èAûT\u0006L\u0004ÃÄÄP\u0019ÃÃ3ÀÍ\u001aÁÚÑâÑÑÑâÑÑ\u0003Ó\u0013Á¹\u000bé÷ñØ3À÷ñÓ¹È\u0000÷ñúdr\u0003êdõÚÑÐ²\u0000ÑÒ¹<\u0000÷ñúöñÄ\u0016\u001fèìú\\\u0006D\u00042ÀÃ°ÿý\u0018søù<sóþ<sîúdsé°<öåµ\u0000\u0003Á¹p\u0017Ú÷áÈ°döç\u0003ÈÒ\u0000·\u0000\u0003ËÒ\u0000»\u000bé÷ãÑ÷ã\u0003ÁÒ\u0000»\u0005\u0000öóÈµ\u0000Ä÷óÐ´\u0001Í\u001a2ÀøÃ\u0016\u001f\u001eÈ\u0003\u000eÆ\u0003<\u0001u\u00022ÿ\u001e\u001e2\u0003¡@\u0000\u001fèeú\u0004\\\u0002L\u0004Ã6 \u0001\u0003Ã$\u00016¢\u0001\u0003Ã<ÿt\u0004Ø2ÿ\u001e\u0007R_\u0016\u001fÿÿte\u000bÛu\u0005¾*\u0012ëA½\u0000\u0000è\u000b\u0000r\\û\u0000u4Úë@¾*\u00126;\\htÉÓ3Û¸\u0000\u0014Í/<ÿu\u0016\u000bíu\u0007¸\u0004\u0014Í/ë\u0005¸\u0003\u0014Í/\nÀt¨ùÃ°ÿëú6\\h¾\u0012¹\u0018\u0000\u001e\u0016\u001fó¤\u001fèàù\\\u0002Ãé£ú½\u0001\u0000è¯ÿsó<ÿt\u0003éú°\u0001ëù< s\u0003é\u0000¨u\u0005»±\në\u0003»3\u000b< u\rÂè\n%è¦ùD\u0006ë-<#u+3ÀPÂè3%Xu\u001c.:\u0016¸+t\u0016.:\u0016º+t\u000f.:\u0016¹+t\t.:\u0016»+t\u0002@@ëò<!u\u0018\u000bÉtô¬è\u0002%t\u0004FIu\u0006è¼$Dÿâîëà<\"uR¬\nÀt×èæ$t\b<\u0000tÍFëîè$Dÿëæù\u0005ry\u0016\u001f¾*\u0012úÿu\u0003Thûÿu\u0003\\j;ThuR;\\juM\\HQLJ¾v\u0012:\u0004t\u000bÆ\u0005â÷Y°\u0001éÍù¤Y<\u0001t\u0015¹\u0004\u0000¸\u0005\u0000ó¤ÈÃèäøL\u0004é©ùé\u00039\fs\u0002\f&\rÇ\u0002Æ\u0002Á\u0005\u0003\u0000ëØ2äP]¸\u0000\u0014Í/<ÿt\u0004°\u0001ë¸¸\u0002\u0014Í/<\u0000u\u0005DHë¿ëî\u0016\u001f¾*\u0012<\u0001u\u0011\\jTHèø\\\u0002T\u0006ë©<\u0002u3Th¸\u0000\u0014Í/<ÿu'¸\u0001\u0014Í/\nÀtå<Au\u0018¸A\u0000£&\u0003Æ\u0006(\u0003\u0006Æ\u0006)\u0003\u0005Æ\u0006%\u0003\u0004é1ùë­°\u0001ëú\u0016\u001fÂè;r\u001cÄÄP\u000es\u0003è&r\u0011Æè6øT\u0006L\u0004\\\u0002\u0004Ãè\u0011ù¸ÿÿëé6\u001e.\u00036\u000e0\u0003è\u0015ø\\\u0002L\u0010Ã6\u0016.\u00036\u001e0\u0003Ã6 8\u0003ÃRÂþÀè\u001c;r\u000f6Å6¤\u0005ÄÄP\u001ar\u00046¢8\u0003Z°\u001aÃè5\u0000&Ä\u001fèØ÷\\\u0002D\u0010Ãè%\u0000èÿ'&\u0017&_\u0002è\u0015(6ö\u0006\u0000\u0004u\u0001Ã6>\u0000\u0000u\u00066Æ\u0006\u0000\u0001Ã3ÛÃØÑãÑãÃ\nÀ²/t\u0007<\u0002²ÿt\u0001Ãè÷T\u0006Ã\u0016\u001f¡&\u0003Ä>*\u0003\u001e(\u0003.%\u0003èv÷|\nD\u0010\\\u0002L\u0004é2øV¾*\u00126Dj^Ã\nÀt\r<\u0001t(<\u0002t;°\u0001é øPS\u001e\u0016\u001f»\u0012G\u0001_\u0003\u0005\u0002\u0000è8÷D\b\\\u000e\u001f[XëÃRâ\u00016\u0016\n\r\u001e6\u001e2\u0003\u0016<\u0000\u001fZëçR\u001e6\u0016\n\rè\f÷T\u0006\u001fZëíè´ VèþöD\bÃ²\u0000\u0016\u001fÂè4:r%ÄÄP\u000es\u0003è.%ró¢\u0005Æ¿\u0005èÙöL\u0004T\u0006|\u0002\u0004T\u000eÃé±÷èÄöÇD\u0002#\u0003T\u0010Ãè¸öÇD\u0002&\u0000T\u0010Ã²\u0000\u0016\u001fÂèé9s\u0003ë&Ä>¤\u0005&öEDu\u001a¿Ò\u0013ÄÄP%s\u0003èÒ$r\fèö|\u0002T\u000e2ÀÃ°ÿÃ6>Ð\u0013\u0000t\tÄÄP#s\u0003è°$øÃ\u0003\u0000\u000bít\u0003é9\u0001\u000böt\u0003é2\u0001<\u0007v\u0003é\u0004\u0001\nÀtvþÈtKþÈt3þÈu\u0003éö\u0000þÈu\t6Æ\u0006Í\u0013\u0001éÝ\u0000þÈu\u00076 Í\u0013éÒ\u0000þÈu\t6Æ\u0006Î\u0013\u0001éÅ\u00006 Î\u0013é¾\u00006>Ë\u0013\u00006Æ\u0006Ë\u0013\u0000t\u0003é´\u0000éª\u0000è3s\u0003é©\u0000&÷E\u0005\u0000\u0004u\u0003é\u0000&Ç\u0005\u0000\u0000èS3s\u0003é\u0000&Æ\u0005ÿé\u0000SQRWèµ3s\u0003ë{6\u001e¬\u00056> \u00056\u0006¢\u0005è3rf6\u001e®\u00056\u001e¬\u0005&\u001d6> \u00056\u0006¢\u0005&Ç\u0005\u0001\u0000&ÆE\u0002\u0000&ÆE\u0004\u0000&ÇE\u0013\u0000\u0000&ÇE\u0015\u0000\u0000&E\u000f&E\u0011&ÇE\u0005\u0000\u00046>®\u0005\u0000u\u0006&M\u0005\u0000\u0001Y[&M\u001d&]\u001f6¡®\u00056Ç\u0006¬\u0005ÿÿé\u001aö_ZY[°\u0001é\u001aöèÒ2s\u0002ëô&÷E\u0005\u0000uì&M\u001d&]\u001fè,õL\u0004\\\u0002ëÒýÇ\u0002­«|\u0003\u0000u\u0007&ÆE\u0004\u0000ëwÐ¬þÈªþÀ2ä¨\u0001u\u0006þÄÐèëö",
+  "length": 16384,
+  "offset": 0
+}
+{
+  "file_handle": "0x000000c8",
+  "buffer": "+ËÚtL\u0003ÑÂIÙë.3É6\u000e\u0004\u0003á?ÿù\u0001wØ6\u001eB\u0003r\u00056\u001eD\u0003\u000e\u0003\u0000+ËØÐt\u001b\u0003Ã@ÀI\u001e\u0003\u0000&\u000e\u0003\u0000³M\u001d&\u001d&>\u0001\u0000Ú6¡2\u0003£\u0001\u0000Ø@[édÅ¿\u0000\u0000ÀHèpþs\u0003é\u000eÿØèvþrö\u000e\u0003\u0000Q;Ùv«é$ÿ6ö\u0006\u0000\u0004t\u000e6>\u0000\u0000u\u00066Æ\u0006\u0000\u0001¿\u0000\u0000ÀHè9þr\u0007&>\u0001\u0000ë´°\té\u001fÅ\nÀt <\u0001t$<\u0002t2<\u0003t66Æ\u0006%\u0003\u0005°\u0001ëã6Æ\u0006%\u0003\u0005°\u0007ëô6 \u0004\u00032äëÍSã?ÿû\u0002[wÙ6\u001e\u0004\u0003ëì6 \u0000$\u0001ëö6\u000e\u0000ùÿtÀû\u0001r\u0004t\u001cë·6ö\u0006\u0000\u0001t\u0010è)\u0000r´Æ\u0006\u0000\u0000Z6&\u0000þëÑ6ö\u0006\u0000\u0001u\u0010è\u000f\u0000rÆ\u0006\u0000\u0000M6\u000e\u0000\u0001ëäP6¡$\u0000À3ÿ&=Zt\u0019Øèýr(6ö\u0006\u0000\u0001u\u0006&=Zë\u0002;Áuç6ö\u0006\u0000\u0001u\u000bØèbýr\u0007;Áu\u0003øXÃùXÃÒc$d\u000b*d%d%d%d%d(deddddd<\u0007r\u0004<\tv\u001aò\\\u00126ö\u0006\u000e\u0010\u0001u\u00056\u001e@\u0003\\\u00146\u001e>\u0003.ÿ6Ðc.ÿ6ÎcPèÐ6Æ\u0006%\u0003\u0001°\u0001éûÃÃéîÃë÷X\u001eVè\u001bÃ_\u0007èZÐV¹\u0006\u0000ó¥GG¥¥^\u0004\\\u0002L\u0004T\u0006|\nD\u000eÿt\b\\\f^6\u001eî\u00056\u001eì\u0005é´Á\u0016\u0007¿\"\u0003¹®\nº<\u0003+Ï+×ÑéÑ\u0000ÑáèÍÂD\u000e|\bT\u0006L\u0004ëP¸%\u0011Í/[r\u0002ëóë\u00046£&\u0003D\n6£*\u0003D\u000e6£,\u0003D\u00026£(\u0003D\u00046&%\u0003Ã.\u0006W\"&\u00062\u0003&;\u001e2\u0000r\u0004°\u0006ùÃ&Ä>4\u0000\u0003ûÃèàÿrú&=ÿu\u0004°\u0006ëçS&\u001d2ÿè\u0002\u0000[Ã.\u0006W\"&Ä>*\u0000&;]\u0004r\u000e&+]\u0004&Ä=ÿÿuîùÃP¸!\u0000öã\u0003øXÇ\u0006Ã3Ûèÿr\t&=ÿt\u0005Cëò°\u0004ÃP3ÛSè»ÿ[r)&=\u0000t\u0013&=ÿt\u0003Cëê6¡>\u0003&9E\u001buó&Ç\u0005ÿÿ6¡>\u0003&E\u001bXøÃX°\u0004ÃènÿrX\u0016\u001f> \u0005\u0006¢\u0005èBÿ&Æ\u0005ÿÄ> \u0005èY\u0000&÷E\u0005\u0000u@=\u0001\u0000u6&÷E\u0005\u0000\u0002¹ÿÿºÿÿt\b&U\u0013&M\u0015U&m\u001d&E\u001fÄÄP\u0002s\u0003èØï]&Ç\u0005\u0000\u0000r\u0003ë\u0004éVÂ´>éHÂPèeêX=\u0001\u0000uñ&Ç\u0005\u0000\u0000ëêSP&\u0005Hu\u0001H&\u0005ØXÃ[Ãèãþr$\u0016\u001f> \u0005\u0006¢\u0005&÷E\u0005À\u0000u\u000e&m\u001d&E\u001fÄÄP'r\u0004´hë®ë§3íû\u0014s\u0003»\u0014\u00006\u00062\u0003&\u000e2\u0000;ÙtPw\"½\u0001\u0000&\u001e6\u0000ó+Ë<ÿu?Fâøû\u0014w\t½\u0002\u0000¿\u0018\u0000Së\u001dûÿt}øSÃ\u000f±\u0004ÓÛãÿ\u001fUèìú]rdÀ3ÿ6\u001e2\u0003÷Å\u0003\u0000t\nYQë\në°\u0004ë\u000e2\u0000ÑÅ64\u0000ó¤YQ+Ê°ÿóª6\u001e2\u0003>4\u0000\u0000u\rU\u001e\u0006\u00066\u0000è\u001cü\u0007\u001f]÷Å\u0002\u0000t\bÇ\u00064\u0000\u0018\u0000ë\u0006Ç\u00064\u0000\u0000\u0000\u00066\u0000\u00062\u0000ë¯[°\bë®°\u0001ëú¾ðIèÖýr\n&\u0005èëýr\u0002ë\u0002ëê6> \u00056\u0006¢\u0005&öE\u0003 t\u00066\u000eø\u0005\u00026ÿ6.\u00036ÿ60\u0003èY\u0001Á\u0003Âs\u00126¡.\u0003÷Øu\u0001HÈ\u000bÉu\u0003éÎ\u0000&÷E\u0005\u0000t\u0003é\u0013\u0001USÆ&u\u0013&]\u0015=EK&m\u001d&E\u001ft@èÿ\u0000r\f&÷E\u0005\u0000\u0002ÄÄPBs\u0014&÷E\u0005\u0000\u0002ÄÄP\u0016s\u0003è\u001eîs\u0003é\u0000&\u0001E\u0013&U\u0015\u0000\u000bÉu^&÷E\u0005\u0000\u0001tVÈé\u0000Qè¾\u0000r\f&÷E\u0005\u0000\u0002ÄÄPCs\u000f&÷E\u0005\u0000\u0002ÄÄP\u001es\u0003èÝíYs\u0002ëBãOÈ&\u0001E\u0013&U\u0015\u0000&E\u0013&]\u0015PS&+E\u000f&\u001b]\u0011[Xr\b&E\u000f&]\u0011&e\u0005ÿý[]6\u00060\u00036\u0006.\u0003Áé\u0019À[]6\u00060\u00036\u0006.\u0003éçþ&]\u0013&]\u000f&]\u0015&]\u0011ëÎ&m\u001d&E\u001fÄÄPGtòs\u000e&e\u0005ÿþ&m\u000f&E\u0011&m\u001d&E\u001f&u\u0013&]\u0015é\u0006ÿ\u0016\u001fÿÖsë¨&÷E\u0005\u0000 u\u0011\u001eP¸@\u0000Ø÷\u0006\u0014\u0003\u0000\u0004X\u001ft\u0001ùÃSQÚ±\u0004ÓëØ\u0003ÃØâ\u000f6\u0016.\u00036\u001e0\u0003Y[Ã¾EKéNþèAüs\u0005s\u0003éSþ&÷E\u0005\u0000t\u0003é\u0000<\u0002w\u000b&÷E\u0005\u0000\u0001t\u000eé\u00006Æ\u0006%\u0003\u0001°\u0001éZ¿<\u0001r\nw.&\u0003U\u0013&\u0013M\u0015Á&ÿu\u0015&U\u0015&ÿu\u0013&E\u0013[;Ã[uJ;ÓuFèX¾T\u0006é\u001d¿ØU&m\u001d&E\u001fRÄÄP\u0000s\u0003èì[]s\u0003éÞý&U\u0015&E\u0013&U\u0011&E\u000f&)]\u000f&\u0019M\u0011&e\u0005ÿýë\r&M\u0005\u0000\u0002ë²3ÀÐè\u0006¾T\u0006ë¬PQR<\u0002t(<\u0001u\b&\u0003U\u0013&\u0013M\u0015&;M\u0011w\u0016&;U\u000fw\u0010Á&E\u0013&U\u0015Ä\u0006ëÉ&m\u001d&E\u001fÄÄPHsò&m\u000f&E\u0011&e\u0005ÿþZYXé*ÿÄÄP\bs\u0003èïër\u0002ë ét¾Ãèoûr\u0017\u0006W^\u001fè ûr\rèÒÞèûú&\u001d\u001cëÝëÝSQÙèû[Xèæúë×<\u0007u PÂè\u0002\u0001Xr\u0012<\u0007u\u0007LC\u0000@ë\u0019dCÿ¿ë\u0012¸\u000f\u0000ë\u0010<\btÜP¸\u001e\u0011Í/[r\u0003é\t¾é\u000f¾P6Ä>¤\u0005&ÇEC\u0000\u0000<Zw\u0018´:&\u0005&ÇE\u0002\\\u0000&MD@°\u0002&EEXÃùëûP,\u0001Xr\u0010t\u001a<\u0005v\u001d6Æ\u0006%\u0003\u0001°\u0001ë¼ÄÄPAèó¼L\u0004ë­6\u000e\u000e\u0000ë÷P¸\u001f\u0011Í/Zs\u0002ëàëñè\u001a\u0000rÁ\u001eV6Å6¤\u0005÷DC\u0000 ^\u001ft±6Æ\u0006\u0012\u0006\u000fùÃ\nÀu\u00056 8\u0003@H\u001eV6Æ\u0006%\u0003\u00026ö\u0006u\u0005ÿt!P\u0006W6Ç\u0006¤\u0005\u0007\u00056\u0016¦\u0005\u0004AèTÿ&÷EC\u0000@_\u0007Xt\u000eë\u0019è\u0019\u0000r\u0007÷DC\u0000@u\r°\u000f6¢\u0012\u00066Æ\u0006%\u0003\u0001ù^\u001fÃ6>Ê\u0013\u0000t,SQ6Å6<\u00006\u000eG\u00002íLC\u0000\b»G\u0000\u0003óâôY[6Æ\u0006Ê\u0013\u0000¾ó\u0013\u0016\u001fLC\u0000\f6:\u0006G\u0000r <\u0019w\u001a¾ó\u0013\u0016\u001fPÄÄT\u0004Xr\rÇDE\u0002\u0000ÇDC\u0000Dë&ùÃSP6Å6<\u0000³Göã\u0003ðX[÷DC\u0000\bt\rPÄÄT\u0004XràdCÿ÷66¤\u00056\u001e¦\u0005øÃUìì\u0010\u0016\u0007\u0006W~ð6Æ\u0006o\u0005\u00006Æ\u0006p\u0005\u0000èpÔt\rDÿ6¢p\u00056Æ\u0006o\u0005ÿ¬èðþr`èë\u0003V¹\b\u0000¬è>çt\u0019Iã\u0003¬ë\u001a6ö\u0006p\u0005\btE6\u000e\u0013\u0006\u0000IFë\tèöæ¨\bt3âØÁ\u0003¬è\u0013çt\u0006Iã%¬ë\u0007èÞæ¨\bt\u001bâë^ßèÉØ_\u0007\u0016\u001fvð?\u0000t\u0007Uè\u000e\u0000]s\u0003ù°\u0003å]Ã2Àë\u0002°ÿ6¢N\u0003°ÿ6¢t\u00056Æ\u0006}\u0005ÿ6>´\u00056Ç\u0006¸\u0005ÿÿ\u0016\u0007­\u0000è<\u0003P\u0004è¤æàèæu$:àu X¥¬è æt\tª¬\nÀt\rªëñè0æ\nÀt\u0003ªëçª¸ÿÿÃX<\u0000u\u0004°\u0002ùÃPUèká]Xs'\u000bÒt\u0004°\u0003ùÃ6Æ\u0006u\u0005ÿè\u0007þ6Æ\u0006u\u0005\u0000rëèü\u0002°/ªè½Ç3À\u0016\u001fÃèÑý°\u0003rø\u001eV6Å6¤\u0005ß\u0003\\E­\u0000¬è1æt\fª¤<\u0000uó°\\ªë\u000fª\nÀuéO°\\&8Eÿt\u0001ªO^\u001fè \u0001u\u0011\nÀt\u0010û¬èõåtúN\nÀt\u0003°\\ªè\\\u0000r¦\u0016\u001f>´\u0005Å6¤\u0005è\u0002u2SÞ66¤\u0005\u0004è×åt\tFF;óró[ë\u000eF;órë[Dÿè³åt\f&=\u0000t\u0006G6>¸\u0005\u0016\u001f6´\u00053Éö\u0006t\u0005ÿt\u0003è\u0001\u0016\u001f¸ÿÿøÃ¬èåu\u0007;ýs[ªëóN3À8\u0004u\\è\u001e\u0000t\u0014&}ÿ\\u\u0012P&EþèqåXu\u0007ë8°\\ªÄªøÃVPS66´\u0005;÷r\u0003Fë\u001dßK;ór\nu\u0014&}ÿ:ë\r&\u0004Fè=åtéFëæ[X^Ãè\u0007\u0002°\u0003t\u0002°\u0002ùÃè~\u0000rú&=.t\b&=..u\nOè/\u0000°\u0003råë\u0002\u0003ùè\u001a\u0000uÒ¬èõät\u0003éqÿ;ýsÅª¬èçätúNécÿ\u0004\nÀt¾èØäÃ\u001eVQ\u0006\u001fóÏ\u0004èÉäu%;ûv!û;ñs\u0013¬èÆät\u0003¬ëóè±äuîþOëé&\u0005øY^\u001fÃY^\u001f°\u0003ùÃì\u000e\u001eV\u0006WUì´.¬ª:Äu\u0018è¥ÿt\u000b¬ª:ÄuWèÿuR2Àªv\u0006ëGv\u0006èã;v\u0006t?6ö\u0006u\u0005ÿu\u0010â\u00016\u0000\u0016}\u0005\u007f-u\u0004\nÒt/v\u0006\u0016\u001f¾N\u0005~\nWè\u0019Ö_èÖÅI\u0003N\u0002;N\u0000s\u000b÷Ä~\u0002è¼Åøë\u000bùè\u0006\u0001°\u0002u\u0003ù°\u0003]_\u0007^\u001fÄ\u000eè«ÅIÃ6ö\u0006Z\u0000ÿtj6ÿ6¤\u00056ÿ6¦\u0005\u001eV_\u00073ÀèûûrKþÀ÷DC\u0000 tòWè\u0000t\u0003_ëé&=\u0000u\b6ö\u0006N\u0003ÿuï÷\u0006\u001f_è|\u00006¡¸\u0005\u000bÀx\b\u0003Ç+Æ6£¸\u0005<\u0000u\u0003°\\ªè?ÅÄ\u0004É\u0001ë\f6\u0006¦\u00056\u0006¤\u00053É6Å6¤\u0005Ã\u001eV\u0006WQµ\u0016èÞ\u0003¿Ò\u0003è®üY_\u0007^\u001fs\u0003é¼¸¾Ò\u0003\u0016\u001fè\u0003Åé¨¸2À<\u0000tÓ|\u0001:uÍP\u0004èhãXuÄ­\f ,`u½°ÿÃþÀ\u0004@´:«ÃèìÄIP\u0004èIãt\b§u\u0018Iâóë\r¦u\u0010âìDÿè'ãt\u0006&\u0005è@þXÃ¬è&ãt\b¬\nÀuõþÀÃè-þuíè\u0007ãÃ2äµ\u0016èT\u0003¹HP6Ç\u0006\u000e\u0006\u0000\u00006÷\u0006\u000e\u0006\b\u0000t\u00076\u000e\u0013\u0006\u0000è7õr\u001a&ÇE\u0005\u0000\u00006\u001e¬\u00056> \u00056\u0006¢\u0005è\nõs\u0003éF\u00016>°\u00056\u0006²\u00056\u001e®\u00056\u001e¬\u0005&\u001dò¿Ò\u0003QèÍûÐ[6Å6 \u0005r\n6>}\u0005ÿt\u0005°\u0002é\u0000\u0001X3ÉL\u0002ûHu\t¨t\u0005$\u007f¹\u0000\u0010W\u0006\u001e\u0007V_è'\u0004\u0007_\u0016\u001f\u000bÒu\u0003é\u0000SQR6´\u0005U3Òû\u0010It\u0013û\u000fIu\u001aÈÄÄP\"s\u0003èøäë\u001aÈÄÄP\u0003s\u0003èëäë\rØ3ÀÄÄP\u0012s\u0003èÜäý]Å6 \u0005rH|\u001dD\u001fÇD\u0013\u0000\u0000ÇD\u0015\u0000\u0000L\u000f\\\u0011\u000bÒt\u0005L\u0005\u0000 ZY[\u001e\u0016\u001f>´\u0005=Ar\u0011=Zw\f\u0005,A2ä\u001f\tD\u0005ë\u0001\u001fd\u0005\u007fýë.ZY[ëEû\u000fIu\u0006¸\u0005\u0000ë2û\u0010Iu\u0003»HQÿÓYPÅ6 \u0005L\u0005\u0000Xr\u0015Ç\u0004\u0001\u0000\tL\u00056¡®\u00056Ç\u0006¬\u0005ÿÿéÌ¶=W\u0000u\u0003ë\u0013[Ç\u0004\u0000\u00006Å6°\u0005Æ\u0004ÿë\u0004è<æY6Ç\u0006¬\u0005ÿÿ6>&\u0003%u\u0003é±¶é¦¶6\u000e\u000e\u0006Q¹\u0010I6Æ\u0006p\u0005\u0006é]þ¿Ò\u0003PQòèvúÐYXr=\u0016\u001f\u000bÒt2>}\u0005ÿu0<\u0001v\tÆ\u0006%\u0003\u0001°\u0001ëÁP\u0016´\u0005ÄÄP\u0001s\u0003èÐãZr\u0014\nÒu\u0006è~µL\u0004éC¶¸\u0002\u0000ë\u0002°\u0003ë×ò¿Ò\u0003è'ús\n°\u00036Æ\u0006%\u0003\u0001ëê\u000bÀtä6>}\u0005ÿu\u0015\u0016\u001f\u0016´\u0005ÄÄP\u0005s\u0003èãr\u00063Àë¿°\u0003ëÙQ\u001eR\u0006\u001f÷¿R\u0004èéù6ÿ6´\u00056\u0006¶\u0005^\u001fYr§6>}\u0005ÿuØQ¿Ò\u0003èËùYrì\u0016\u001f>}\u0005ÿrÅÿ6¤\u0005",
+  "length": 16384,
+  "offset": 0
+}
+{
+  "file_handle": "0x000000c8",
+  "buffer": "",
+  "length": 16384,
+  "offset": 0
+}
+{
+  "handle": "0x000000c8"
+}
+{
+  "access": "0x00020019",
+  "base_handle": "0x80000002",
+  "key_handle": "0x000000c8",
+  "regkey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows\\CurrentVersion\\Setup",
+  "regkey_r": "Software\\Microsoft\\Windows\\CurrentVersion\\Setup",
+  "options": 0
+}
+{
+  "key_handle": "0x000000c8",
+  "value": "C:\\",
+  "regkey_r": "BootDir",
+  "reg_type": 1,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Setup\\BootDir"
+}
+{
+  "key_handle": "0x000000c8"
+}
+{
+  "file_handle": "0x000000c8",
+  "filepath": "C:\\",
+  "desired_access": "0x00100020",
+  "filepath_r": "\\??\\C:\\",
+  "open_options": 33,
+  "status_info": 1,
+  "share_access": 3
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "dirpath": "C:\\Windows"
+}
+{
+  "shortpath": "C:\\Windows",
+  "filepath": "C:\\Windows"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000008",
+  "filepath": "C:\\Windows\\System32\\config.nt",
+  "desired_access": "0x80100080",
+  "file_attributes": 128,
+  "filepath_r": "\\??\\C:\\Windows\\SYSTEM32\\CONFIG.NT",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 1
+}
+{
+  "file_size_low": 2577,
+  "file_handle": "0x00000008"
+}
+{
+  "dirpath": "C:\\Users\\faker\\AppData\\Local\\Temp\\"
+}
+{
+  "file_attributes": 8208,
+  "filepath_r": "C:\\Users\\faker\\AppData\\Local\\Temp",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp"
+}
+{
+  "create_disposition": 2,
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B45.tmp",
+  "desired_access": "0x80100080",
+  "file_attributes": 128,
+  "filepath_r": "\\??\\C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B45.tmp",
+  "create_options": 96,
+  "status_info": 2,
+  "share_access": 0
+}
+{
+  "handle": "0x000000cc"
+}
+{
+  "create_disposition": 3,
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B45.tmp",
+  "desired_access": "0xc0100080",
+  "file_attributes": 256,
+  "filepath_r": "\\??\\C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B45.tmp",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 3
+}
+{
+  "file_handle": "0x00000008",
+  "buffer": "REM Windows MS-DOS Startup File\r\nREM\r\nREM CONFIG.SYS vs CONFIG.NT\r\nREM CONFIG.SYS is not used to initialize the MS-DOS environment.\r\nREM CONFIG.NT is used to initialize the MS-DOS environment unless a\r\nREM different startup file is specified in an application's PIF.\r\nREM\r\nREM ECHOCONFIG\r\nREM By default, no information is displayed when the MS-DOS environment\r\nREM is initialized. To display CONFIG.NT/AUTOEXEC.NT information, add\r\nREM the command echoconfig to CONFIG.NT or other startup file.\r\nREM\r\nREM NTCMDPROMPT\r\nREM When you return to the command prompt from a TSR or while running an\r\nREM MS-DOS-based application, Windows runs COMMAND.COM. This allows the\r\nREM TSR to remain active. To run CMD.EXE, the Windows command prompt,\r\nREM rather than COMMAND.COM, add the command ntcmdprompt to CONFIG.NT or\r\nREM other startup file.\r\nREM\r\nREM DOSONLY\r\nREM By default, you can start any type of application when running\r\nREM COMMAND.COM. If you start an application other than an MS-DOS-based\r\nREM application, any running TSR may be disrupted. To ensure that only\r\nREM MS-DOS-based applications can be started, add the command dosonly to\r\nREM CONFIG.NT or other startup file.\r\nREM\r\nREM EMM\r\nREM You can use EMM command line to configure EMM(Expanded Memory Manager).\r\nREM The syntax is:\r\nREM\r\nREM EMM = [A=AltRegSets] [B=BaseSegment] [RAM]\r\nREM\r\nREM     AltRegSets\r\nREM         specifies the total Alternative Mapping Register Sets you\r\nREM         want the system to support. 1 <= AltRegSets <= 255. The\r\nREM         default value is 8.\r\nREM     BaseSegment\r\nREM         specifies the starting segment address in the Dos conventional\r\nREM         memory you want the system to allocate for EMM page frames.\r\nREM         The value must be given in Hexdecimal.\r\nREM         0x1000 <= BaseSegment <= 0x4000. The value is rounded down to\r\nREM         16KB boundary. The default value is 0x4000\r\nREM     RAM\r\nREM         specifies that the system should only allocate 64Kb address\r\nREM         space from the Upper Memory Block(UMB) area for EMM page frames\r\nREM         and leave the rests(if available) to be used by DOS to support\r\nREM         loadhigh and devicehigh commands. The system, by default, would\r\nREM         allocate all possible and available UMB for page frames.\r\nREM\r\nREM     The EMM size is determined by pif file(either the one associated\r\nREM     with your application or _default.pif). If the size from PIF file\r\nREM     is zero, EMM will be disabled and the EMM line will be ignored.\r\nREM\r\ndos=high, umb\r\ndevice=%SystemRoot%\\system32\\himem.sys\r\nfiles=40\r\n",
+  "length": 2577,
+  "offset": 0
+}
+{
+  "shortpath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B45.tmp",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B45.tmp"
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B45.tmp",
+  "buffer": "dos=high, umb",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B45.tmp",
+  "buffer": "\r\n",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B45.tmp",
+  "buffer": "device=",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B45.tmp",
+  "buffer": "C:\\Windows",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B45.tmp",
+  "buffer": "\\system32\\himem.sys",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B45.tmp",
+  "buffer": "\r\n",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B45.tmp",
+  "buffer": "files=40",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B45.tmp",
+  "buffer": "\r\n",
+  "offset": 0
+}
+{
+  "handle": "0x000000d0"
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B45.tmp",
+  "buffer": "country=086,936,C:\\Windows\\system32\\country.sys\r\n",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B45.tmp",
+  "buffer": "shell=C:\\Windows\\System32\\command.com /p C:\\Windows\\system32",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B45.tmp",
+  "buffer": "\r\n",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc"
+}
+{
+  "handle": "0x000000cc"
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000008",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B45.tmp",
+  "desired_access": "0x80100180",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\USERS\\FAKER\\APPDATA\\LOCAL\\TEMP\\SCS1B45.TMP",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_size_low": 174,
+  "file_handle": "0x00000008"
+}
+{
+  "file_handle": "0x00000008",
+  "move_method": 2,
+  "offset": 0
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000000",
+  "filepath": "C:\\Windows\\System32\\HIMEM.SYS",
+  "desired_access": "0x80100180",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\WINDOWS\\SYSTEM32\\HIMEM.SYS",
+  "create_options": 96,
+  "status_info": 4294967295,
+  "share_access": 7
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000008",
+  "filepath": "C:\\Windows\\System32\\HIMEM.SYS",
+  "desired_access": "0x80100080",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\WINDOWS\\SYSTEM32\\HIMEM.SYS",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_size_low": 4768,
+  "file_handle": "0x00000008"
+}
+{
+  "file_handle": "0x00000008",
+  "move_method": 2,
+  "offset": 0
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000008",
+  "filepath": "C:\\Windows\\System32\\HIMEM.SYS",
+  "desired_access": "0xa0100080",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\WINDOWS\\SYSTEM32\\HIMEM.SYS",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_size_low": 4768,
+  "file_handle": "0x00000008"
+}
+{
+  "file_handle": "0x00000008",
+  "move_method": 2,
+  "offset": 0
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 65536,
+  "process_handle": "0xffffffff",
+  "base_address": "0x00100000"
+}
+{
+  "section_handle": "0x000000a0",
+  "process_identifier": 2392,
+  "commit_size": 65536,
+  "win32_protect": 64,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 1073741824,
+  "section_offset": 655360,
+  "view_size": 65536,
+  "base_address": "0x00100000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 65536,
+  "process_handle": "0xffffffff",
+  "base_address": "0x00100000"
+}
+{
+  "section_handle": "0x000000a0",
+  "process_identifier": 2392,
+  "commit_size": 65536,
+  "win32_protect": 64,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 1073741824,
+  "section_offset": 0,
+  "view_size": 65536,
+  "base_address": "0x00100000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 65536,
+  "process_handle": "0xffffffff",
+  "base_address": "0x00100000"
+}
+{
+  "section_handle": "0x000000a0",
+  "process_identifier": 2392,
+  "commit_size": 65536,
+  "win32_protect": 64,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 1073741824,
+  "section_offset": 655360,
+  "view_size": 65536,
+  "base_address": "0x00100000"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000000",
+  "filepath": "C:\\Windows\\System32\\country.sys",
+  "desired_access": "0x80100180",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\WINDOWS\\SYSTEM32\\COUNTRY.SYS",
+  "create_options": 96,
+  "status_info": 4294967295,
+  "share_access": 7
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000008",
+  "filepath": "C:\\Windows\\System32\\country.sys",
+  "desired_access": "0x80100080",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\WINDOWS\\SYSTEM32\\COUNTRY.SYS",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_size_low": 27097,
+  "file_handle": "0x00000008"
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "file_handle": "0x00000008",
+  "filepath": "C:\\DosDevices\\C:",
+  "desired_access": "0x00100081",
+  "filepath_r": "\\DosDevices\\C:",
+  "open_options": 96,
+  "status_info": 1,
+  "share_access": 3
+}
+{
+  "input_buffer": "",
+  "file_handle": "0x00000008",
+  "output_buffer": "2\n\u0000\u0000\u0000\u0000\u0000\u0000\f\u0000\u0000\u0000ÿ\u0000\u0000\u0000?\u0000\u0000\u0000\u0000\u0002\u0000\u0000",
+  "control_code": 458752
+}
+{
+  "file_handle": "0x00000008",
+  "information_class": 17
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000000",
+  "filepath": "C:\\Windows\\System32\\COMMAND.COM",
+  "desired_access": "0x80100180",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\WINDOWS\\SYSTEM32\\COMMAND.COM",
+  "create_options": 96,
+  "status_info": 4294967295,
+  "share_access": 7
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000008",
+  "filepath": "C:\\Windows\\System32\\COMMAND.COM",
+  "desired_access": "0x80100080",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\WINDOWS\\SYSTEM32\\COMMAND.COM",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_size_low": 50648,
+  "file_handle": "0x00000008"
+}
+{
+  "file_handle": "0x00000008",
+  "move_method": 2,
+  "offset": 0
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000008",
+  "filepath": "C:\\Windows\\System32\\COMMAND.COM",
+  "desired_access": "0xa0100080",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\WINDOWS\\SYSTEM32\\COMMAND.COM",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_size_low": 50648,
+  "file_handle": "0x00000008"
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 65536,
+  "process_handle": "0xffffffff",
+  "base_address": "0x00100000"
+}
+{
+  "section_handle": "0x000000a0",
+  "process_identifier": 2392,
+  "commit_size": 65536,
+  "win32_protect": 64,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 1073741824,
+  "section_offset": 0,
+  "view_size": 65536,
+  "base_address": "0x00100000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 65536,
+  "process_handle": "0xffffffff",
+  "base_address": "0x00100000"
+}
+{
+  "section_handle": "0x000000a0",
+  "process_identifier": 2392,
+  "commit_size": 65536,
+  "win32_protect": 64,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 1073741824,
+  "section_offset": 655360,
+  "view_size": 65536,
+  "base_address": "0x00100000"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000000",
+  "filepath": "C:\\Windows\\System32",
+  "desired_access": "0xc0100080",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\WINDOWS\\SYSTEM32",
+  "create_options": 96,
+  "status_info": 4294967295,
+  "share_access": 7
+}
+{
+  "file_handle": "0x00000008",
+  "filepath": "C:\\",
+  "desired_access": "0x00100000",
+  "filepath_r": "\\??\\C:\\",
+  "open_options": 16417,
+  "status_info": 1,
+  "share_access": 0
+}
+{
+  "file_handle": "0x00000008",
+  "information_class": 9
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000000",
+  "filepath": "C:\\Windows\\System32\\COMMAND.COM",
+  "desired_access": "0x80100180",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\WINDOWS\\SYSTEM32\\COMMAND.COM",
+  "create_options": 96,
+  "status_info": 4294967295,
+  "share_access": 7
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000008",
+  "filepath": "C:\\Windows\\System32\\COMMAND.COM",
+  "desired_access": "0x80100080",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\WINDOWS\\SYSTEM32\\COMMAND.COM",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_size_low": 50648,
+  "file_handle": "0x00000008"
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "dirpath": "C:\\Windows"
+}
+{
+  "shortpath": "C:\\Windows",
+  "filepath": "C:\\Windows"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000008",
+  "filepath": "C:\\Windows\\System32\\autoexec.nt",
+  "desired_access": "0x80100080",
+  "file_attributes": 128,
+  "filepath_r": "\\??\\C:\\Windows\\SYSTEM32\\AUTOEXEC.NT",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 1
+}
+{
+  "file_size_low": 1688,
+  "file_handle": "0x00000008"
+}
+{
+  "dirpath": "C:\\Users\\faker\\AppData\\Local\\Temp\\"
+}
+{
+  "file_attributes": 8208,
+  "filepath_r": "C:\\Users\\faker\\AppData\\Local\\Temp",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp"
+}
+{
+  "create_disposition": 2,
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "desired_access": "0x80100080",
+  "file_attributes": 128,
+  "filepath_r": "\\??\\C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "create_options": 96,
+  "status_info": 2,
+  "share_access": 0
+}
+{
+  "handle": "0x000000cc"
+}
+{
+  "create_disposition": 3,
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "desired_access": "0xc0100080",
+  "file_attributes": 256,
+  "filepath_r": "\\??\\C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 3
+}
+{
+  "file_handle": "0x00000008",
+  "buffer": "@echo off\r\n\r\nREM AUTOEXEC.BAT is not used to initialize the MS-DOS environment.\r\nREM AUTOEXEC.NT is used to initialize the MS-DOS environment unless a\r\nREM different startup file is specified in an application's PIF.\r\n\r\nREM Install CD ROM extensions\r\nlh %SystemRoot%\\system32\\mscdexnt.exe\r\n\r\nREM Install network redirector (load before dosx.exe)\r\nlh %SystemRoot%\\system32\\redir\r\n\r\nREM Install DPMI support\r\nlh %SystemRoot%\\system32\\dosx\r\n\r\nREM The following line enables Sound Blaster 2.0 support on NTVDM.\r\nREM The command for setting the BLASTER environment is as follows:\r\nREM    SET BLASTER=A220 I5 D1 P330\r\nREM    where:\r\nREM        A    specifies the sound blaster's base I/O port\r\nREM        I    specifies the interrupt request line\r\nREM        D    specifies the 8-bit DMA channel\r\nREM        P    specifies the MPU-401 base I/O port\r\nREM        T    specifies the type of sound blaster card\r\nREM                 1 - Sound Blaster 1.5\r\nREM                 2 - Sound Blaster Pro I\r\nREM                 3 - Sound Blaster 2.0\r\nREM                 4 - Sound Blaster Pro II\r\nREM                 6 - SOund Blaster 16/AWE 32/32/64\r\nREM\r\nREM    The default value is A220 I5 D1 T3 and P330.  If any of the switches is\r\nREM    left unspecified, the default value will be used. (NOTE, since all the\r\nREM    ports are virtualized, the information provided here does not have to\r\nREM    match the real hardware setting.)  NTVDM supports Sound Blaster 2.0 only.\r\nREM    The T switch must be set to 3, if specified.\r\nSET BLASTER=A220 I5 D1 P330 T3\r\n\r\nREM To disable the sound blaster 2.0 support on NTVDM, specify an invalid\r\nREM SB base I/O port address.  For example:\r\nREM    SET BLASTER=A0\r\n",
+  "length": 1688,
+  "offset": 0
+}
+{
+  "shortpath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp"
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "buffer": "@echo off",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "buffer": "\r\n",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "buffer": "lh ",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "buffer": "C:\\Windows",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "buffer": "\\system32\\mscdexnt.exe",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "buffer": "\r\n",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "buffer": "lh ",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "buffer": "C:\\Windows",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "buffer": "\\system32\\redir",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "buffer": "\r\n",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "buffer": "lh ",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "buffer": "C:\\Windows",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "buffer": "\\system32\\dosx",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "buffer": "\r\n",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "buffer": "SET BLASTER=A220 I5 D1 P330 T3",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "buffer": "\r\n",
+  "offset": 0
+}
+{
+  "file_handle": "0x000000cc"
+}
+{
+  "handle": "0x000000cc"
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000008",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "desired_access": "0x80100180",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\USERS\\FAKER\\APPDATA\\LOCAL\\TEMP\\SCS1B82.TMP",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_size_low": 139,
+  "file_handle": "0x00000008"
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "shortpath": "C:\\PROGRA~2",
+  "filepath": "C:\\ProgramData"
+}
+{
+  "shortpath": "C:\\Users\\faker\\AppData\\Roaming",
+  "filepath": "C:\\Users\\faker\\AppData\\Roaming"
+}
+{
+  "shortpath": "C:\\PROGRA~1\\COMMON~1",
+  "filepath": "C:\\Program Files\\Common Files"
+}
+{
+  "shortpath": "C:\\PROGRA~1",
+  "filepath": "C:\\Program Files"
+}
+{
+  "shortpath": "C:\\Windows",
+  "filepath": "C:\\Windows"
+}
+{
+  "shortpath": "C:\\Users\\faker\\AppData\\Local\\Temp",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp"
+}
+{
+  "shortpath": "C:\\Users\\faker\\AppData\\Local\\Temp",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp"
+}
+{
+  "shortpath": "C:\\Users\\faker",
+  "filepath": "C:\\Users\\faker"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000008",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "desired_access": "0x80100180",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\USERS\\FAKER\\APPDATA\\LOCAL\\TEMP\\SCS1B82.TMP",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_size_low": 139,
+  "file_handle": "0x00000008"
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000008",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "desired_access": "0x80100180",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\USERS\\FAKER\\APPDATA\\LOCAL\\TEMP\\SCS1B82.TMP",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_size_low": 139,
+  "file_handle": "0x00000008"
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "file_handle": "0x00000008",
+  "filepath": "C:\\",
+  "desired_access": "0x00100000",
+  "filepath_r": "\\??\\C:\\",
+  "open_options": 16417,
+  "status_info": 1,
+  "share_access": 0
+}
+{
+  "file_handle": "0x00000008",
+  "information_class": 9
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "file_handle": "0x00000008",
+  "filepath": "C:\\Windows\\System32",
+  "desired_access": "0x00100001",
+  "filepath_r": "\\??\\C:\\WINDOWS\\SYSTEM32",
+  "open_options": 16417,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_handle": "0x00000008",
+  "information_class": 3,
+  "dirpath": "C:\\Windows\\System32\\mscdexnt.exe"
+}
+{
+  "file_handle": "0x00000008",
+  "information_class": 3,
+  "dirpath": "C:\\Windows\\System32"
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000008",
+  "filepath": "C:\\Windows\\System32\\mscdexnt.exe",
+  "desired_access": "0xa0100080",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\WINDOWS\\SYSTEM32\\MSCDEXNT.EXE",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_size_low": 718,
+  "file_handle": "0x00000008"
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 65536,
+  "process_handle": "0xffffffff",
+  "base_address": "0x00100000"
+}
+{
+  "section_handle": "0x000000a0",
+  "process_identifier": 2392,
+  "commit_size": 65536,
+  "win32_protect": 64,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 1073741824,
+  "section_offset": 0,
+  "view_size": 65536,
+  "base_address": "0x00100000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 65536,
+  "process_handle": "0xffffffff",
+  "base_address": "0x00100000"
+}
+{
+  "section_handle": "0x000000a0",
+  "process_identifier": 2392,
+  "commit_size": 65536,
+  "win32_protect": 64,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 1073741824,
+  "section_offset": 655360,
+  "view_size": 65536,
+  "base_address": "0x00100000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 65536,
+  "process_handle": "0xffffffff",
+  "base_address": "0x00100000"
+}
+{
+  "section_handle": "0x000000a0",
+  "process_identifier": 2392,
+  "commit_size": 65536,
+  "win32_protect": 64,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 1073741824,
+  "section_offset": 0,
+  "view_size": 65536,
+  "base_address": "0x00100000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 65536,
+  "process_handle": "0xffffffff",
+  "base_address": "0x00100000"
+}
+{
+  "section_handle": "0x000000a0",
+  "process_identifier": 2392,
+  "commit_size": 65536,
+  "win32_protect": 64,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 1073741824,
+  "section_offset": 655360,
+  "view_size": 65536,
+  "base_address": "0x00100000"
+}
+{
+  "file_handle": "0x0073006d",
+  "filepath": "\\??\\A:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\A:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x0073006d",
+  "filepath": "\\??\\A:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\A:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x0073006d",
+  "filepath": "\\??\\B:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\B:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x0073006d",
+  "filepath": "\\??\\B:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\B:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000008",
+  "filepath": "\\??\\D:",
+  "desired_access": "0x80100080",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\D:",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 1
+}
+{
+  "input_buffer": "\u0001\u0000",
+  "device_handle": "0x00000008",
+  "control_code": 147500,
+  "output_buffer": "<INVALID POINTER>"
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\F:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\F:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\F:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\F:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\G:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\G:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\G:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\G:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\H:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\H:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\H:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\H:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\I:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\I:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\I:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\I:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\J:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\J:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\J:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\J:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\K:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\K:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\K:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\K:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\L:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\L:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\L:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\L:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\M:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\M:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\M:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\M:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\N:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\N:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\N:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\N:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\O:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\O:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\O:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\O:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\P:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\P:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\P:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\P:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\Q:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\Q:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\Q:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\Q:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\R:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\R:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\R:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\R:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\S:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\S:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\S:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\S:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\T:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\T:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\T:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\T:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\U:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\U:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\U:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\U:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\V:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\V:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\V:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\V:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\W:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\W:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\W:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\W:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\X:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\X:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\X:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\X:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\Y:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\Y:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\Y:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\Y:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\Z:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\Z:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x021a0000",
+  "filepath": "\\??\\Z:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\Z:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000008",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "desired_access": "0x80100180",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\USERS\\FAKER\\APPDATA\\LOCAL\\TEMP\\SCS1B82.TMP",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_size_low": 139,
+  "file_handle": "0x00000008"
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "file_handle": "0x00000008",
+  "filepath": "C:\\",
+  "desired_access": "0x00100000",
+  "filepath_r": "\\??\\C:\\",
+  "open_options": 16417,
+  "status_info": 1,
+  "share_access": 0
+}
+{
+  "file_handle": "0x00000008",
+  "information_class": 9
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "file_handle": "0x00000008",
+  "filepath": "C:\\Windows\\System32",
+  "desired_access": "0x00100001",
+  "filepath_r": "\\??\\C:\\WINDOWS\\SYSTEM32",
+  "open_options": 16417,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_handle": "0x00000008",
+  "information_class": 3,
+  "dirpath": "C:\\Windows\\System32\\REDIR\">>>"
+}
+{
+  "file_handle": "0x00000008",
+  "information_class": 3,
+  "dirpath": "C:\\Windows\\System32"
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000008",
+  "filepath": "C:\\Windows\\System32\\redir.exe",
+  "desired_access": "0xa0100080",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\WINDOWS\\SYSTEM32\\REDIR.EXE",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_size_low": 2842,
+  "file_handle": "0x00000008"
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 65536,
+  "process_handle": "0xffffffff",
+  "base_address": "0x00100000"
+}
+{
+  "section_handle": "0x000000a0",
+  "process_identifier": 2392,
+  "commit_size": 65536,
+  "win32_protect": 64,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 1073741824,
+  "section_offset": 0,
+  "view_size": 65536,
+  "base_address": "0x00100000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 65536,
+  "process_handle": "0xffffffff",
+  "base_address": "0x00100000"
+}
+{
+  "section_handle": "0x000000a0",
+  "process_identifier": 2392,
+  "commit_size": 65536,
+  "win32_protect": 64,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 1073741824,
+  "section_offset": 655360,
+  "view_size": 65536,
+  "base_address": "0x00100000"
+}
+{
+  "module_name": "VDMREDIR",
+  "stack_pivoted": 0,
+  "module_address": "0x6fec0000"
+}
+{
+  "basename": "VDMREDIR",
+  "module_address": "0x6fec0000",
+  "flags": 0,
+  "module_name": "VDMREDIR.DLL",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "VDMREDIR",
+  "module_address": "0x6fec0000",
+  "function_address": "0x6fec2b49",
+  "function_name": "VrDispatch"
+}
+{
+  "ordinal": 0,
+  "module": "VDMREDIR",
+  "module_address": "0x6fec0000",
+  "function_address": "0x6fec2b6d",
+  "function_name": "VrInitialized"
+}
+{
+  "ordinal": 0,
+  "module": "VDMREDIR",
+  "module_address": "0x6fec0000",
+  "function_address": "0x6fec2693",
+  "function_name": "VrReadNamedPipe"
+}
+{
+  "ordinal": 0,
+  "module": "VDMREDIR",
+  "module_address": "0x6fec0000",
+  "function_address": "0x6fec27eb",
+  "function_name": "VrWriteNamedPipe"
+}
+{
+  "ordinal": 0,
+  "module": "VDMREDIR",
+  "module_address": "0x6fec0000",
+  "function_address": "0x6fec1fb5",
+  "function_name": "VrIsNamedPipeName"
+}
+{
+  "ordinal": 0,
+  "module": "VDMREDIR",
+  "module_address": "0x6fec0000",
+  "function_address": "0x6fec28e4",
+  "function_name": "VrIsNamedPipeHandle"
+}
+{
+  "ordinal": 0,
+  "module": "VDMREDIR",
+  "module_address": "0x6fec0000",
+  "function_address": "0x6fec2658",
+  "function_name": "VrAddOpenNamedPipeInfo"
+}
+{
+  "ordinal": 0,
+  "module": "VDMREDIR",
+  "module_address": "0x6fec0000",
+  "function_address": "0x6fec2029",
+  "function_name": "VrConvertLocalNtPipeName"
+}
+{
+  "ordinal": 0,
+  "module": "VDMREDIR",
+  "module_address": "0x6fec0000",
+  "function_address": "0x6fec267a",
+  "function_name": "VrRemoveOpenNamedPipeInfo"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000008",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "desired_access": "0x80100180",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\USERS\\FAKER\\APPDATA\\LOCAL\\TEMP\\SCS1B82.TMP",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_size_low": 139,
+  "file_handle": "0x00000008"
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "file_handle": "0x00000008",
+  "filepath": "C:\\",
+  "desired_access": "0x00100000",
+  "filepath_r": "\\??\\C:\\",
+  "open_options": 16417,
+  "status_info": 1,
+  "share_access": 0
+}
+{
+  "file_handle": "0x00000008",
+  "information_class": 9
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "file_handle": "0x00000008",
+  "filepath": "C:\\Windows\\System32",
+  "desired_access": "0x00100001",
+  "filepath_r": "\\??\\C:\\WINDOWS\\SYSTEM32",
+  "open_options": 16417,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_handle": "0x00000008",
+  "information_class": 3,
+  "dirpath": "C:\\Windows\\System32\\DOSX\">>>"
+}
+{
+  "file_handle": "0x00000008",
+  "information_class": 3,
+  "dirpath": "C:\\Windows\\System32"
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000008",
+  "filepath": "C:\\Windows\\System32\\dosx.exe",
+  "desired_access": "0xa0100080",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\WINDOWS\\SYSTEM32\\DOSX.EXE",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_size_low": 53600,
+  "file_handle": "0x00000008"
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 65536,
+  "process_handle": "0xffffffff",
+  "base_address": "0x00100000"
+}
+{
+  "section_handle": "0x000000a0",
+  "process_identifier": 2392,
+  "commit_size": 65536,
+  "win32_protect": 64,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 1073741824,
+  "section_offset": 0,
+  "view_size": 65536,
+  "base_address": "0x00100000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 65536,
+  "process_handle": "0xffffffff",
+  "base_address": "0x00100000"
+}
+{
+  "section_handle": "0x000000a0",
+  "process_identifier": 2392,
+  "commit_size": 65536,
+  "win32_protect": 64,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 1073741824,
+  "section_offset": 655360,
+  "view_size": 65536,
+  "base_address": "0x00100000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 65536,
+  "process_handle": "0xffffffff",
+  "base_address": "0x00100000"
+}
+{
+  "section_handle": "0x000000a0",
+  "process_identifier": 2392,
+  "commit_size": 65536,
+  "win32_protect": 64,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 1073741824,
+  "section_offset": 0,
+  "view_size": 65536,
+  "base_address": "0x00100000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 65536,
+  "process_handle": "0xffffffff",
+  "base_address": "0x00100000"
+}
+{
+  "section_handle": "0x000000a0",
+  "process_identifier": 2392,
+  "commit_size": 65536,
+  "win32_protect": 64,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 1073741824,
+  "section_offset": 655360,
+  "view_size": 65536,
+  "base_address": "0x00100000"
+}
+{
+  "file_attributes": 4294967295,
+  "filepath_r": "C:\\WINDOWS\\SYSTEM32\\SYSTEM.INI",
+  "filepath": "C:\\Windows\\System32\\SYSTEM.INI"
+}
+{
+  "file_attributes": 4294967295,
+  "filepath_r": "C:\\SYSTEM.INI",
+  "filepath": "C:\\SYSTEM.INI"
+}
+{
+  "file_attributes": 4294967295,
+  "filepath_r": "C:\\PROGRA~1\\COMMON~1\\ORACLE\\JAVA\\JAVAPATH\\SYSTEM.INI",
+  "filepath": "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath\\SYSTEM.INI"
+}
+{
+  "file_attributes": 4294967295,
+  "filepath_r": "C:\\WINDOWS\\SYSTEM32\\SYSTEM.INI",
+  "filepath": "C:\\Windows\\System32\\SYSTEM.INI"
+}
+{
+  "file_attributes": 32,
+  "filepath_r": "C:\\WINDOWS\\SYSTEM.INI",
+  "filepath": "C:\\Windows\\system.ini"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000008",
+  "filepath": "C:\\Windows\\system.ini",
+  "desired_access": "0x80100180",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\WINDOWS\\SYSTEM.INI",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_size_low": 219,
+  "file_handle": "0x00000008"
+}
+{
+  "handle": "0x00000008"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 1,
+  "protection": 64,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00110000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 1,
+  "protection": 64,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00111000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 1,
+  "protection": 64,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00112000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 1,
+  "protection": 64,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00113000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 1,
+  "protection": 64,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00114000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 1,
+  "protection": 64,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00115000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 1,
+  "protection": 64,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00116000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 1,
+  "protection": 64,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00117000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 1,
+  "protection": 64,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00118000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 1,
+  "protection": 64,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00119000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 1,
+  "protection": 64,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x0011a000"
+}
+{
+  "access": "0x00000001",
+  "base_handle": "0x80000002",
+  "key_handle": "0x00000008",
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\WOW",
+  "regkey_r": "SYSTEM\\CurrentControlSet\\Control\\WOW",
+  "options": 0
+}
+{
+  "key_handle": "0x00000008",
+  "value": "",
+  "regkey_r": "DpmiLimit",
+  "reg_type": 0,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\WOW\\DpmiLimit"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 64,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x021a0000"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "desired_access": "0x80100180",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\USERS\\FAKER\\APPDATA\\LOCAL\\TEMP\\SCS1B82.TMP",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_size_low": 139,
+  "file_handle": "0x000000cc"
+}
+{
+  "handle": "0x000000cc"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "desired_access": "0x80100180",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\USERS\\FAKER\\APPDATA\\LOCAL\\TEMP\\SCS1B82.TMP",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_size_low": 139,
+  "file_handle": "0x000000cc"
+}
+{
+  "handle": "0x000000cc"
+}
+{
+  "filepath_r": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B45.tmp",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B45.tmp"
+}
+{
+  "filepath_r": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\scs1B82.tmp"
+}
+{
+  "key_handle": "0x000000cc",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\CustomLocale"
+}
+{
+  "key_handle": "0x000000cc",
+  "key_name": "",
+  "value": "",
+  "reg_type": 0,
+  "information_class": 1,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\CustomLocale\\en-US"
+}
+{
+  "handle": "0x000000cc"
+}
+{
+  "key_handle": "0x000000cc",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Nls\\ExtendedLocale"
+}
+{
+  "key_handle": "0x000000cc",
+  "key_name": "",
+  "value": "",
+  "reg_type": 0,
+  "information_class": 1,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Nls\\ExtendedLocale\\en-US"
+}
+{
+  "handle": "0x000000cc"
+}
+{
+  "file_handle": "0x000000cc",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp",
+  "desired_access": "0x00100020",
+  "filepath_r": "\\??\\C:\\Users\\faker\\AppData\\Local\\Temp",
+  "open_options": 33,
+  "status_info": 1,
+  "share_access": 3
+}
+{
+  "handle": "0x000000c8"
+}
+{
+  "file_handle": "0x00000298"
+}
+{
+  "file_handle": "0x0000029c"
+}
+{
+  "file_handle": "0x0000028c"
+}
+{
+  "access": "0x00020019",
+  "base_handle": "0x80000002",
+  "key_handle": "0x000000c8",
+  "regkey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Keyboard Layout\\DosKeybCodes",
+  "regkey_r": "System\\CurrentControlSet\\Control\\Keyboard Layout\\DosKeybCodes",
+  "options": 0
+}
+{
+  "key_handle": "0x000000c8",
+  "value": "ch",
+  "regkey_r": "00000804",
+  "reg_type": 1,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layout\\DosKeybCodes\\00000804"
+}
+{
+  "key_handle": "0x000000c8"
+}
+{
+  "access": "0x00020019",
+  "base_handle": "0x80000002",
+  "key_handle": "0x000000c8",
+  "regkey": "HKEY_LOCAL_MACHINE\\System\\CurrentControlSet\\Control\\Keyboard Layout\\DosKeybIDs",
+  "regkey_r": "System\\CurrentControlSet\\Control\\Keyboard Layout\\DosKeybIDs",
+  "options": 0
+}
+{
+  "key_handle": "0x000000c8",
+  "value": "",
+  "regkey_r": "00000804",
+  "reg_type": 0,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\Keyboard Layout\\DosKeybIDs\\00000804"
+}
+{
+  "key_handle": "0x000000c8"
+}
+{
+  "shortpath": "C:\\Windows\\system32",
+  "filepath": "C:\\Windows\\system32"
+}
+{
+  "file_attributes": 32,
+  "filepath_r": "C:\\Windows\\system32\\KB16.COM",
+  "filepath": "C:\\Windows\\System32\\KB16.COM"
+}
+{
+  "access": "0x00020019",
+  "base_handle": "0x80000002",
+  "key_handle": "0x000000c8",
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Wow",
+  "regkey_r": "SYSTEM\\CurrentControlSet\\Control\\Wow",
+  "options": 0
+}
+{
+  "key_handle": "0x000000c8",
+  "value": "",
+  "regkey_r": "AlternativeKDFs",
+  "reg_type": 0,
+  "regkey": "HKEY_LOCAL_MACHINE\\SYSTEM\\ControlSet001\\Control\\WOW\\AlternativeKDFs"
+}
+{
+  "dirpath": "C:\\Windows\\system32"
+}
+{
+  "key_handle": "0x000000c8"
+}
+{
+  "key_code": 20
+}
+{
+  "key_code": 144
+}
+{
+  "key_code": 145
+}
+{
+  "thread_handle": "0x0000009c",
+  "suspend_count": 1,
+  "process_identifier": 2392
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x000000c8",
+  "filepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\3ada04d4b321058fe9cdf4452b58b7157c8dd35229f32765f07508780424dbc1.exe",
+  "desired_access": "0xa0100080",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\USERS\\FAKER\\APPDATA\\LOCAL\\TEMP\\3ADA04~1.EXE",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 7
+}
+{
+  "file_size_low": 291219,
+  "file_handle": "0x000000c8"
+}
+{
+  "handle": "0x000000c8"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 65536,
+  "process_handle": "0xffffffff",
+  "base_address": "0x00100000"
+}
+{
+  "section_handle": "0x000000a0",
+  "process_identifier": 2392,
+  "commit_size": 65536,
+  "win32_protect": 64,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 1073741824,
+  "section_offset": 0,
+  "view_size": 65536,
+  "base_address": "0x00100000"
+}
+{
+  "process_identifier": 2392,
+  "region_size": 65536,
+  "process_handle": "0xffffffff",
+  "base_address": "0x00100000"
+}
+{
+  "section_handle": "0x000000a0",
+  "process_identifier": 2392,
+  "commit_size": 65536,
+  "win32_protect": 64,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 1073741824,
+  "section_offset": 655360,
+  "view_size": 65536,
+  "base_address": "0x00100000"
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "T",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "h",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "i",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "s",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": " ",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "p",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "r",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "o",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "g",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "r",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "a",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "m",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": " ",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "c",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "a",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "n",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "n",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "o",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "t",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": " ",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "b",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "e",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": " ",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "r",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "u",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "n",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": " ",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "i",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "n",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": " ",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "D",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "O",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "S",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": " ",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "m",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "o",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "d",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "e",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": ".",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "\r",
+  "offset": 0
+}
+{
+  "file_handle": "0x0000029c",
+  "filepath": "",
+  "buffer": "\n",
+  "offset": 0
+}
+{
+  "handle": "0x00000298"
+}
+{
+  "handle": "0x0000029c"
+}
+{
+  "handle": "0x0000028c"
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\A:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\A:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\A:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\A:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\B:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\B:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\B:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\B:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\F:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\F:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\F:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\F:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\G:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\G:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\G:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\G:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\H:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\H:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\H:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\H:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\I:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\I:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\I:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\I:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\J:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\J:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\J:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\J:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\K:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\K:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\K:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\K:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\L:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\L:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\L:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\L:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\M:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\M:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\M:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\M:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\N:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\N:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\N:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\N:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\O:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\O:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\O:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\O:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\P:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\P:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\P:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\P:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\Q:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\Q:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\Q:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\Q:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\R:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\R:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\R:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\R:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\S:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\S:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\S:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\S:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\T:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\T:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\T:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\T:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\U:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\U:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\U:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\U:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\V:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\V:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\V:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\V:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\W:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\W:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\W:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\W:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\X:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\X:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\X:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\X:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\Y:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\Y:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\Y:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\Y:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\Z:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\Z:",
+  "open_options": 96,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "file_handle": "0x012c0000",
+  "filepath": "\\??\\Z:",
+  "desired_access": "0x00100080",
+  "filepath_r": "\\??\\Z:",
+  "open_options": 32,
+  "status_info": 4294967295,
+  "share_access": 3
+}
+{
+  "key_code": 20
+}
+{
+  "key_code": 144
+}
+{
+  "key_code": 145
+}
+{
+  "library": "WINMM",
+  "module_address": "0x73b80000"
+}
+{
+  "handle": "0x000000ac"
+}
+{
+  "status_code": "0x00000001",
+  "process_identifier": 0,
+  "process_handle": "0x00000000"
+}
+{
+  "status_code": "0x00000001",
+  "process_identifier": 0,
+  "process_handle": "0x00000000"
+}
+{
+  "handle": "0x0000002c"
+}
+{
+  "handle": "0x00000054"
+}
+{
+  "handle": "0x00000048"
+}
+{
+  "handle": "0x0000004c"
+}
+{
+  "handle": "0x00000050"
+}
+{
+  "handle": "0x00000058"
+}
+{
+  "handle": "0x00000044"
+}
+{
+  "handle": "0x00000040"
+}
+{
+  "library": "IMM32",
+  "module_address": "0x77270000"
+}
+{
+  "key_handle": "0x00000040",
+  "desired_access": "0x00020019",
+  "regkey": "HKEY_LOCAL_MACHINE\\Software\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize"
+}
+{
+  "key_handle": "0x00000040",
+  "key_name": "",
+  "value": "",
+  "reg_type": 0,
+  "information_class": 2,
+  "regkey": "HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\GRE_Initialize\\DisableMetaFiles"
+}
+{
+  "handle": "0x00000040"
+}
+{
+  "handle": "0x0000001c"
+}
+{
+  "status_code": "0x00000001",
+  "process_identifier": 2392,
+  "process_handle": "0xffffffff"
+}

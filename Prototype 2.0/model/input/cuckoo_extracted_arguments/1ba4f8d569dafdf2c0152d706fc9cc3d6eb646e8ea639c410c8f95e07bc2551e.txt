@@ -1,0 +1,2815 @@
+{}
+{
+  "basename": "api-ms-win-core-synch-l1-2-0",
+  "module_address": "0x00000000",
+  "flags": 0,
+  "module_name": "api-ms-win-core-synch-l1-2-0",
+  "stack_pivoted": 0
+}
+{
+  "basename": "kernel32",
+  "module_address": "0x77490000",
+  "flags": 0,
+  "module_name": "kernel32",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e3879",
+  "function_name": "InitializeCriticalSectionEx"
+}
+{
+  "basename": "api-ms-win-core-fibers-l1-1-1",
+  "module_address": "0x00000000",
+  "flags": 0,
+  "module_name": "api-ms-win-core-fibers-l1-1-1",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e418d",
+  "function_name": "FlsAlloc"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e76e6",
+  "function_name": "FlsSetValue"
+}
+{
+  "basename": "advapi32",
+  "module_address": "0x773f0000",
+  "flags": 0,
+  "module_name": "advapi32",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x775e5b0c",
+  "function_name": "EventRegister"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x00ea0dbc",
+  "function_name": "EventSetInformation"
+}
+{
+  "basename": "api-ms-win-core-synch-l1-2-0",
+  "module_address": "0x00000000",
+  "flags": 0,
+  "module_name": "api-ms-win-core-synch-l1-2-0",
+  "stack_pivoted": 0
+}
+{
+  "basename": "kernel32",
+  "module_address": "0x77490000",
+  "flags": 0,
+  "module_name": "kernel32",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e3879",
+  "function_name": "InitializeCriticalSectionEx"
+}
+{
+  "basename": "api-ms-win-core-fibers-l1-1-1",
+  "module_address": "0x00000000",
+  "flags": 0,
+  "module_name": "api-ms-win-core-fibers-l1-1-1",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e418d",
+  "function_name": "FlsAlloc"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1e16",
+  "function_name": "FlsGetValue"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e76e6",
+  "function_name": "FlsSetValue"
+}
+{
+  "basename": "api-ms-win-core-localization-l1-2-1",
+  "module_address": "0x00000000",
+  "flags": 0,
+  "module_name": "api-ms-win-core-localization-l1-2-1",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x7751f72b",
+  "function_name": "LCMapStringEx"
+}
+{}
+{
+  "module_handle": "0x00e50000",
+  "id": 103,
+  "string": "Mantis ChineseChess"
+}
+{
+  "module_handle": "0x00e50000",
+  "id": 109,
+  "string": "MANTISCHINESECHESS"
+}
+{
+  "name": "#14",
+  "type": "#107",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfbb8",
+  "pointer": "0x00ed58f0"
+}
+{
+  "name": "#3",
+  "type": "#7",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecf9c8",
+  "pointer": "0x00ed43e0"
+}
+{
+  "name": "#14",
+  "type": "#108",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfbc8",
+  "pointer": "0x00ed5a90"
+}
+{
+  "name": "#3",
+  "type": "#9",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecf9e8",
+  "pointer": "0x00ed5968"
+}
+{
+  "process_identifier": 360,
+  "region_size": 983040,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 8192,
+  "base_address": "0x005d0000"
+}
+{
+  "free_type": 32768,
+  "process_identifier": 360,
+  "process_handle": "0xffffffff",
+  "base_address": "0x005d0000",
+  "size": 720896
+}
+{
+  "process_identifier": 360,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00680000"
+}
+{
+  "basename": "uxtheme",
+  "module_address": "0x74450000",
+  "flags": 0,
+  "module_name": "C:\\Windows\\system32\\uxtheme.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "uxtheme",
+  "module_address": "0x74450000",
+  "function_address": "0x7445b176",
+  "function_name": "ThemeInitApiHook"
+}
+{}
+{
+  "index": 31
+}
+{
+  "section_handle": "0x00000098",
+  "process_identifier": 360,
+  "commit_size": 0,
+  "win32_protect": 2,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 0,
+  "section_offset": 0,
+  "view_size": 913408,
+  "base_address": "0x006c0000"
+}
+{
+  "module_name": "user32.dll",
+  "stack_pivoted": 0,
+  "module_address": "0x764a0000"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764b212e",
+  "function_name": "IsProcessDPIAware"
+}
+{
+  "process_identifier": 360,
+  "region_size": 16384,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00681000"
+}
+{
+  "process_identifier": 360,
+  "region_size": 28672,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00685000"
+}
+{
+  "process_identifier": 360,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x0068c000"
+}
+{
+  "index": 31
+}
+{
+  "index": 31
+}
+{
+  "name": "#4",
+  "type": "#109",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfb58",
+  "pointer": "0x00ed9ca8"
+}
+{
+  "module_handle": "0x00e50000",
+  "id": 106,
+  "string": ""
+}
+{
+  "module_handle": "0x00e50000",
+  "id": 106,
+  "string": ""
+}
+{
+  "handle": "0x0000009c"
+}
+{
+  "handle": "0x000000a0"
+}
+{
+  "handle": "0x000000a0"
+}
+{
+  "module_handle": "0x00e50000",
+  "id": 106,
+  "string": ""
+}
+{
+  "index": 31
+}
+{
+  "process_identifier": 360,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x0068d000"
+}
+{
+  "index": 31
+}
+{
+  "index": 31
+}
+{
+  "basename": "dwmapi",
+  "module_address": "0x74120000",
+  "flags": 0,
+  "module_name": "dwmapi.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "dwmapi",
+  "module_address": "0x74120000",
+  "function_address": "0x74121610",
+  "function_name": "DwmIsCompositionEnabled"
+}
+{
+  "module_handle": "0x00e50000",
+  "id": 106,
+  "string": ""
+}
+{
+  "process_identifier": 360,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x0068e000"
+}
+{
+  "module_handle": "0x00e50000",
+  "id": 106,
+  "string": ""
+}
+{
+  "string": "&ChineseChess"
+}
+{
+  "module_handle": "0x00e50000",
+  "id": 106,
+  "string": ""
+}
+{
+  "name": "#12",
+  "type": "#131",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfb88",
+  "pointer": "0x00eda320"
+}
+{
+  "name": "#1",
+  "type": "#33",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecf948",
+  "pointer": "0x00eda030"
+}
+{
+  "name": "#12",
+  "type": "#133",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfba8",
+  "pointer": "0x00eda628"
+}
+{
+  "name": "#1",
+  "type": "#34",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecf958",
+  "pointer": "0x00eda338"
+}
+{
+  "name": "#12",
+  "type": "#132",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfb98",
+  "pointer": "0x00eda018"
+}
+{
+  "name": "#1",
+  "type": "#32",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecf938",
+  "pointer": "0x00ed9d28"
+}
+{
+  "name": "#14",
+  "type": "#159",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfc58",
+  "pointer": "0x00ed7b90"
+}
+{
+  "name": "#3",
+  "type": "#20",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfa98",
+  "pointer": "0x00ed78a8"
+}
+{
+  "name": "#14",
+  "type": "#160",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfc68",
+  "pointer": "0x00ed8490"
+}
+{
+  "name": "#3",
+  "type": "#23",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfac8",
+  "pointer": "0x00ed81a8"
+}
+{
+  "name": "#14",
+  "type": "#161",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfc78",
+  "pointer": "0x00ed8790"
+}
+{
+  "name": "#3",
+  "type": "#24",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfad8",
+  "pointer": "0x00ed84a8"
+}
+{
+  "name": "#14",
+  "type": "#162",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfc88",
+  "pointer": "0x00ed7e90"
+}
+{
+  "name": "#3",
+  "type": "#21",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfaa8",
+  "pointer": "0x00ed7ba8"
+}
+{
+  "name": "#14",
+  "type": "#163",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfc98",
+  "pointer": "0x00ed7890"
+}
+{
+  "name": "#3",
+  "type": "#19",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfa88",
+  "pointer": "0x00ed75a8"
+}
+{
+  "name": "#14",
+  "type": "#164",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfca8",
+  "pointer": "0x00ed8190"
+}
+{
+  "name": "#3",
+  "type": "#22",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfab8",
+  "pointer": "0x00ed7ea8"
+}
+{
+  "name": "#14",
+  "type": "#165",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfcb8",
+  "pointer": "0x00ed7590"
+}
+{
+  "name": "#3",
+  "type": "#18",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfa78",
+  "pointer": "0x00ed72a8"
+}
+{
+  "name": "#14",
+  "type": "#152",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfbe8",
+  "pointer": "0x00ed6390"
+}
+{
+  "name": "#3",
+  "type": "#12",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfa18",
+  "pointer": "0x00ed60a8"
+}
+{
+  "name": "#14",
+  "type": "#153",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfbf8",
+  "pointer": "0x00ed6c90"
+}
+{
+  "name": "#3",
+  "type": "#15",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfa48",
+  "pointer": "0x00ed69a8"
+}
+{
+  "name": "#14",
+  "type": "#154",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfc08",
+  "pointer": "0x00ed6f90"
+}
+{
+  "name": "#3",
+  "type": "#16",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfa58",
+  "pointer": "0x00ed6ca8"
+}
+{
+  "name": "#14",
+  "type": "#155",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfc18",
+  "pointer": "0x00ed6690"
+}
+{
+  "name": "#3",
+  "type": "#13",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfa28",
+  "pointer": "0x00ed63a8"
+}
+{
+  "name": "#14",
+  "type": "#156",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfc28",
+  "pointer": "0x00ed6090"
+}
+{
+  "name": "#3",
+  "type": "#11",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfa08",
+  "pointer": "0x00ed5da8"
+}
+{
+  "name": "#14",
+  "type": "#157",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfc38",
+  "pointer": "0x00ed6990"
+}
+{
+  "name": "#3",
+  "type": "#14",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfa38",
+  "pointer": "0x00ed66a8"
+}
+{
+  "name": "#14",
+  "type": "#158",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfc48",
+  "pointer": "0x00ed5d90"
+}
+{
+  "name": "#3",
+  "type": "#10",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecf9f8",
+  "pointer": "0x00ed5aa8"
+}
+{
+  "name": "#14",
+  "type": "#130",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfbd8",
+  "pointer": "0x00ed7290"
+}
+{
+  "name": "#3",
+  "type": "#17",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfa68",
+  "pointer": "0x00ed6fa8"
+}
+{
+  "name": "#14",
+  "type": "#166",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfcc8",
+  "pointer": "0x00ed8a90"
+}
+{
+  "name": "#3",
+  "type": "#25",
+  "module_handle": "0x00e50000",
+  "language_identifier": 0
+}
+{
+  "module_handle": "0x00e50000",
+  "resource_handle": "0x00ecfae8",
+  "pointer": "0x00ed87a8"
+}
+{
+  "process_identifier": 360,
+  "region_size": 122880,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 64,
+  "process_handle": "0xffffffff",
+  "allocation_type": 12288,
+  "base_address": "0x005d0000"
+}
+{
+  "process_identifier": 360,
+  "region_size": 122880,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x000e6000"
+}
+{
+  "process_identifier": 360,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 1,
+  "length": 126976,
+  "protection": 64,
+  "process_handle": "0xffffffff",
+  "base_address": "0x000d9000"
+}
+{
+  "basename": "Kernel32",
+  "module_address": "0x77490000",
+  "flags": 0,
+  "module_name": "Kernel32.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dd9d0",
+  "function_name": "FreeLibrary"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e33d3",
+  "function_name": "GetProcAddress"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e3c01",
+  "function_name": "LoadLibraryW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e65c4",
+  "function_name": "GetEnvironmentVariableW"
+}
+{
+  "basename": "kernel32",
+  "module_address": "0x77490000",
+  "flags": 0,
+  "module_name": "kernel32.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e4bcd",
+  "function_name": "SortGetHandle"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x77533f44",
+  "function_name": "SortCloseHandle"
+}
+{
+  "dirpath": "C:\\Windows"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x000000b8",
+  "filepath": "C:\\Windows\\Globalization\\Sorting\\sortdefault.nls",
+  "desired_access": "0x80100080",
+  "file_attributes": 128,
+  "filepath_r": "\\??\\C:\\Windows\\Globalization\\Sorting\\sortdefault.nls",
+  "create_options": 96,
+  "status_info": 1,
+  "share_access": 1
+}
+{
+  "section_handle": "0x000000bc",
+  "object_handle": "0x00000000",
+  "desired_access": "0x000f0005",
+  "protection": 2,
+  "section_name": "",
+  "file_handle": "0x000000b8"
+}
+{
+  "section_handle": "0x000000bc",
+  "process_identifier": 360,
+  "commit_size": 0,
+  "win32_protect": 2,
+  "buffer": "",
+  "process_handle": "0xffffffff",
+  "allocation_type": 0,
+  "section_offset": 0,
+  "view_size": 2945024,
+  "base_address": "0x00930000"
+}
+{
+  "handle": "0x000000bc"
+}
+{
+  "handle": "0x000000b8"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d3925",
+  "function_name": "CreateDirectoryW"
+}
+{
+  "dirpath_r": "C:",
+  "dirpath": "C:\\Users\\faker\\AppData\\Local\\Temp"
+}
+{
+  "dirpath_r": "C:\\Users",
+  "dirpath": "C:\\Users"
+}
+{
+  "dirpath_r": "C:\\Users\\faker",
+  "dirpath": "C:\\Users\\faker"
+}
+{
+  "dirpath_r": "C:\\Users\\faker\\AppData",
+  "dirpath": "C:\\Users\\faker\\AppData"
+}
+{
+  "dirpath_r": "C:\\Users\\faker\\AppData\\Roaming",
+  "dirpath": "C:\\Users\\faker\\AppData\\Roaming"
+}
+{
+  "dirpath_r": "C:\\Users\\faker\\AppData\\Roaming\\MarkdownPad",
+  "dirpath": "C:\\Users\\faker\\AppData\\Roaming\\MarkdownPad"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774f548a",
+  "function_name": "MoveFileW"
+}
+{
+  "oldfilepath": "C:\\Users\\faker\\AppData\\Local\\Temp\\1ba4f8d569dafdf2c0152d706fc9cc3d6eb646e8ea639c410c8f95e07bc2551e.exe",
+  "newfilepath": "C:\\Users\\faker\\AppData\\Roaming\\MarkdownPad\\MarkdownPad.exe",
+  "newfilepath_r": "C:\\Users\\faker\\AppData\\Roaming\\MarkdownPad\\MarkdownPad.exe",
+  "flags": 2,
+  "oldfilepath_r": "C:\\Users\\faker\\AppData\\Local\\Temp\\1ba4f8d569dafdf2c0152d706fc9cc3d6eb646e8ea639c410c8f95e07bc2551e.exe"
+}
+{
+  "basename": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "flags": 0,
+  "module_name": "ADVAPI32.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x77401514",
+  "function_name": "RegCreateKeyW"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x774014d6",
+  "function_name": "RegSetValueExW"
+}
+{
+  "access": "0x02000000",
+  "base_handle": "0x80000001",
+  "regkey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+  "key_handle": "0x000000bc",
+  "options": 0,
+  "regkey_r": "Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+  "disposition": 0,
+  "class": ""
+}
+{
+  "key_handle": "0x000000bc",
+  "value": "C:\\Users\\faker\\AppData\\Roaming\\MarkdownPad\\MarkdownPad.exe",
+  "regkey_r": "MarkdownPad S1",
+  "reg_type": 1,
+  "regkey": "HKEY_CURRENT_USER\\Software\\Microsoft\\Windows\\CurrentVersion\\Run\\MarkdownPad S1"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x7740469d",
+  "function_name": "RegCloseKey"
+}
+{
+  "key_handle": "0x000000bc"
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "skipped": 0,
+  "milliseconds": 1
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e395c",
+  "function_name": "LoadLibraryA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e2fb6",
+  "function_name": "VirtualAlloc"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e1da4",
+  "function_name": "VirtualFree"
+}
+{
+  "basename": "ntdll",
+  "module_address": "0x77580000",
+  "flags": 0,
+  "module_name": "ntdll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "ntdll",
+  "module_address": "0x77580000",
+  "function_address": "0x7763537d",
+  "function_name": "RtlDecompressBuffer"
+}
+{
+  "ordinal": 0,
+  "module": "ntdll",
+  "module_address": "0x77580000",
+  "function_address": "0x775b4cc0",
+  "function_name": "memcpy"
+}
+{
+  "process_identifier": 360,
+  "region_size": 143360,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00620000"
+}
+{
+  "output_size": 143360,
+  "format": 2,
+  "uncompressed": "",
+  "input_size": 105181
+}
+{
+  "process_identifier": 360,
+  "region_size": 180224,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 64,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00650000"
+}
+{
+  "basename": "KERNEL32",
+  "module_address": "0x77490000",
+  "flags": 0,
+  "module_name": "KERNEL32.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774cad1b",
+  "function_name": "SetFileAttributesW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dcf41",
+  "function_name": "GetModuleHandleA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e3386",
+  "function_name": "CreateEventW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dba90",
+  "function_name": "WaitForSingleObject"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c7d32",
+  "function_name": "GetPrivateProfileStringW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c67c3",
+  "function_name": "CopyFileW"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774c89a9",
+  "function_name": "QueueUserAPC"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e6733",
+  "function_name": "OpenThread"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dcac4",
+  "function_name": "GetCurrentProcessId"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dca7c",
+  "function_name": "CloseHandle"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dcdd9",
+  "function_name": "DuplicateHandle"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e395c",
+  "function_name": "LoadLibraryA"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e3728",
+  "function_name": "GetSystemInfo"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e33d3",
+  "function_name": "GetProcAddress"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e3363",
+  "function_name": "LocalAlloc"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dca64",
+  "function_name": "LocalFree"
+}
+{
+  "basename": "USER32",
+  "module_address": "0x764a0000",
+  "flags": 0,
+  "module_name": "USER32.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764c426d",
+  "function_name": "wsprintfW"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764aae0d",
+  "function_name": "FindWindowW"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764b335d",
+  "function_name": "GetForegroundWindow"
+}
+{
+  "basename": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "flags": 0,
+  "module_name": "ADVAPI32.dll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x77404620",
+  "function_name": "InitializeSecurityDescriptor"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x774045f0",
+  "function_name": "GetAce"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x77404176",
+  "function_name": "AddAccessAllowedAce"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x774045cd",
+  "function_name": "InitializeAcl"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x7740415e",
+  "function_name": "SetSecurityDescriptorDacl"
+}
+{}
+{}
+{}
+{}
+{
+  "basename": "kernel32",
+  "module_address": "0x77490000",
+  "flags": 0,
+  "module_name": "kernel32",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x775da149",
+  "function_name": "InitializeCriticalSection"
+}
+{}
+{}
+{}
+{}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e3363",
+  "function_name": "LocalAlloc"
+}
+{
+  "process_identifier": 360,
+  "region_size": 524288,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 8192,
+  "base_address": "0x007a0000"
+}
+{
+  "process_identifier": 360,
+  "region_size": 4096,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x007a0000"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d5bea",
+  "function_name": "LocalLock"
+}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  "basename": "user32",
+  "module_address": "0x764a0000",
+  "flags": 0,
+  "module_name": "user32",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764b3f47",
+  "function_name": "wsprintfA"
+}
+{
+  "ordinal": 0,
+  "module": "USER32",
+  "module_address": "0x764a0000",
+  "function_address": "0x764c426d",
+  "function_name": "wsprintfW"
+}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  "basename": "ntdll",
+  "module_address": "0x77580000",
+  "flags": 0,
+  "module_name": "ntdll",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "ntdll",
+  "module_address": "0x77580000",
+  "function_address": "0x7763529b",
+  "function_name": "RtlGetCompressionWorkSpaceSize"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e2fb6",
+  "function_name": "VirtualAlloc"
+}
+{
+  "process_identifier": 360,
+  "region_size": 36864,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00820000"
+}
+{
+  "process_identifier": 360,
+  "region_size": 61440,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00830000"
+}
+{}
+{}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e3d01",
+  "function_name": "SetUnhandledExceptionFilter"
+}
+{}
+{}
+{}
+{
+  "module_name": "msvcrt.dll",
+  "stack_pivoted": 0,
+  "module_address": "0x76300000"
+}
+{
+  "ordinal": 0,
+  "module": "msvcrt",
+  "module_address": "0x76300000",
+  "function_address": "0x76309790",
+  "function_name": "memset"
+}
+{}
+{}
+{}
+{
+  "process_identifier": 360,
+  "region_size": 286720,
+  "stack_dep_bypass": 0,
+  "stack_pivoted": 0,
+  "heap_dep_bypass": 0,
+  "protection": 4,
+  "process_handle": "0xffffffff",
+  "allocation_type": 4096,
+  "base_address": "0x00115000"
+}
+{}
+{
+  "module_name": "msvcrt.dll",
+  "stack_pivoted": 0,
+  "module_address": "0x76300000"
+}
+{
+  "ordinal": 0,
+  "module": "msvcrt",
+  "module_address": "0x76300000",
+  "function_address": "0x76309910",
+  "function_name": "memcpy"
+}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  "module_name": "msvcrt.dll",
+  "stack_pivoted": 0,
+  "module_address": "0x76300000"
+}
+{
+  "ordinal": 0,
+  "module": "msvcrt",
+  "module_address": "0x76300000",
+  "function_address": "0x76317975",
+  "function_name": "memcmp"
+}
+{}
+{}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e40fb",
+  "function_name": "GetSystemDirectoryW"
+}
+{
+  "dirpath": "C:\\Windows\\system32"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e7598",
+  "function_name": "GetVolumeInformationW"
+}
+{
+  "file_handle": "0x000000bc",
+  "filepath": "C:\\",
+  "desired_access": "0x00100000",
+  "filepath_r": "\\??\\C:\\",
+  "open_options": 16417,
+  "status_info": 1,
+  "share_access": 0
+}
+{
+  "file_handle": "0x000000bc",
+  "information_class": 9
+}
+{
+  "handle": "0x000000bc"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dd9e8",
+  "function_name": "lstrlenW"
+}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d4680",
+  "function_name": "ExpandEnvironmentStringsW"
+}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dcc56",
+  "function_name": "CreateFileW"
+}
+{
+  "create_disposition": 1,
+  "file_handle": "0x00000000",
+  "filepath": "C:\\Users\\faker\\AppData\\Roaming\\pfvysc",
+  "desired_access": "0x80100080",
+  "file_attributes": 0,
+  "filepath_r": "\\??\\C:\\Users\\faker\\AppData\\Roaming\\pfvysc",
+  "create_options": 96,
+  "status_info": 4294967295,
+  "share_access": 1
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dbf00",
+  "function_name": "GetLastError"
+}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774da611",
+  "function_name": "lstrlenA"
+}
+{}
+{}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e452b",
+  "function_name": "MultiByteToWideChar"
+}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dcdcf",
+  "function_name": "GetCurrentProcess"
+}
+{
+  "basename": "advapi32",
+  "module_address": "0x773f0000",
+  "flags": 0,
+  "module_name": "advapi32",
+  "stack_pivoted": 0
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x77404304",
+  "function_name": "OpenProcessToken"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x774041b3",
+  "function_name": "LookupPrivilegeValueW"
+}
+{
+  "system_name": "",
+  "privilege_name": "SeDebugPrivilege"
+}
+{
+  "ordinal": 0,
+  "module": "ADVAPI32",
+  "module_address": "0x773f0000",
+  "function_address": "0x7740418e",
+  "function_name": "AdjustTokenPrivileges"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774dca7c",
+  "function_name": "CloseHandle"
+}
+{
+  "handle": "0x000000bc"
+}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  "system_name": "",
+  "privilege_name": "SeTcbPrivilege"
+}
+{
+  "handle": "0x000000bc"
+}
+{}
+{}
+{}
+{}
+{}
+{}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774e375d",
+  "function_name": "CreateThread"
+}
+{
+  "thread_identifier": 1936,
+  "function_address": "0x006673a2",
+  "flags": 4,
+  "parameter": "0x0013e978",
+  "stack_size": 0
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x775c77a0",
+  "function_name": "EnterCriticalSection"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x775c7760",
+  "function_name": "LeaveCriticalSection"
+}
+{
+  "ordinal": 0,
+  "module": "kernel32",
+  "module_address": "0x77490000",
+  "function_address": "0x774d0f1c",
+  "function_name": "ResumeThread"
+}
+{
+  "thread_handle": "0x000000bc",
+  "suspend_count": 1,
+  "process_identifier": 360
+}
+{
+  "handle": "0x000000bc"
+}
+{
+  "free_type": 32768,
+  "process_identifier": 360,
+  "process_handle": "0xffffffff",
+  "base_address": "0x00620000",
+  "size": 143360
+}
